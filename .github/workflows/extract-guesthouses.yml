@@ -1,0 +1,34 @@
+# One-off: copies the Anakob and Mango guesthouse sections from the owner's
+# earlier site into docs/guesthouses-source/.
+name: Extract guesthouses
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/extract-guesthouses.mjs
+      - .github/workflows/extract-guesthouses.yml
+
+permissions:
+  contents: write
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: |
+          npm i --no-save playwright@1.56.1
+          npx playwright install --with-deps chromium
+      - run: node scripts/extract-guesthouses.mjs
+      - run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/guesthouses-source
+          git diff --cached --quiet || git commit -m "Copy guesthouse sections from the owner's earlier site"
+          git pull --rebase origin main
+          git push
