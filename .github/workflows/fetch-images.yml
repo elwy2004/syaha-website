@@ -1,0 +1,28 @@
+# Runs `npm run images:verify` on a GitHub runner, which can reach Wikimedia
+# Commons, and commits the licence-checked photos and manifest.
+name: Fetch images
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - run: npm run images:verify
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/images src/content/image-manifest.json
+          git diff --cached --quiet || git commit -m "Add licence-checked photos from Wikimedia Commons"
+          git push
