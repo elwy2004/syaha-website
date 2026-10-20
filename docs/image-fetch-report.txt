@@ -3,56 +3,56 @@
 > tsx scripts/verify-images.ts
 
 
-accepted (4)
-  khufu: CC BY 2.5, Nina
-  giza-panorama: CC BY-SA 4.0, Ireneusz Jerzy Borysiewicz
-  gem: CC BY-SA 4.0, Mohamed abdelzaher
-  egyptian-museum: CC BY 3.0 pl, Radosław Botev
+accepted (20)
+  citadel: CC BY 4.0, E.Hassan
+  coptic-cairo: CC BY 3.0 pl, Radosław Botev
+  djoser: CC BY-SA 4.0, Dr. Ondřej Havelka (cestovatel)
+  karnak: CC BY 2.0, eviljohnius
+  luxor-temple: CC BY-SA 4.0, Ahmed hussein salleh
+  luxor-temple-sanctuary: CC BY 4.0, Vyacheslav Argenberg
+  avenue-sphinxes: CC BY-SA 4.0, Mohamedibrahem2025
+  luxor-museum: Public domain, ولاء
+  mummification-museum: CC BY-SA 4.0, MoGamal11
+  hatshepsut: CC BY 4.0, Vyacheslav Argenberg
+  colossi: CC BY 2.0, Ray in Manila
+  medinet-habu: CC BY-SA 4.0, Sara Nabih
+  ramesseum: CC BY-SA 4.0, Bilal Detailz
+  deir-el-medina: CC BY-SA 4.0, Diego Delso
+  valley-kings: CC BY-SA 3.0, Wouter Hagens
+  kv2: CC BY 3.0, Tim Adams
+  tutankhamun: CC BY-SA 4.0, Photo by: Yassmin Anwar / تصوير: ياسمين أنور
+  valley-queens: Public domain, Original uploader was User:Kingtut at hu.wikipedia
+  dendera: Public domain, ولاء
+  esna: CC BY-SA 4.0, Harby6020
 
-refused (33)
-  abdeen: Commons API returned 429
-  manial: Commons API returned 429
-  citadel: Commons API returned 429
-  muhammad-ali: Commons API returned 429
-  sultan-hassan: Commons API returned 429
-  rifai: Commons API returned 429
-  muizz: Commons API returned 429
-  khan: Commons API returned 429
-  hanging-church: Commons API returned 429
-  coptic-cairo: Commons API returned 429
-  ben-ezra: Commons API returned 429
-  cairo-felucca: Commons API returned 429
-  djoser: Commons API returned 429
-  dahshur: Commons API returned 429
-  memphis: Commons API returned 429
-  wadi-degla: Commons API returned 429
-  karnak: Commons API returned 429
-  luxor-temple: Commons API returned 429
-  luxor-temple-sanctuary: Commons API returned 429
-  avenue-sphinxes: Commons API returned 429
-  luxor-museum: Commons API returned 429
-  mummification-museum: Commons API returned 429
-  hatshepsut: Commons API returned 429
-  colossi: Commons API returned 429
-  medinet-habu: Commons API returned 429
-  ramesseum: Commons API returned 429
-  deir-el-medina: Commons API returned 429
-  valley-kings: Commons API returned 429
-  kv2: Commons API returned 429
-  tutankhamun: Commons API returned 429
-  valley-queens: Commons API returned 429
-  dendera: Commons API returned 429
-  esna: Commons API returned 429
+refused (0)
 
-missing (6)
+missing (19)
   giza-aerial: File:Giza pyramid complex (aerial view).jpg does not exist
   khafre: File:Khafre Pyramid.JPG does not exist
   menkaure: File:Menkaure Pyramid.jpg does not exist
   sphinx: File:Great Sphinx of Giza.JPG does not exist
   nmec: File:National Museum of Egyptian Civilization.jpg does not exist
   islamic-art: File:Museum of Islamic Art Cairo.jpg does not exist
+  abdeen: File:Abdeen Palace Cairo.jpg does not exist
+  manial: File:Manial Palace Cairo.jpg does not exist
+  muhammad-ali: File:Mosque of Muhammad Ali Cairo.jpg does not exist
+  sultan-hassan: File:Sultan Hassan Mosque Cairo.jpg does not exist
+  rifai: File:Al-Rifa i Mosque Cairo.jpg does not exist
+  muizz: File:Al-Muizz Street Cairo.jpg does not exist
+  khan: File:Khan el-Khalili Cairo.jpg does not exist
+  hanging-church: File:The Hanging Church Cairo.jpg does not exist
+  ben-ezra: File:Ben Ezra Synagogue Cairo.jpg does not exist
+  cairo-felucca: File:Felucca on the Nile Cairo.jpg does not exist
+  dahshur: File:Bent Pyramid of Sneferu at Dahshur.jpg does not exist
+  memphis: File:Ramses II statue Memphis Egypt.jpg does not exist
+  wadi-degla: File:Wadi Degla Protectorate Egypt.jpg does not exist
 
-skipped (22)
+skipped (26)
+  khufu: already verified (use --refresh to check again)
+  giza-panorama: already verified (use --refresh to check again)
+  gem: already verified (use --refresh to check again)
+  egyptian-museum: already verified (use --refresh to check again)
   abu-haggag: The Luxor guide links a Luxor Temple sanctuary photograph for this mosque, so it was not used.
   nobles-tombs: The Luxor guide reused a Valley of the Kings photograph for this entry, so it was not used.
   asasif: The Luxor guide reused a Valley of the Kings photograph for this entry, so it was not used.

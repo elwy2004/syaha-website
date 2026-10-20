@@ -1,0 +1,1398 @@
+{
+  "giza-aerial": {
+    "subject": "Aerial view of the Giza pyramid complex",
+    "query": "Aerial view of the Giza pyramid complex",
+    "candidates": [
+      {
+        "file": "Spelterini Pyramids.jpg",
+        "preview": "giza-aerial-1.jpg",
+        "license": "Public domain",
+        "creator": "Eduard Spelterini",
+        "width": 1800,
+        "height": 1320
+      },
+      {
+        "file": "Giza, Dahshur and Saqqara - Giza8254.jpg",
+        "preview": "giza-aerial-2.jpg",
+        "license": "CC0",
+        "creator": "lumoplank",
+        "width": 3665,
+        "height": 2443
+      },
+      {
+        "file": "Air views of Palestine. Cairo and the pyramids. Great Pyramid of Kheops (i.e., Cheops) showing entrance on north side LOC matpc.15913.jpg",
+        "preview": "giza-aerial-3.jpg",
+        "license": "Public domain",
+        "creator": "Matson Collection",
+        "width": 4270,
+        "height": 3220
+      },
+      {
+        "file": "Air views of Palestine. Cairo and the pyramids. The Pyramids. Distant view showing the Mena House Hotel LOC matpc.15916.jpg",
+        "preview": "giza-aerial-4.jpg",
+        "license": "Public domain",
+        "creator": "Matson Collection",
+        "width": 4482,
+        "height": 3245
+      }
+    ]
+  },
+  "khafre": {
+    "subject": "The Pyramid of Khafre",
+    "query": "Pyramid of Khafre",
+    "candidates": [
+      {
+        "file": "Khafre Pyramid Giza.JPG",
+        "preview": "khafre-1.jpg",
+        "license": "CC BY-SA 3.0",
+        "creator": "Daaaveee",
+        "width": 2592,
+        "height": 1944
+      },
+      {
+        "file": "The Great Pyramid & The Pyramid of Khafre with the Great Sphinx in the foreground.jpg",
+        "preview": "khafre-2.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Slyronit",
+        "width": 4032,
+        "height": 3024
+      },
+      {
+        "file": "Khafre's Pyramid & The Sphinx, 1984.jpg",
+        "preview": "khafre-3.jpg",
+        "license": "CC BY 2.0",
+        "creator": "Mike McBey",
+        "width": 1413,
+        "height": 838
+      },
+      {
+        "file": "Pyramid of Khafre and Sphinx, Giza, Greater Cairo, Egypt.jpg",
+        "preview": "khafre-4.jpg",
+        "license": "CC BY-SA 3.0",
+        "creator": "M1chu",
+        "width": 1280,
+        "height": 850
+      }
+    ]
+  },
+  "menkaure": {
+    "subject": "The Pyramid of Menkaure",
+    "query": "Pyramid of Menkaure",
+    "candidates": [
+      {
+        "file": "Menkaure's pyramid.jpg",
+        "preview": "menkaure-1.jpg",
+        "license": "CC BY-SA 3.0",
+        "creator": "kallerna",
+        "width": 3460,
+        "height": 1900
+      },
+      {
+        "file": "Pyramid of Menkaure at Giza - panoramio.jpg",
+        "preview": "menkaure-2.jpg",
+        "license": "CC BY 3.0",
+        "creator": "David Broad",
+        "width": 4288,
+        "height": 2848
+      },
+      {
+        "file": "Pyramid of Menkaure (50035374516).jpg",
+        "preview": "menkaure-3.jpg",
+        "license": "CC BY 2.0",
+        "creator": "Vincent Brown",
+        "width": 1920,
+        "height": 1280
+      },
+      {
+        "file": "Pyramid of Menkaure (29197729700).jpg",
+        "preview": "menkaure-4.jpg",
+        "license": "CC BY 2.0",
+        "creator": "Vincent Brown",
+        "width": 1920,
+        "height": 1274
+      }
+    ]
+  },
+  "sphinx": {
+    "subject": "The Great Sphinx of Giza",
+    "query": "Great Sphinx of Giza",
+    "candidates": [
+      {
+        "file": "Great Sphinx (أبو الهول).jpg",
+        "preview": "sphinx-1.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Petar Milošević",
+        "width": 5472,
+        "height": 3536
+      },
+      {
+        "file": "Great Sphinx of Giza (أبو الهول).jpg",
+        "preview": "sphinx-2.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Petar Milošević",
+        "width": 5472,
+        "height": 3648
+      },
+      {
+        "file": "The Great Sphinx, Pyramids of Gizeh-1839) by David Roberts, RA.jpg",
+        "preview": "sphinx-3.jpg",
+        "license": "Public domain",
+        "creator": "David Roberts",
+        "width": 2560,
+        "height": 1626
+      },
+      {
+        "file": "Sphinx partially excavated2.jpg",
+        "preview": "sphinx-4.jpg",
+        "license": "Public domain",
+        "creator": "Maison Bonfils (Beirut, Lebanon), photographers : Félix (1831-1885), his wife, Lydie (1837-1918) and his son, Adrien (1861-1929). Most possible done by Félix",
+        "width": 6453,
+        "height": 4741
+      }
+    ]
+  },
+  "nmec": {
+    "subject": "The National Museum of Egyptian Civilization",
+    "query": "National Museum of Egyptian Civilization",
+    "candidates": [
+      {
+        "file": "National Museum of Egyptian Civilization 2025 111.jpg",
+        "preview": "nmec-1.jpg",
+        "license": "CC BY 4.0",
+        "creator": "Nabbegat",
+        "width": 4000,
+        "height": 2256
+      },
+      {
+        "file": "National Museum of Egyptian Civilization 2025 98.jpg",
+        "preview": "nmec-2.jpg",
+        "license": "CC BY 4.0",
+        "creator": "Nabbegat",
+        "width": 4032,
+        "height": 2268
+      },
+      {
+        "file": "National Museum of Egyptian Civilization 2025 113.jpg",
+        "preview": "nmec-3.jpg",
+        "license": "CC BY 4.0",
+        "creator": "Nabbegat",
+        "width": 4032,
+        "height": 2268
+      },
+      {
+        "file": "National Museum of Egyptian Civilization 2025 35.jpg",
+        "preview": "nmec-4.jpg",
+        "license": "CC BY 4.0",
+        "creator": "Nabbegat",
+        "width": 4032,
+        "height": 2268
+      }
+    ]
+  },
+  "islamic-art": {
+    "subject": "The Museum of Islamic Art, Cairo",
+    "query": "Museum of Islamic Art, Cairo",
+    "candidates": [
+      {
+        "file": "Museum of Islamic Art, Cairo.jpg",
+        "preview": "islamic-art-1.jpg",
+        "license": "CC BY-SA 2.0",
+        "creator": "richardavis",
+        "width": 1280,
+        "height": 853
+      },
+      {
+        "file": "Museum of Islamic Art, Cairo – International Museum Day 16.jpg",
+        "preview": "islamic-art-2.jpg",
+        "license": "Public domain",
+        "creator": "Hassan Hamdy wahidy",
+        "width": 4160,
+        "height": 3120
+      },
+      {
+        "file": "Museum of Islamic Art, Cairo – International Museum Day 139.jpg",
+        "preview": "islamic-art-3.jpg",
+        "license": "Public domain",
+        "creator": "Hassan Hamdy wahidy",
+        "width": 4160,
+        "height": 3120
+      },
+      {
+        "file": "Museum of Islamic Art, Cairo – International Museum Day 93.jpg",
+        "preview": "islamic-art-4.jpg",
+        "license": "Public domain",
+        "creator": "Hassan Hamdy wahidy",
+        "width": 4032,
+        "height": 3024
+      }
+    ]
+  },
+  "abdeen": {
+    "subject": "Abdeen Palace, Cairo",
+    "query": "Abdeen Palace, Cairo",
+    "candidates": [
+      {
+        "file": "Abdeen Palace Cairo (52891275732).jpg",
+        "preview": "abdeen-1.jpg",
+        "license": "CC BY 2.0",
+        "creator": "Gary Bembridge from London, UK",
+        "width": 4032,
+        "height": 3024
+      },
+      {
+        "file": "Abdeen Palace Cairo (52892014274).jpg",
+        "preview": "abdeen-2.jpg",
+        "license": "CC BY 2.0",
+        "creator": "Gary Bembridge from London, UK",
+        "width": 4032,
+        "height": 3024
+      },
+      {
+        "file": "Abdeen Palace Cairo (52886181378).jpg",
+        "preview": "abdeen-3.jpg",
+        "license": "CC BY 2.0",
+        "creator": "Gary Bembridge from London, UK",
+        "width": 4032,
+        "height": 3024
+      },
+      {
+        "file": "GD-EG-Caire-Abedin001.JPG",
+        "preview": "abdeen-4.jpg",
+        "license": "CC BY-SA 2.5",
+        "creator": "Gérard Ducher (user:Néfermaât)",
+        "width": 1600,
+        "height": 1200
+      }
+    ]
+  },
+  "manial": {
+    "subject": "Manial Palace, Rhoda Island",
+    "query": "Manial Palace, Rhoda Island",
+    "candidates": [
+      {
+        "file": "Manial Palace.jpg",
+        "preview": "manial-1.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Youhana Nassif",
+        "width": 3089,
+        "height": 1707
+      },
+      {
+        "file": "Mohamed Abdelzaher-Mohamed Aly palace -.jpg",
+        "preview": "manial-2.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Mohamed abdelzaher",
+        "width": 5819,
+        "height": 4295
+      },
+      {
+        "file": "Mohamed Abdelzaher-mohamed aly palace.jpg",
+        "preview": "manial-3.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Mohamed abdelzaher",
+        "width": 5315,
+        "height": 3543
+      },
+      {
+        "file": "Mohamed abdelaher - wiki (2).jpg",
+        "preview": "manial-4.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Mohamed abdelzaher",
+        "width": 8268,
+        "height": 5512
+      }
+    ]
+  },
+  "muhammad-ali": {
+    "subject": "The Mosque of Muhammad Ali",
+    "query": "Mosque of Muhammad Ali",
+    "candidates": [
+      {
+        "file": "مسجد السلطان حسن ومسجد الرفاعى ومسجد محمد على.jpg",
+        "preview": "muhammad-ali-1.jpg",
+        "license": "CC BY-SA 3.0",
+        "creator": "Melaad2009",
+        "width": 4928,
+        "height": 3264
+      },
+      {
+        "file": "Muhammad Ali Mosque 1.jpg",
+        "preview": "muhammad-ali-2.jpg",
+        "license": "CC BY-SA 3.0",
+        "creator": "kallerna",
+        "width": 2994,
+        "height": 2220
+      },
+      {
+        "file": "Muhammad Ali Mosque, Citadel, Cairo, Egypt3.jpg",
+        "preview": "muhammad-ali-3.jpg",
+        "license": "CC BY-SA 3.0",
+        "creator": "Diego Delso",
+        "width": 3592,
+        "height": 1997
+      },
+      {
+        "file": "Muhammad Ali Mosque, Citadel, Cairo, Egypt5.jpg",
+        "preview": "muhammad-ali-4.jpg",
+        "license": "CC BY-SA 3.0",
+        "creator": "Diego Delso",
+        "width": 2574,
+        "height": 2454
+      }
+    ]
+  },
+  "sultan-hassan": {
+    "subject": "The Mosque-Madrasa of Sultan Hassan",
+    "query": "Mosque-Madrasa of Sultan Hassan",
+    "candidates": [
+      {
+        "file": "Al Sultan Hassan Mosque.jpg",
+        "preview": "sultan-hassan-1.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Basssant Meligy",
+        "width": 5642,
+        "height": 3761
+      },
+      {
+        "file": "Kairo Sultan Hassan Moschee BW 1.jpg",
+        "preview": "sultan-hassan-2.jpg",
+        "license": "CC BY 3.0",
+        "creator": "Berthold Werner",
+        "width": 2661,
+        "height": 2544
+      },
+      {
+        "file": "مسجد السلطان حسن ومسجد الرفاعى ومسجد محمد على.jpg",
+        "preview": "sultan-hassan-3.jpg",
+        "license": "CC BY-SA 3.0",
+        "creator": "Melaad2009",
+        "width": 4928,
+        "height": 3264
+      },
+      {
+        "file": "Sultan Hassan Mosque, Cairo, Egypt 05.jpg",
+        "preview": "sultan-hassan-4.jpg",
+        "license": "Public domain",
+        "creator": "Hassan Hamdy wahidy",
+        "width": 4032,
+        "height": 3024
+      }
+    ]
+  },
+  "rifai": {
+    "subject": "Al-Rifa'i Mosque",
+    "query": "Al-Rifa'i Mosque",
+    "candidates": [
+      {
+        "file": "Al-Rifa'i Mosque, Cairo 37.jpg",
+        "preview": "rifai-1.jpg",
+        "license": "Public domain",
+        "creator": "Hassan Hamdy wahidy",
+        "width": 4160,
+        "height": 3120
+      },
+      {
+        "file": "Al-Rifa'i Mosque, Cairo 27.jpg",
+        "preview": "rifai-2.jpg",
+        "license": "Public domain",
+        "creator": "Hassan Hamdy wahidy",
+        "width": 4160,
+        "height": 3120
+      }
+    ]
+  },
+  "muizz": {
+    "subject": "Al-Muizz Street",
+    "query": "Al-Muizz Street",
+    "candidates": [
+      {
+        "file": "Boys playing street football in Egypt.jpg",
+        "preview": "muizz-1.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Mohamed Hozyen Ahmed",
+        "width": 2958,
+        "height": 1929
+      },
+      {
+        "file": "Egypt, Cairo, Muizz Market Street, Islamic Cairo.jpg",
+        "preview": "muizz-2.jpg",
+        "license": "CC BY 4.0",
+        "creator": "Vyacheslav Argenberg",
+        "width": 3072,
+        "height": 2048
+      },
+      {
+        "file": "Muizz street, photo by Hatem Moushir 31.jpg",
+        "preview": "muizz-3.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Hatem Moushir",
+        "width": 6000,
+        "height": 4000
+      },
+      {
+        "file": "Al Qasby Alley at the corner with Muizz Street 01.jpg",
+        "preview": "muizz-4.jpg",
+        "license": "CC BY 4.0",
+        "creator": "Marsupium",
+        "width": 4000,
+        "height": 3000
+      }
+    ]
+  },
+  "khan": {
+    "subject": "Khan el-Khalili bazaar",
+    "query": "Khan el-Khalili bazaar",
+    "candidates": [
+      {
+        "file": "Khan el-Khalili 2019.jpg",
+        "preview": "khan-1.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Mohammed Moussa",
+        "width": 4603,
+        "height": 4000
+      },
+      {
+        "file": "Flickr - HuTect ShOts - Khan El-Khalili Street شارع خان الخليلي - Cairo - Egypt - 09 04 2010.jpg",
+        "preview": "khan-2.jpg",
+        "license": "CC BY-SA 2.0",
+        "creator": "Ahmed Al.Badawy from Cairo, Egypt",
+        "width": 4000,
+        "height": 2238
+      },
+      {
+        "file": "Flickr - HuTect ShOts - Khan El-Khalili Street شارع خان الخليلي - Cairo - Egypt - 09 04 2010 (1).jpg",
+        "preview": "khan-3.jpg",
+        "license": "CC BY-SA 2.0",
+        "creator": "Ahmed Al.Badawy from Cairo, Egypt",
+        "width": 3648,
+        "height": 2248
+      },
+      {
+        "file": "Flickr - Gaspa - Cairo, Bazar el-Khalili.jpg",
+        "preview": "khan-4.jpg",
+        "license": "CC BY 2.0",
+        "creator": "Francesco Gasparetti from Senigallia, Italy",
+        "width": 2048,
+        "height": 1361
+      }
+    ]
+  },
+  "hanging-church": {
+    "subject": "The Hanging Church, Coptic Cairo",
+    "query": "Hanging Church, Coptic Cairo",
+    "candidates": [
+      {
+        "file": "Cairo - Coptic area - Hanging Church from courtyard.JPG",
+        "preview": "hanging-church-1.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Daniel Mayer",
+        "width": 2486,
+        "height": 2252
+      },
+      {
+        "file": "The Hanging Church, Old Cairo.jpg",
+        "preview": "hanging-church-2.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Keith Reyd",
+        "width": 3024,
+        "height": 1674
+      },
+      {
+        "file": "Hanging Church,Coptic Cairo.jpg",
+        "preview": "hanging-church-3.jpg",
+        "license": "CC BY-SA 3.0",
+        "creator": "Bertramz",
+        "width": 1600,
+        "height": 1071
+      },
+      {
+        "file": "Cairo - Coptic area - Hanging Church entrance.JPG",
+        "preview": "hanging-church-4.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Daniel Mayer",
+        "width": 2689,
+        "height": 2275
+      }
+    ]
+  },
+  "ben-ezra": {
+    "subject": "Ben Ezra Synagogue",
+    "query": "Ben Ezra Synagogue",
+    "candidates": [
+      {
+        "file": "Ben Ezra Synagogue-1.jpg",
+        "preview": "ben-ezra-1.jpg",
+        "license": "CC BY-SA 3.0",
+        "creator": "Faris knight",
+        "width": 1600,
+        "height": 1200
+      },
+      {
+        "file": "By ovedc - Ben Ezra Synagogue - 08.jpg",
+        "preview": "ben-ezra-2.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Ovedc",
+        "width": 5312,
+        "height": 2988
+      },
+      {
+        "file": "BenEzraAnnex.jpg",
+        "preview": "ben-ezra-3.jpg",
+        "license": "CC BY-SA 3.0",
+        "creator": "Zerida at English Wikipedia (Original text: — Zerida)",
+        "width": 1818,
+        "height": 1228
+      },
+      {
+        "file": "By ovedc - Ben Ezra Synagogue - 02.jpg",
+        "preview": "ben-ezra-4.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Ovedc",
+        "width": 5312,
+        "height": 2988
+      }
+    ]
+  },
+  "cairo-felucca": {
+    "subject": "A felucca on the Nile in Cairo",
+    "query": "A felucca on the Nile in Cairo",
+    "candidates": [
+      {
+        "file": "FELUCCA NILE TRIP (2).jpg",
+        "preview": "cairo-felucca-1.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Myousry6666",
+        "width": 5315,
+        "height": 3543
+      },
+      {
+        "file": "Cairo (Masr), fleet of native boats of the Nile matpc.01482u.jpg",
+        "preview": "cairo-felucca-2.jpg",
+        "license": "Public domain",
+        "creator": "American Colony (Jerusalem). Photo Dept., photographer.",
+        "width": 3540,
+        "height": 3473
+      },
+      {
+        "file": "The Nile postcard Cairo.jpg",
+        "preview": "cairo-felucca-3.jpg",
+        "license": "Public domain",
+        "creator": "Unknown authorUnknown author",
+        "width": 3243,
+        "height": 2090
+      },
+      {
+        "file": "Boats on the Nile by Facchinelli.jpg",
+        "preview": "cairo-felucca-4.jpg",
+        "license": "Public domain",
+        "creator": "Facchinelli, Beniamino 1829?-1895?",
+        "width": 2727,
+        "height": 1965
+      }
+    ]
+  },
+  "dahshur": {
+    "subject": "The Bent Pyramid of Sneferu, Dahshur",
+    "query": "Bent Pyramid of Sneferu, Dahshur",
+    "candidates": [
+      {
+        "file": "Sneferu's Bent Pyramid, Giza, Egypt.png",
+        "preview": "dahshur-1.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Mohamed abdelzaher",
+        "width": 2025,
+        "height": 1350
+      },
+      {
+        "file": "Bent Pyramid of Snofru.jpg",
+        "preview": "dahshur-2.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Darer101",
+        "width": 4608,
+        "height": 3072
+      },
+      {
+        "file": "Sneferu's Bent Pyramid & Red Pyramid, Giza, Egypt.png",
+        "preview": "dahshur-3.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Mohamed abdelzaher",
+        "width": 2430,
+        "height": 681
+      },
+      {
+        "file": "Dahshur, Sneferus Bent pyramid (6201569240).jpg",
+        "preview": "dahshur-4.jpg",
+        "license": "CC BY 2.0",
+        "creator": "Arian Zwegers from Brussels, Belgium",
+        "width": 1704,
+        "height": 1164
+      }
+    ]
+  },
+  "memphis": {
+    "subject": "Colossal statue of Ramesses II, Memphis",
+    "query": "Colossal statue of Ramesses II, Memphis",
+    "candidates": [
+      {
+        "file": "Colossus Of Ramesses (235168871).jpeg",
+        "preview": "memphis-1.jpg",
+        "license": "CC BY 3.0",
+        "creator": "Ahnaf Saber",
+        "width": 2048,
+        "height": 1562
+      },
+      {
+        "file": "Memphis, Pharaoh Rameses II, Ancient Egypt.jpg",
+        "preview": "memphis-2.jpg",
+        "license": "CC BY 4.0",
+        "creator": "Vyacheslav Argenberg",
+        "width": 3072,
+        "height": 2048
+      },
+      {
+        "file": "Miscellanea, Memphis, Fotografie '900, photo 1 of 1 - Archivio fotografico Museo Egizio, Turin - Museo di antropologia UniTo MAFM 0317.jpg",
+        "preview": "memphis-3.jpg",
+        "license": "CC0",
+        "creator": "",
+        "width": 1280,
+        "height": 1095
+      },
+      {
+        "file": "Kolosstatue Ramses II Memphis.jpg",
+        "preview": "memphis-4.jpg",
+        "license": "CC BY-SA 3.0",
+        "creator": "Dominik Knippel, de:Niedernberg",
+        "width": 1600,
+        "height": 1200
+      }
+    ]
+  },
+  "wadi-degla": {
+    "subject": "Wadi Degla Protectorate",
+    "query": "Wadi Degla Protectorate",
+    "candidates": [
+      {
+        "file": "Wadi Degla Protectorate By Hatem Moushir 4.jpg",
+        "preview": "wadi-degla-1.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Hatem Moushir",
+        "width": 4032,
+        "height": 3024
+      },
+      {
+        "file": "Wadi Degla Protectorate By Hatem Moushir 8.jpg",
+        "preview": "wadi-degla-2.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Hatem Moushir",
+        "width": 4032,
+        "height": 3024
+      },
+      {
+        "file": "Wadi degla protectorate By Hatem Moushir 1.jpg",
+        "preview": "wadi-degla-3.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Hatem Moushir",
+        "width": 4032,
+        "height": 3024
+      },
+      {
+        "file": "Wadi degla protectorate By Hatem Moushir 2.jpg",
+        "preview": "wadi-degla-4.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Hatem Moushir",
+        "width": 4032,
+        "height": 3024
+      }
+    ]
+  },
+  "abu-haggag": {
+    "subject": "Abu Haggag Mosque within the Luxor Temple precinct",
+    "query": "Abu Haggag Mosque within the Luxor Temple precinct",
+    "candidates": []
+  },
+  "nobles-tombs": {
+    "subject": "Tombs of the Nobles, Luxor West Bank",
+    "query": "Tombs of the Nobles, Luxor West Bank",
+    "candidates": [
+      {
+        "file": "Thebes, Luxor, Egypt, Theban Necropolis in Deir el-Medina.jpg",
+        "preview": "nobles-tombs-1.jpg",
+        "license": "CC BY 4.0",
+        "creator": "Vyacheslav Argenberg",
+        "width": 3072,
+        "height": 2048
+      },
+      {
+        "file": "Thebes tombs (2007-05-511).jpg",
+        "preview": "nobles-tombs-2.jpg",
+        "license": "CC BY 2.0",
+        "creator": "Vyacheslav Stepanyuchenko from Rostov-on-Don, Russian Federation",
+        "width": 2048,
+        "height": 1365
+      }
+    ]
+  },
+  "asasif": {
+    "subject": "Asasif Necropolis",
+    "query": "Asasif Necropolis",
+    "candidates": [
+      {
+        "file": "Remains of a temple of Ramesses in Asasif.jpg",
+        "preview": "asasif-1.jpg",
+        "license": "Public domain",
+        "creator": "William Compton, 5th Marquess of Northampton / Wilhelm Spiegelberg / Percy Newberry",
+        "width": 1865,
+        "height": 1324
+      },
+      {
+        "file": "ThebanNecroD5.jpg",
+        "preview": "asasif-2.jpg",
+        "license": "Public domain",
+        "creator": "Egyptian General Survey Authority (Maṣlaḥat al-Misāḥah)",
+        "width": 12800,
+        "height": 10800
+      },
+      {
+        "file": "Ramesside temple Assassif plan 1914.jpg",
+        "preview": "asasif-3.jpg",
+        "license": "Public domain",
+        "creator": "Herbert E. Winlock",
+        "width": 1341,
+        "height": 1340
+      },
+      {
+        "file": "SFEC AEH -ThebesNecropolis-2010-FULL-Overview-039.jpg",
+        "preview": "asasif-4.jpg",
+        "license": "CC BY 3.0",
+        "creator": "Steve F-E-Cameron",
+        "width": 3264,
+        "height": 2448
+      }
+    ]
+  },
+  "luxor-corniche": {
+    "subject": "The Nile at Luxor",
+    "query": "Nile at Luxor",
+    "candidates": [
+      {
+        "file": "Nile Luxor R19.jpg",
+        "preview": "luxor-corniche-1.jpg",
+        "license": "CC BY 3.0",
+        "creator": "Marc Ryckaert",
+        "width": 3884,
+        "height": 2452
+      },
+      {
+        "file": "Luxor Nile R01.jpg",
+        "preview": "luxor-corniche-2.jpg",
+        "license": "CC BY 3.0",
+        "creator": "Marc Ryckaert",
+        "width": 3872,
+        "height": 2375
+      },
+      {
+        "file": "Luxor Nile R03.jpg",
+        "preview": "luxor-corniche-3.jpg",
+        "license": "CC BY-SA 1.0",
+        "creator": "Marc Ryckaert (MJJR)",
+        "width": 3036,
+        "height": 1984
+      },
+      {
+        "file": "Luxor Nile R02.jpg",
+        "preview": "luxor-corniche-4.jpg",
+        "license": "CC BY 3.0",
+        "creator": "Marc Ryckaert (MJJR)",
+        "width": 3876,
+        "height": 2431
+      }
+    ]
+  },
+  "philae": {
+    "subject": "Temple of Isis at Philae, Agilkia Island",
+    "query": "Temple of Isis at Philae, Agilkia Island",
+    "candidates": [
+      {
+        "file": "Temple of Isis in Philae.jpg",
+        "preview": "philae-1.jpg",
+        "license": "CC BY-SA 3.0",
+        "creator": "M.ramadan2014",
+        "width": 5127,
+        "height": 3399
+      },
+      {
+        "file": "Philae Temple R05.jpg",
+        "preview": "philae-2.jpg",
+        "license": "CC BY 3.0",
+        "creator": "Marc Ryckaert",
+        "width": 3616,
+        "height": 2396
+      },
+      {
+        "file": "Philae Temple R03.jpg",
+        "preview": "philae-3.jpg",
+        "license": "CC BY 3.0",
+        "creator": "Marc Ryckaert",
+        "width": 3831,
+        "height": 2000
+      },
+      {
+        "file": "Temple of Isis, Philae Temple Complex, Agilkia Island, Aswan, AG, EGY (48026878121).jpg",
+        "preview": "philae-4.jpg",
+        "license": "CC0",
+        "creator": "Warren LeMay from Cullowhee, NC, United States",
+        "width": 4032,
+        "height": 3024
+      }
+    ]
+  },
+  "unfinished-obelisk": {
+    "subject": "The Unfinished Obelisk, Aswan",
+    "query": "Unfinished Obelisk, Aswan",
+    "candidates": [
+      {
+        "file": "Assuan Unvollendeter Obelisk 34.jpg",
+        "preview": "unfinished-obelisk-1.jpg",
+        "license": "CC BY 3.0",
+        "creator": "Olaf Tausch",
+        "width": 4608,
+        "height": 3453
+      },
+      {
+        "file": "Obelisco inacabado, Asuán, Egipto, 2022-04-01, DD 166.jpg",
+        "preview": "unfinished-obelisk-2.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Diego Delso",
+        "width": 8211,
+        "height": 5474
+      },
+      {
+        "file": "Obelisco inacabado, Asuán, Egipto, 2022-04-01, DD 167.jpg",
+        "preview": "unfinished-obelisk-3.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Diego Delso",
+        "width": 8327,
+        "height": 5146
+      },
+      {
+        "file": "Obelisco inacabado, Asuán, Egipto, 2022-04-01, DD 154.jpg",
+        "preview": "unfinished-obelisk-4.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Diego Delso",
+        "width": 5798,
+        "height": 4127
+      }
+    ]
+  },
+  "high-dam": {
+    "subject": "The Aswan High Dam",
+    "query": "Aswan High Dam",
+    "candidates": [
+      {
+        "file": "02010 05878 Aswan High Dam.jpg",
+        "preview": "high-dam-1.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Silar",
+        "width": 1780,
+        "height": 1188
+      },
+      {
+        "file": "Aswan High Dam-1.jpg",
+        "preview": "high-dam-2.jpg",
+        "license": "CC BY-SA 3.0",
+        "creator": "شرف الدين",
+        "width": 2592,
+        "height": 1944
+      },
+      {
+        "file": "Power plant at Aswan High Dam, Aswan, Egypt.jpg",
+        "preview": "high-dam-3.jpg",
+        "license": "CC BY 4.0",
+        "creator": "Vyacheslav Argenberg",
+        "width": 3072,
+        "height": 2048
+      },
+      {
+        "file": "Power plant, Aswan High Dam, Aswan, Egypt.jpg",
+        "preview": "high-dam-4.jpg",
+        "license": "CC BY 4.0",
+        "creator": "Vyacheslav Argenberg",
+        "width": 3072,
+        "height": 2048
+      }
+    ]
+  },
+  "nubia-museum": {
+    "subject": "Nubia Museum, Aswan",
+    "query": "Nubia Museum, Aswan",
+    "candidates": [
+      {
+        "file": "Aswan Nubian Museum entrance.jpg",
+        "preview": "nubia-museum-1.jpg",
+        "license": "CC BY 3.0",
+        "creator": "Marc Ryckaert",
+        "width": 3172,
+        "height": 2134
+      },
+      {
+        "file": "Nubia Museum 1161D.jpg",
+        "preview": "nubia-museum-2.jpg",
+        "license": "CC BY-SA 3.0",
+        "creator": "JMCC1",
+        "width": 4000,
+        "height": 3000
+      },
+      {
+        "file": "GD-EG-Musée Nubien001.JPG",
+        "preview": "nubia-museum-3.jpg",
+        "license": "CC BY-SA 2.5",
+        "creator": "",
+        "width": 1600,
+        "height": 1200
+      },
+      {
+        "file": "Nubisches Museum Assuan.JPG",
+        "preview": "nubia-museum-4.jpg",
+        "license": "CC BY-SA 3.0",
+        "creator": "Horstblaesius",
+        "width": 2048,
+        "height": 1536
+      }
+    ]
+  },
+  "elephantine": {
+    "subject": "Elephantine Island, Aswan",
+    "query": "Elephantine Island, Aswan",
+    "candidates": [
+      {
+        "file": "Aswan, Elephantine, felucca, Egypt, Oct 2004.jpg",
+        "preview": "elephantine-1.jpg",
+        "license": "CC BY-SA 2.0",
+        "creator": "Przemyslaw \"Blueshade\" Idzkiewicz.",
+        "width": 1280,
+        "height": 803
+      },
+      {
+        "file": "Aswan Elephantine Island R02.jpg",
+        "preview": "elephantine-2.jpg",
+        "license": "CC BY 3.0",
+        "creator": "Marc Ryckaert",
+        "width": 3889,
+        "height": 2583
+      },
+      {
+        "file": "Aswan Elephantine Island R05.jpg",
+        "preview": "elephantine-3.jpg",
+        "license": "CC BY 3.0",
+        "creator": "Marc Ryckaert (MJJR)",
+        "width": 3888,
+        "height": 2318
+      },
+      {
+        "file": "Aswan Elephantine Island R03.jpg",
+        "preview": "elephantine-4.jpg",
+        "license": "CC BY 3.0",
+        "creator": "Marc Ryckaert (MJJR)",
+        "width": 3888,
+        "height": 2582
+      }
+    ]
+  },
+  "botanical-garden": {
+    "subject": "Aswan Botanical Garden, Kitchener's Island",
+    "query": "Aswan Botanical Garden, Kitchener's Island",
+    "candidates": [
+      {
+        "file": "Aswan Kitchener Island R01.jpg",
+        "preview": "botanical-garden-1.jpg",
+        "license": "CC BY 3.0",
+        "creator": "Marc Ryckaert (MJJR)",
+        "width": 3668,
+        "height": 2530
+      },
+      {
+        "file": "Aswan Kitchener's Island Botanical Garden.jpg",
+        "preview": "botanical-garden-2.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Pierre André Leclercq",
+        "width": 2084,
+        "height": 1314
+      },
+      {
+        "file": "Aswan Botanical Garden 06.jpg",
+        "preview": "botanical-garden-3.jpg",
+        "license": "CC BY 3.0",
+        "creator": "Olaf Tausch",
+        "width": 4135,
+        "height": 3099
+      },
+      {
+        "file": "Aswan Botanical Garden 13.jpg",
+        "preview": "botanical-garden-4.jpg",
+        "license": "CC BY 3.0",
+        "creator": "Olaf Tausch",
+        "width": 4361,
+        "height": 3271
+      }
+    ]
+  },
+  "aswan-felucca": {
+    "subject": "Feluccas on the Nile at Aswan",
+    "query": "Feluccas on the Nile at Aswan",
+    "candidates": [
+      {
+        "file": "Aswan, Elephantine, felucca, Egypt, Oct 2004.jpg",
+        "preview": "aswan-felucca-1.jpg",
+        "license": "CC BY-SA 2.0",
+        "creator": "Przemyslaw \"Blueshade\" Idzkiewicz.",
+        "width": 1280,
+        "height": 803
+      },
+      {
+        "file": "Aswan Nile R23.jpg",
+        "preview": "aswan-felucca-2.jpg",
+        "license": "CC BY 3.0",
+        "creator": "Marc Ryckaert (MJJR)",
+        "width": 3888,
+        "height": 2582
+      },
+      {
+        "file": "Aswan Nile R05.jpg",
+        "preview": "aswan-felucca-3.jpg",
+        "license": "CC BY 3.0",
+        "creator": "Marc Ryckaert (MJJR)",
+        "width": 3888,
+        "height": 2582
+      },
+      {
+        "file": "Aswan Nile R17.jpg",
+        "preview": "aswan-felucca-4.jpg",
+        "license": "CC BY 3.0",
+        "creator": "Marc Ryckaert (MJJR)",
+        "width": 3808,
+        "height": 2603
+      }
+    ]
+  },
+  "gharb-soheil": {
+    "subject": "Gharb Soheil Nubian village",
+    "query": "Gharb Soheil Nubian village",
+    "candidates": []
+  },
+  "qubbet-el-hawa": {
+    "subject": "Qubbet el-Hawa and the Tombs of the Nobles, Aswan",
+    "query": "Qubbet el-Hawa and the Tombs of the Nobles, Aswan",
+    "candidates": [
+      {
+        "file": "Tombs of the Nobles.jpg",
+        "preview": "qubbet-el-hawa-1.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Zezinho68",
+        "width": 1639,
+        "height": 1045
+      },
+      {
+        "file": "Tombes nobles Assouan3.JPG",
+        "preview": "qubbet-el-hawa-2.jpg",
+        "license": "CC BY-SA 3.0",
+        "creator": "Rémih",
+        "width": 2048,
+        "height": 1536
+      },
+      {
+        "file": "Tombes nobles Assouan5.JPG",
+        "preview": "qubbet-el-hawa-3.jpg",
+        "license": "CC BY-SA 3.0",
+        "creator": "Rémih",
+        "width": 2048,
+        "height": 1536
+      },
+      {
+        "file": "Tombes nobles Assouan1.JPG",
+        "preview": "qubbet-el-hawa-4.jpg",
+        "license": "CC BY-SA 3.0",
+        "creator": "Rémih",
+        "width": 2048,
+        "height": 1536
+      }
+    ]
+  },
+  "st-simeon": {
+    "subject": "Monastery of St. Simeon, Aswan",
+    "query": "Monastery of St. Simeon, Aswan",
+    "candidates": [
+      {
+        "file": "The Monastery of St. Simeon, Aswan, Egypt.jpg",
+        "preview": "st-simeon-1.jpg",
+        "license": "CC BY 4.0",
+        "creator": "Vyacheslav Argenberg",
+        "width": 3072,
+        "height": 2048
+      },
+      {
+        "file": "The Monastery of St. Simeon, Walls, Aswan, Egypt.jpg",
+        "preview": "st-simeon-2.jpg",
+        "license": "CC BY 4.0",
+        "creator": "Vyacheslav Argenberg",
+        "width": 3072,
+        "height": 2048
+      },
+      {
+        "file": "The Monastery of St. Simeon, 7th century, Aswan, Egypt.jpg",
+        "preview": "st-simeon-3.jpg",
+        "license": "CC BY 4.0",
+        "creator": "Vyacheslav Argenberg",
+        "width": 3072,
+        "height": 2048
+      },
+      {
+        "file": "Assuan Simeonskloster 04.jpg",
+        "preview": "st-simeon-4.jpg",
+        "license": "CC BY 3.0",
+        "creator": "Olaf Tausch",
+        "width": 4378,
+        "height": 3285
+      }
+    ]
+  },
+  "aga-khan": {
+    "subject": "Aga Khan Mausoleum seen from the Nile",
+    "query": "Aga Khan Mausoleum seen from the Nile",
+    "candidates": [
+      {
+        "file": "Aswan Nile R28.jpg",
+        "preview": "aga-khan-1.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Marc Ryckaert",
+        "width": 3072,
+        "height": 2304
+      }
+    ]
+  },
+  "aswan-souq": {
+    "subject": "Aswan market and corniche",
+    "query": "Aswan market and corniche",
+    "candidates": []
+  },
+  "abu-simbel": {
+    "subject": "The Great Temple of Ramesses II, Abu Simbel",
+    "query": "Great Temple of Ramesses II, Abu Simbel",
+    "candidates": [
+      {
+        "file": "Templo de Ramsés II, Abu Simbel, Egipto, 2022-04-02, DD 26-28 HDR.jpg",
+        "preview": "abu-simbel-1.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Diego Delso",
+        "width": 7729,
+        "height": 5463
+      },
+      {
+        "file": "Templo de Ramsés II, Abu Simbel, Egipto, 2022-04-02, DD 74-76 HDR.jpg",
+        "preview": "abu-simbel-2.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Diego Delso",
+        "width": 8234,
+        "height": 4787
+      },
+      {
+        "file": "Templo de Ramsés II, Abu Simbel, Egipto, 2022-04-02, DD 03.jpg",
+        "preview": "abu-simbel-3.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Diego Delso",
+        "width": 7420,
+        "height": 3927
+      },
+      {
+        "file": "Templo de Ramsés II, Abu Simbel, Egipto, 2022-04-02, DD 59-61 HDR.jpg",
+        "preview": "abu-simbel-4.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Diego Delso",
+        "width": 7510,
+        "height": 5213
+      }
+    ]
+  },
+  "kalabsha": {
+    "subject": "Temple of Kalabsha, New Kalabsha",
+    "query": "Temple of Kalabsha, New Kalabsha",
+    "candidates": [
+      {
+        "file": "Kalabsha temple.png",
+        "preview": "kalabsha-1.jpg",
+        "license": "CC BY 2.5",
+        "creator": "David Mateos García",
+        "width": 1416,
+        "height": 834
+      },
+      {
+        "file": "Temple of Kalabsha (also Temple of Mandulis), built as a tribute to Mandulis, a lower Nubian sun god, around 30 BC during the reign of Augustus, New Kalabsha, Lake Nasser, Egypt.jpg",
+        "preview": "kalabsha-2.jpg",
+        "license": "CC BY-SA 2.0",
+        "creator": "Carole Raddato",
+        "width": 3936,
+        "height": 2624
+      },
+      {
+        "file": "Temple of Kalabsha (also Temple of Mandulis), built as a tribute to Mandulis, a Nubian sun god, under the Ptolemies and then around 30 BC during the reign of Augustus, New Kalabsha, Lake Nasser, Egypt - 51882758897.jpg",
+        "preview": "kalabsha-3.jpg",
+        "license": "CC BY-SA 2.0",
+        "creator": "Carole Raddato",
+        "width": 3936,
+        "height": 2624
+      }
+    ],
+    "error": "fetch failed"
+  },
+  "beit-el-wali": {
+    "subject": "Beit el-Wali rock temple",
+    "query": "Beit el-Wali rock temple",
+    "candidates": [
+      {
+        "file": "Temple of Beit el-Wali, a rock-cut temple in Nubia built by Pharaoh Ramesses II and dedicated to the deities of Amun-Re, Re-Horakhti, Khnum and Anuket, New Kalabsha, Lake Nasser, Egypt.jpg",
+        "preview": "beit-el-wali-1.jpg",
+        "license": "CC BY-SA 2.0",
+        "creator": "Carole Raddato",
+        "width": 3936,
+        "height": 2624
+      },
+      {
+        "file": "Temple of Beit el-Wali, a rock-cut temple in Nubia built by Pharaoh Ramesses II and dedicated to the deities of Amun-Re, Re-Horakhti, Khnum and Anuket, New Kalabsha, Lake Nasser, Egypt - 51887602356.jpg",
+        "preview": "beit-el-wali-2.jpg",
+        "license": "CC BY-SA 2.0",
+        "creator": "Carole Raddato",
+        "width": 3936,
+        "height": 2624
+      },
+      {
+        "file": "Temple of Beit el-Wali, a rock-cut temple in Nubia built by Pharaoh Ramesses II and dedicated to the deities of Amun-Re, Re-Horakhti, Khnum and Anuket, New Kalabsha, Lake Nasser, Egypt - 51887931554.jpg",
+        "preview": "beit-el-wali-3.jpg",
+        "license": "CC BY-SA 2.0",
+        "creator": "Carole Raddato",
+        "width": 3936,
+        "height": 2624
+      },
+      {
+        "file": "Temple of Beit el-Wali, a rock-cut temple in Nubia built by Pharaoh Ramesses II and dedicated to the deities of Amun-Re, Re-Horakhti, Khnum and Anuket, New Kalabsha, Lake Nasser, Egypt - 51886639077.jpg",
+        "preview": "beit-el-wali-4.jpg",
+        "license": "CC BY-SA 2.0",
+        "creator": "Carole Raddato",
+        "width": 3936,
+        "height": 2624
+      }
+    ]
+  },
+  "lake-nasser": {
+    "subject": "Lake Nasser",
+    "query": "Lake Nasser",
+    "candidates": [
+      {
+        "file": "Abu Simbel, Nefertari Temple, Lake Nasser, Egypt, Oct 2004.jpg",
+        "preview": "lake-nasser-1.jpg",
+        "license": "CC BY-SA 2.0",
+        "creator": "Przemyslaw \"Blueshade\" Idzkiewicz",
+        "width": 1280,
+        "height": 784
+      },
+      {
+        "file": "Lake Nasser in southern Egypt (iss069e004011).jpg",
+        "preview": "lake-nasser-2.jpg",
+        "license": "Public domain",
+        "creator": "NASA Johnson Space Center",
+        "width": 5568,
+        "height": 3712
+      },
+      {
+        "file": "Lake Nasser, Abu Simbel, AG, EGY (48016628768).jpg",
+        "preview": "lake-nasser-3.jpg",
+        "license": "CC0",
+        "creator": "Warren LeMay from Cullowhee, NC, United States",
+        "width": 4032,
+        "height": 3024
+      },
+      {
+        "file": "Model of the Egyptian Nile valley - Nubian Museum - Lake Nasser and Aswan.jpg",
+        "preview": "lake-nasser-4.jpg",
+        "license": "CC BY 4.0",
+        "creator": "Marsupium",
+        "width": 4032,
+        "height": 3024
+      }
+    ]
+  },
+  "kom-ombo": {
+    "subject": "Temple of Kom Ombo",
+    "query": "Temple of Kom Ombo",
+    "candidates": [
+      {
+        "file": "Kom Ombo 20.jpg",
+        "preview": "kom-ombo-1.jpg",
+        "license": "CC BY 3.0",
+        "creator": "Olaf Tausch",
+        "width": 3770,
+        "height": 2833
+      },
+      {
+        "file": "Kom Ombo 30.jpg",
+        "preview": "kom-ombo-2.jpg",
+        "license": "CC BY 3.0",
+        "creator": "Olaf Tausch",
+        "width": 4155,
+        "height": 3114
+      },
+      {
+        "file": "Kom Ombo Architrav 04.JPG",
+        "preview": "kom-ombo-3.jpg",
+        "license": "CC BY 3.0",
+        "creator": "Olaf Tausch",
+        "width": 4023,
+        "height": 3011
+      },
+      {
+        "file": "Kom Ombo Portal 03.JPG",
+        "preview": "kom-ombo-4.jpg",
+        "license": "CC BY 3.0",
+        "creator": "Olaf Tausch",
+        "width": 4203,
+        "height": 3153
+      }
+    ]
+  },
+  "edfu": {
+    "subject": "Temple of Horus at Edfu",
+    "query": "Temple of Horus at Edfu",
+    "candidates": [
+      {
+        "file": "Edfu Temple R04.jpg",
+        "preview": "edfu-1.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Marc Ryckaert",
+        "width": 4459,
+        "height": 2873
+      },
+      {
+        "file": "Edfu-Relief.jpg",
+        "preview": "edfu-2.jpg",
+        "license": "CC BY-SA 4.0",
+        "creator": "Steven C. Price",
+        "width": 4954,
+        "height": 3303
+      },
+      {
+        "file": "Temple of Edfu, Horus, Egypt.jpg",
+        "preview": "edfu-3.jpg",
+        "license": "CC BY 4.0",
+        "creator": "Vyacheslav Argenberg",
+        "width": 3072,
+        "height": 2048
+      },
+      {
+        "file": "Temple of Edfu, Statue of Horus 3, Egypt.jpg",
+        "preview": "edfu-4.jpg",
+        "license": "CC BY 4.0",
+        "creator": "Vyacheslav Argenberg",
+        "width": 3072,
+        "height": 2048
+      }
+    ]
+  }
+}
