@@ -1,0 +1,874 @@
+0000|Syaha Tour | Voyages sur mesure au Caire, à Louxor et à Assouan
+0001|Voyages sur mesure au Caire et à Gizeh, à Louxor, à Assouan et en Nubie. Découvrez nos itinéraires suggérés et demandez un devis adapté à vos dates et à vos centres d'intérêt.
+0002|Aller au contenu
+0003|Ouvrir le menu
+0004|Fermer le menu
+0005|Navigation principale
+0006|Navigation de pied de page
+0007|Langue
+0008|Fil d'Ariane
+0009|Illustration
+0010|Accueil
+0011|Destinations
+0012|Toutes les destinations
+0013|Expériences
+0014|Voyages suggérés
+0015|Voyages
+0016|Contact
+0017|Préparer votre voyage
+0018|Crédits photo
+0019|Découvrir
+0020|Voir le voyage
+0021|Tous les voyages suggérés
+0022|Demander un devis sur mesure
+0023|Préparer ce voyage
+0024|Préparer un voyage : {name}
+0025|Durée conseillée
+0026|Bon à savoir
+0027|Excursion à part
+0028|Durée
+0029|Destination
+0030|Points forts
+0031|Itinéraire suggéré
+0032|En savoir plus
+0033|Nous écrire sur WhatsApp
+0034|Haut de page
+0035|Monuments antiques
+0036|Monuments
+0037|Pyramides, temples et tombeaux royaux, fruits de cinq mille ans d'histoire.
+0038|Musées
+0039|Du Grand Musée égyptien au musée de la Nubie, en passant par les collections des palais.
+0040|Rencontres culturelles
+0041|Culture
+0042|Le Caire historique, l'héritage copte, les bazars et les villages nubiens.
+0043|Expériences sur le Nil
+0044|Le Nil
+0045|Felouques, jardins insulaires et trajets en bateau entre les temples.
+0046|Archéologie spécialisée
+0047|Spécialiste
+0048|Tombes des Nobles, premières pyramides et temples nubiens isolés, selon les conditions d'accès.
+0049|Le Caire · Louxor · Assouan
+0050|Merveilles antiques. Votre propre voyage en Égypte.
+0051|Découvrez Le Caire, Louxor et Assouan au fil de voyages soigneusement préparés autour de vos centres d'intérêt.
+0052|Préparer mon voyage
+0053|Découvrir les destinations
+0054|Par où souhaitez-vous commencer ?
+0055|Centre d'intérêt
+0056|Tous les centres d'intérêt
+0057|Voir les idées
+0058|Trois destinations
+0059|Un fleuve, trois chapitres de l'Égypte
+0060|Voyager avec Syaha Tour
+0061|Un voyage pensé pour vous, pas un départ figé
+0062|L'Égypte récompense ceux qui prennent leur temps. Plutôt que de vendre des départs fixes, nous construisons chaque programme selon vos dates, vos centres d'intérêt, la taille de votre groupe et votre budget, en nous appuyant sur des guides de préparation détaillés pour Le Caire et Gizeh, Louxor, Assouan et la Nubie.
+0063|Nous sommes transparents sur les détails qui comptent : quelles tombes exigent un billet spécial, quels sites demandent une journée à part, quels temples isolés nécessitent une organisation préalable. Les visites définitives dépendent toujours des horaires d'ouverture, de l'accès aux sites et de la billetterie en vigueur, et chaque devis précise clairement ce qui est inclus.
+0064|À votre rythme
+0065|Détendu ou actif, avec des pauses et moins de tombes pour les familles et les voyageurs à mobilité réduite.
+0066|Prestations clairement indiquées
+0067|Transport, guidage, billets, repas et bateaux sont détaillés ligne par ligne dans votre devis.
+0068|Des itinéraires réalistes
+0069|Nous évitons les allers-retours inutiles et ne concentrons jamais tous les sites en une seule journée.
+0070|Voyages suggérés
+0071|Des points de départ pour votre itinéraire
+0072|Chaque voyage est une suggestion que nous adaptons à vous. Les durées sont indicatives et chaque programme fait l'objet d'un devis individuel.
+0073|Voyagez selon vos passions
+0074|Comment ça marche
+0075|De la première idée à la proposition sur mesure
+0076|Parlez-nous de votre voyage
+0077|Indiquez vos dates, destinations, centres d'intérêt et rythme dans notre court formulaire.
+0078|Nous planifions et vérifions
+0079|Nous établissons un itinéraire et vérifions horaires, accès aux sites et billetterie selon les informations en vigueur.
+0080|Recevez votre proposition
+0081|Votre devis sur mesure détaille ce qui est inclus : transport, guidage, billets, repas, bateaux et hébergement le cas échéant.
+0082|Ajustons ensemble
+0083|Modifiez les journées jusqu'à ce que le voyage vous convienne. Rien n'est confirmé avant que vous soyez satisfait.
+0084|Questions pratiques
+0085|Bon à savoir avant de préparer
+0086|Commencez à préparer votre voyage en Égypte
+0087|Dites-nous où vous aimeriez aller et ce qui vous passionne. Nous élaborerons un itinéraire suggéré et vous enverrons un devis sur mesure.
+0088|S'agit-il de circuits fixes avec des dates de départ établies ?
+0089|Non. Chaque voyage présenté sur ce site est un itinéraire suggéré. Nous adaptons le programme à vos dates, vos centres d'intérêt, la taille de votre groupe et votre budget, et ne le confirmons qu'après avoir vérifié les conditions d'accès en vigueur.
+0090|Pourquoi n'affichez-vous pas de prix ?
+0091|Le prix des billets, l'accès aux tombes spéciales et le coût des transports évoluent, et dépendent de votre groupe et de vos choix. Nous établissons un devis individuel pour chaque voyage après vérification des informations officielles en vigueur, afin de vous proposer un montant sur lequel nous pouvons nous engager.
+0092|Que comprend un devis ?
+0093|Chaque devis indique clairement ce qui est inclus et ce qui ne l'est pas : transport, guidage, billets d'entrée, repas, transferts en bateau, hébergement le cas échéant, options et conditions d'annulation.
+0094|Pouvez-vous garantir l'accès à une tombe précise ?
+0095|Non. Dans la Vallée des Rois comme ailleurs, les tombes ouvertes un jour donné changent pour des raisons de conservation, et certaines exigent un billet spécial. Nous organisons la visite selon ce qui est ouvert et considérons les tombes citées comme des possibilités.
+0096|Combien de temps dure l'excursion à Abou Simbel ?
+0097|C'est une longue journée depuis Assouan, environ 280 à 300 km dans chaque sens, et généralement 10 à 12 heures au total. L'heure de départ dépend des modalités de transport en vigueur.
+0098|Peut-on visiter les temples du lac Nasser en une journée ?
+0099|En général, non. Les sites isolés comme Amada et Ouadi es-Seboua nécessitent souvent un bateau ou une excursion spécialisée, parfois avec une nuit sur place. Nous les organisons à l'avance lorsqu'un itinéraire peut être confirmé.
+0100|Nous voyageons avec des enfants ou avons une mobilité réduite. Pouvez-vous vous adapter ?
+0101|Oui. Nous réduisons le nombre de tombes, prévoyons des pauses et vérifions les distances à pied et les points de dépose. Indiquez-nous vos besoins dans le formulaire.
+0102|Dans quelles langues notre guide peut-il s'exprimer ?
+0103|Indiquez votre langue de guidage préférée dans le formulaire. Nous confirmons la disponibilité d'un guide dans cette langue dans votre devis.
+0104|Nos destinations
+0105|Trois destinations le long du Nil, chacune avec son caractère. Choisissez-en une pour découvrir ses sites, ou combinez-les en un voyage plus long.
+0106|Combiner les destinations
+0107|Beaucoup de voyageurs associent Le Caire et Louxor, ou Louxor et Assouan. Kom Ombo et Edfou se trouvent sur la route entre Assouan et Louxor et constituent des étapes naturelles vers le nord. Dites-nous quelles destinations vous intéressent et nous vous proposerons un ordre réaliste.
+0108|{count} lieux à découvrir
+0109|Carte schématique du Nil, du Caire à Assouan, sans échelle
+0110|Esna
+0111|Edfou
+0112|Kom Ombo
+0113|Lieux à découvrir
+0114|Parcourir par zone et par centre d'intérêt
+0115|Zone
+0116|Tous
+0117|{count} sur {total} affichés
+0118|Aucun résultat ne correspond aux deux filtres. Essayez une autre zone ou un autre centre d'intérêt.
+0119|Effacer les filtres
+0120|Expériences à ne pas manquer
+0121|Itinéraires suggérés
+0122|Découvrir {name}
+0123|Informations pratiques
+0124|Préparer {name}
+0125|Les horaires, billets et conditions d'accès évoluent. Nous vérifions les détails auprès de sources officielles, comme le ministère du Tourisme et des Antiquités, avant d'établir un devis.
+0126|Organisez vos journées : {name}
+0127|Indiquez-nous vos dates et vos centres d'intérêt, et nous élaborerons un itinéraire suggéré.
+0128|Voyager selon vos centres d'intérêt
+0129|Choisissez ce qui vous passionne le plus et laissez-vous guider, à travers les trois destinations.
+0130|{count} expériences
+0131|Aucune expérience ne correspond à ces filtres.
+0132|Itinéraires
+0133|Des itinéraires suggérés tirés de nos guides de destination. Ce sont des points de départ, pas des départs fixes : chaque voyage est adapté à vous et fait l'objet d'un devis individuel.
+0134|Ceci est un itinéraire suggéré, pas un départ programmé. Les visites définitives dépendent des horaires d'ouverture, de l'accès aux sites et de la billetterie en vigueur, et sont confirmées dans votre devis.
+0135|Aperçu
+0136|Jour par jour
+0137|Tout déplier
+0138|Tout replier
+0139|En option
+0140|Marche et rythme
+0141|L'effort physique varie selon les sites choisis. Nous le validerons avec vous lors de la préparation.
+0142|Options supplémentaires
+0143|Confirmé dans votre devis
+0144|Chaque devis détaille clairement ces éléments, pour que vous sachiez exactement ce qui est inclus.
+0145|Faites de ce voyage le vôtre
+0146|Demandez un devis sur mesure et nous adapterons cet itinéraire à vos dates, à votre rythme et à vos centres d'intérêt.
+0147|Lieux de ce voyage
+0148|Demande de voyage
+0149|Parlez-nous du voyage que vous imaginez. Cela prend environ trois minutes, sans engagement.
+0150|Et ensuite ?
+0151|Nous étudions votre demande et préparons un itinéraire suggéré.
+0152|Nous vérifions horaires, accès et billets selon les informations en vigueur.
+0153|Vous recevez un devis sur mesure qui détaille précisément ce qui est inclus.
+0154|Votre voyage
+0155|Vos préférences
+0156|Récapitulatif
+0157|Étape {current} sur {total}
+0158|Continuer
+0159|Retour
+0160|Envoyer ma demande
+0161|Envoi…
+0162|Modifier
+0163|Obligatoire
+0164|Veuillez vérifier les points suivants :
+0165|Quelles destinations vous intéressent ?
+0166|Choisissez-en une ou plusieurs.
+0167|Je ne sais pas encore
+0168|Voyage suggéré
+0169|Aucun voyage en particulier
+0170|Quand souhaitez-vous voyager ?
+0171|Dates précises
+0172|Dates flexibles
+0173|Date d'arrivée
+0174|Date de départ
+0175|Période approximative
+0176|Par exemple : fin mars, ou deux semaines en automne.
+0177|Adultes
+0178|Enfants
+0179|Âge des enfants
+0180|Durée approximative du voyage
+0181|1 à 3 jours
+0182|4 à 6 jours
+0183|7 à 9 jours
+0184|10 à 14 jours
+0185|15 jours et plus
+0186|Qu'est-ce qui vous intéresse le plus ?
+0187|Choisissez tout ce qui s'applique.
+0188|Photographie
+0189|Rythme souhaité
+0190|Détendu
+0191|Équilibré
+0192|Actif
+0193|Budget par personne
+0194|Facultatif. Cela nous aide à proposer des options adaptées.
+0195|Je préfère ne pas répondre
+0196|Modéré
+0197|Confortable
+0198|Premium
+0199|Luxe
+0200|Besoins d'accessibilité ou de mobilité
+0201|Facultatif. Par exemple : marche limitée, fauteuil roulant, sensibilité à la chaleur.
+0202|Nom complet
+0203|E-mail
+0204|Téléphone ou WhatsApp
+0205|Facultatif. Indiquez l'indicatif du pays, par exemple +44 20 7946 0000.
+0206|Moyen de contact préféré
+0207|Appel téléphonique
+0208|WhatsApp
+0209|Langue de guidage souhaitée
+0210|Nous confirmons la disponibilité d'un guide dans cette langue dans votre devis.
+0211|Autre chose à nous signaler ?
+0212|Célébrations, lieux déjà visités, centres d'intérêt particuliers…
+0213|J'accepte que Syaha Tour me contacte au sujet de cette demande.
+0214|Vérifiez votre demande
+0215|Veuillez vérifier vos informations avant l'envoi.
+0216|Choisissez au moins une destination, ou sélectionnez « Je ne sais pas encore ».
+0217|Indiquez votre date d'arrivée, ou passez aux dates flexibles.
+0218|La date de départ doit être postérieure à la date d'arrivée.
+0219|La date d'arrivée doit être dans le futur.
+0220|Indiquez-nous approximativement quand vous souhaitez voyager.
+0221|Au moins un adulte est requis.
+0222|Saisissez un nombre entre 0 et 20.
+0223|Choisissez une durée approximative.
+0224|Saisissez votre nom.
+0225|Saisissez une adresse e-mail valide.
+0226|Indiquez l'indicatif du pays, en commençant par +.
+0227|Ajoutez un numéro de téléphone pour être contacté par téléphone ou WhatsApp.
+0228|Veuillez donner votre accord pour que nous puissions répondre à votre demande.
+0229|Aperçu
+0230|Mode aperçu : les demandes ne sont pas encore envoyées
+0231|Le service de demandes de ce site n'est pas encore connecté : votre demande ne peut donc pas être transmise d'ici. Copiez ou téléchargez votre récapitulatif ci-dessous et envoyez-le directement à Syaha Tour.
+0232|Copier le récapitulatif
+0233|Copié
+0234|Télécharger le récapitulatif
+0235|Merci, votre demande a bien été reçue
+0236|Notre équipe va étudier votre projet et vous répondre par le moyen de contact choisi. Pensez à surveiller votre boîte de réception, y compris les courriers indésirables.
+0237|Référence
+0238|Votre demande n'a pas pu être envoyée
+0239|Rien n'est perdu : vos réponses sont toujours là. Veuillez réessayer, ou copiez votre récapitulatif et envoyez-le-nous directement.
+0240|Réessayer
+0241|Les demandes ne peuvent pas être transmises pour le moment
+0242|Trop de tentatives. Veuillez patienter quelques minutes avant de réessayer.
+0243|Oui
+0244|Non
+0245|Non renseigné
+0246|Nous contacter
+0247|Le meilleur moyen de nous joindre est le formulaire de préparation de voyage. Il nous donne tout ce dont nous avons besoin pour vous répondre avec des suggestions utiles.
+0248|Ouvrir le formulaire
+0249|Contact direct
+0250|Téléphone
+0251|Nos coordonnées directes apparaîtront bientôt ici. En attendant, merci d'utiliser le formulaire.
+0252|Nous créditons chaque photographie utilisée sur ce site. Les photographies sont réutilisées sous les licences indiquées, avec un lien vers leur page source d'origine.
+0253|Photographies
+0254|Aucune photographie de tiers n'est actuellement affichée.
+0255|Illustrations
+0256|Lorsqu'une photographie n'a pas encore été vérifiée pour réutilisation, le site affiche une illustration originale créée pour Syaha Tour. Ces illustrations ne sont pas des photographies des sites nommés.
+0257|Sujet
+0258|Auteur
+0259|Licence
+0260|Source
+0261|Photographie vérifiée en attente
+0262|Voyages sur mesure au Caire et à Gizeh, à Louxor, à Assouan et en Nubie.
+0263|Tous les itinéraires sont des suggestions. Horaires d'ouverture, prix des billets, accès aux sites et règles de photographie peuvent changer et sont confirmés avant la réservation.
+0264|Préparer
+0265|Syaha Tour
+0266|Cette page s'est égarée hors de la carte
+0267|La page que vous cherchez n'existe pas ou a été déplacée.
+0268|Retour à l'accueil
+0269|Le Caire & Gizeh
+0270|Le Caire
+0271|Pyramides, musées et patrimoine vivant
+0272|Préparez Le Caire et Gizeh avec Syaha Tour : les pyramides et le Sphinx, le Grand Musée égyptien, Le Caire historique et copte, et des excursions à Saqqarah, Memphis et Dahchour.
+0273|La capitale de l'Égypte concentre cinq mille ans d'histoire en une seule ville. Sur le plateau de Gizeh, les pyramides de Khéops, Khéphren et Mykérinos se dressent près du Grand Sphinx ; à quelques minutes, le Grand Musée égyptien rassemble les trésors des pharaons.
+0274|De l'autre côté du fleuve, la Citadelle, les mosquées mameloukes du Caire historique, la rue al-Muizz et les ruelles de Khan el-Khalili racontent une histoire plus tardive, tandis que les églises du Caire copte jouxtent les vestiges de la forteresse de Babylone. Hors de la ville, Saqqarah, Memphis et Dahchour retracent les débuts des pyramides.
+0275|Plateau de Gizeh
+0276|Les trois grandes pyramides, le Sphinx et les points de vue qui les relient.
+0277|Civilisation antique, art islamique et palais royaux.
+0278|Le Caire historique
+0279|La Citadelle, les mosquées mameloukes et le vieux bazar.
+0280|Héritage copte
+0281|Églises, une synagogue historique et la forteresse de Babylone.
+0282|Excursions en option
+0283|Les premières pyramides, l'antique Memphis, le Nil et le désert.
+0284|Commencer par le plateau
+0285|Commencez par le point de vue panoramique pour voir les trois pyramides ensemble, puis promenez-vous entre elles avec un guide qui explique comment et pourquoi elles ont été construites.
+0286|Deux grands musées
+0287|Associez le Grand Musée égyptien au musée national de la Civilisation égyptienne et sa salle des momies royales, ou au musée égyptien historique de Tahrir.
+0288|Le Caire à pied
+0289|La rue al-Muizz se découvre lentement : mosquées, madrasas et portes de plusieurs époques islamiques, jusqu'aux ruelles de Khan el-Khalili.
+0290|Sites distincts, journées distinctes
+0291|Saqqarah, Memphis et Dahchour se trouvent hors du centre du Caire. Prévoyez-leur une journée complète plutôt que de les ajouter à une visite de Gizeh.
+0292|Billets spéciaux
+0293|L'entrée dans la Grande Pyramide, certaines sections de musées et les tombes spéciales nécessitent des billets séparés, avec leurs propres règles. Nous vérifions la disponibilité avant de les inclure.
+0294|Tenue et usages
+0295|Les mosquées et les églises demandent une tenue respectueuse. Votre guide vous explique les règles de visite sur chaque site.
+0296|Ce que couvre un devis
+0297|Transport, guidage, billets d'entrée, déjeuner, boissons et promenades en bateau sont détaillés ligne par ligne, pour que vous sachiez exactement ce qui est inclus.
+0298|Louxor
+0299|Temples, tombeaux royaux et Thèbes antique
+0300|Préparez Louxor avec Syaha Tour : Karnak et le temple de Louxor sur la rive est, la Vallée des Rois, le temple d'Hatchepsout et les tombes des Nobles sur la rive ouest, avec un itinéraire suggéré de trois jours.
+0301|Louxor est l'un des plus grands paysages archéologiques à ciel ouvert du monde. Sur la rive est, Karnak et le temple de Louxor sont reliés par l'allée des Sphinx ; de l'autre côté du Nil, la rive ouest abrite les tombeaux royaux et les temples funéraires de l'antique Thèbes.
+0302|La plupart des voyageurs ont besoin de trois jours pour bien la découvrir : un pour les temples et musées de la rive est, un pour la Vallée des Rois et le temple d'Hatchepsout, et un pour Médinet Habou, le village des artisans et une sélection judicieuse de tombes des Nobles.
+0303|Rive est
+0304|Karnak, le temple de Louxor, l'allée des Sphinx et deux beaux musées.
+0305|Temples de la rive ouest
+0306|Hatchepsout, les colosses, Médinet Habou, le Ramesseum et Deir el-Médineh.
+0307|Tombeaux royaux
+0308|La Vallée des Rois et la Vallée des Reines, avec billets spéciaux en option.
+0309|Patrimoine pour spécialistes
+0310|Tombes des Nobles et nécropoles plus tranquilles, selon les conditions d'accès.
+0311|Excursions à part
+0312|Dendérah au nord et Esna au sud.
+0313|Une matinée sans hâte à Karnak
+0314|La grande salle hypostyle, le lac sacré et les obélisques méritent du temps. Prévoyez deux à trois heures, davantage si vous aimez l'archéologie.
+0315|Choisir vos tombeaux royaux
+0316|Un billet standard pour la Vallée des Rois donne accès à une sélection de tombes. Des tombes spéciales comme celles de Toutânkhamon et de Séthi Ier peuvent être ajoutées séparément lorsqu'elles sont ouvertes.
+0317|La vie quotidienne en peinture
+0318|À Deir el-Médineh et dans les tombes des Nobles, des scènes d'agriculture, d'artisanat et de cérémonies montrent comment vivaient les Égyptiens ordinaires.
+0319|Traverser vers la rive ouest
+0320|Nous organisons un véhicule après la traversée du fleuve, ou une traversée en bateau reliée à un transport local, et planifions l'itinéraire pour éviter les allers-retours.
+0321|Billets standard et billets spéciaux
+0322|Le billet standard de la Vallée des Rois n'inclut pas toutes les tombes. Toutânkhamon, Séthi Ier et Néfertari peuvent nécessiter un billet spécial, et la sélection ouverte change pour des raisons de conservation. Les tombes citées sont des possibilités, pas des garanties.
+0323|Tombes et chaleur
+0324|Prévoyez des marches, des passages étroits et de la chaleur. Des chaussures confortables, de l'eau et un départ matinal font une vraie différence.
+0325|Des restrictions ou des frais supplémentaires peuvent s'appliquer sur certains sites. Nous vérifions les règles en vigueur pour votre visite.
+0326|Montgolfière
+0327|Proposée en option selon la météo, les autorisations et la disponibilité de l'opérateur. Jamais confirmée tant que l'opérateur ne l'a pas fait.
+0328|Assouan & Nubie
+0329|Assouan
+0330|Îles du Nil, culture nubienne et Abou Simbel
+0331|Préparez Assouan et la Nubie avec Syaha Tour : Philae, les villages nubiens, les balades en felouque, les tombes des Nobles, une journée complète à Abou Simbel et des voyages spécialisés sur le lac Nasser.
+0332|C'est à Assouan que le Nil est le plus beau, coulant entre des rochers de granit et des îles verdoyantes. On rejoint le temple d'Isis à Philae en bateau, les felouques glissent devant Éléphantine, et à Gharb Soheil les maisons peintes d'un village nubien accueillent les visiteurs.
+0333|Au sud de la ville se trouvent les monuments de Nubie : les grands temples d'Abou Simbel, une journée longue mais inoubliable, et les temples sauvés des eaux du lac Nasser à New Kalabsha. En direction du nord, Kom Ombo et Edfou sont des étapes naturelles sur la route de Louxor.
+0334|Incontournables d'Assouan
+0335|Philae, l'obélisque inachevé, le Haut Barrage et le musée de la Nubie.
+0336|Les îles et le Nil
+0337|Éléphantine, le jardin botanique, les felouques et la corniche.
+0338|Culture nubienne
+0339|Gharb Soheil, l'artisanat local et l'accueil nubien en option.
+0340|Patrimoine de la rive ouest
+0341|Tombes rupestres, un monastère dans le désert et le mausolée de l'Aga Khan.
+0342|Abou Simbel
+0343|Les temples de Ramsès II et de Néfertari, une longue excursion d'une journée.
+0344|New Kalabsha
+0345|Temples nubiens sauvés des eaux, près du Haut Barrage.
+0346|Lac Nasser
+0347|Temples isolés pour voyages spécialisés.
+0348|Vers le nord
+0349|Kom Ombo et Edfou sur la route de Louxor.
+0350|Philae en bateau
+0351|La courte traversée jusqu'à l'île d'Agilkia fait partie de l'expérience. Prévoyez deux à trois heures pour le temple d'Isis.
+0352|Une journée en Nubie
+0353|Découvrez l'architecture et l'artisanat de Gharb Soheil, avec l'accueil nubien en option, puis revenez par le fleuve en longeant les îles.
+0354|La route d'Abou Simbel
+0355|Une longue journée d'environ 10 à 12 heures au total, récompensée par les temples de Ramsès II et de Néfertari.
+0356|Les bateaux font partie du programme
+0357|Philae, les îles et les villages nubiens se rejoignent en bateau, avec un véhicule pour les sites terrestres.
+0358|Abou Simbel demande une journée entière
+0359|Le site se trouve à environ 280 à 300 km d'Assouan dans chaque sens. L'heure de départ dépend des modalités de transport et de la réglementation en vigueur.
+0360|Le lac Nasser se prépare à l'avance
+0361|Les temples isolés comme Amada, Ouadi es-Seboua, Dakka et Maharraqa nécessitent généralement un bateau ou une excursion spécialisée, parfois avec une nuit sur place. Ils sont organisés à l'avance et ne sont jamais vendus comme une excursion ordinaire d'une journée.
+0362|Montées et chaleur
+0363|Qubbet el-Hawa implique une montée ; Saint-Siméon peut demander de marcher depuis le bateau. Parlez-nous de vos besoins de mobilité et nous organiserons les journées en conséquence.
+0364|Les durées sont indicatives
+0365|Les durées de visite indiquées ici sont des estimations pour la préparation, pas des horaires officiels. Horaires d'ouverture, billets et itinéraires sont confirmés avant la réservation.
+0366|Les pyramides de Gizeh
+0367|Les pyramides de Khéops, Khéphren et Mykérinos, bâties sous la IVe dynastie et toujours parmi les sites archéologiques les plus célèbres au monde.
+0368|La Grande Pyramide de Khéops
+0369|Construite pour le roi Khéops vers le XXVIe siècle av. J.-C., elle fut pendant des milliers d'années la plus haute construction humaine.
+0370|L'accès à l'intérieur nécessite un billet séparé et dépend des règles du site et des disponibilités du jour.
+0371|La pyramide de Khéphren
+0372|La deuxième plus grande pyramide de Gizeh. Les pierres de parement conservées près du sommet montrent à quel point les pyramides étaient autrefois lisses.
+0373|La pyramide de Mykérinos
+0374|La plus petite des trois grandes pyramides, entourée de pyramides de reines plus petites et de vestiges de temples.
+0375|Le Grand Sphinx
+0376|Une sculpture monumentale en calcaire au corps de lion et à tête humaine, qui garde l'accès au complexe des pyramides.
+0377|Point de vue panoramique des pyramides
+0378|La vue classique sur les trois grandes pyramides, et le meilleur endroit pour comprendre l'organisation du plateau avant de l'explorer.
+0379|Grand Musée égyptien
+0380|Près des pyramides de Gizeh
+0381|Un grand musée de la civilisation égyptienne antique, avec des galeries monumentales et la collection de Toutânkhamon.
+0382|L'entrée peut se faire par créneaux horaires ; nous vérifions l'accès en vigueur lors de la préparation de votre journée.
+0383|Le Musée égyptien de Tahrir
+0384|Centre du Caire
+0385|Le musée historique de la place Tahrir, avec statues, bijoux, papyrus et objets couvrant toutes les périodes de l'Égypte antique.
+0386|Les présentations évoluent à mesure que les collections changent de musée ; nous confirmons ce qui est exposé.
+0387|Musée national de la Civilisation égyptienne
+0388|Fostat, Vieux Caire
+0389|L'histoire de la civilisation égyptienne à travers les époques. La salle des momies royales est un temps fort pour de nombreux visiteurs.
+0390|Musée d'Art islamique
+0391|Bab al-Khalq
+0392|L'une des grandes collections d'art islamique : céramiques, métal, bois, textiles et manuscrits de nombreuses régions et époques.
+0393|Musée du palais d'Abdeen
+0394|Un ancien palais royal dont les collections retracent l'histoire de la monarchie et de l'État égyptiens modernes.
+0395|Les sections ouvertes varient ; l'accès est confirmé à l'avance.
+0396|Musée du palais de Manial
+0397|Île de Rodah
+0398|Un ensemble palatial et ses jardins mêlant influences égyptiennes, ottomanes, persanes et européennes.
+0399|Citadelle du Caire
+0400|Le Caire islamique
+0401|Une forteresse commencée sous Saladin au XIIe siècle. Sa hauteur offre de vastes panoramas sur la ville, et elle abrite plusieurs bâtiments historiques et musées.
+0402|Mosquée de Méhémet Ali
+0403|Dans la Citadelle
+0404|Ses coupoles de style ottoman et ses hauts minarets font de cette mosquée l'emblème de la Citadelle.
+0405|Une tenue respectueuse est attendue ; les règles de visite sont expliquées à l'arrivée.
+0406|Mosquée-madrasa du sultan Hassan
+0407|Un monumental complexe religieux et éducatif de l'époque mamelouke, remarquable par ses dimensions et sa maçonnerie.
+0408|Mosquée al-Rifaï
+0409|À côté du sultan Hassan, avec un intérieur grandiose et des tombeaux royaux qui contrastent avec l'architecture mamelouke plus ancienne voisine.
+0410|Rue al-Muizz
+0411|Une rue historique de mosquées, madrasas, portes et maisons de plusieurs époques islamiques, à découvrir à pied avec un guide.
+0412|Khan el-Khalili
+0413|Le célèbre marché traditionnel du Caire pour l'artisanat, les lanternes, les bijoux et les cafés, et un lieu animé pour marchander avec courtoisie.
+0414|Le Caire copte
+0415|Vieux Caire
+0416|Un quartier d'églises, de lieux de culte et de ruelles paisibles près des vestiges de la forteresse de Babylone, au cœur de l'héritage chrétien de l'Égypte.
+0417|Nous confirmons quels bâtiments sont ouverts le jour de la visite.
+0418|L'église suspendue
+0419|Construite au-dessus d'une porte de la forteresse de Babylone, appréciée pour son histoire, ses icônes et son intérieur en bois.
+0420|Synagogue Ben Ezra
+0421|Quartier du Caire copte
+0422|Une synagogue historique liée aux célèbres documents de la Genizah du Caire.
+0423|Les conditions d'accès varient et sont confirmées sur place.
+0424|Saqqarah et la pyramide à degrés
+0425|Excursion depuis Le Caire
+0426|La pyramide à degrés de Djéser est l'un des premiers grands monuments en pierre d'Égypte et une étape clé de l'histoire des pyramides.
+0427|Musée en plein air de Memphis
+0428|Mit Rahina, excursion d'une journée
+0429|Sculptures monumentales et vestiges de l'une des premières capitales de l'Égypte, généralement associés à Saqqarah et Dahchour.
+0430|Pyramides de Dahchour
+0431|La pyramide rhomboïdale et la pyramide rouge montrent comment la construction des pyramides a évolué avant Gizeh.
+0432|Felouque sur le Nil au Caire
+0433|Sur le Nil
+0434|Un voilier traditionnel sur le fleuve, particulièrement envoûtant au coucher du soleil. Durée, point de départ et mesures de sécurité sont convenus avec l'opérateur.
+0435|Aire protégée du Ouadi Degla
+0436|Maadi, option nature
+0437|Un canyon désertique en bordure du Caire, pour la marche et une géologie saisissante.
+0438|Uniquement avec un transport adapté et de l'eau, en tenant compte de l'accès et de la météo.
+0439|Complexe des temples de Karnak
+0440|L'un des plus vastes ensembles religieux du monde antique : la grande salle hypostyle, le lac sacré, les obélisques et le musée en plein air. Les enceintes de Khonsou, Mout et Montou se trouvent à l'intérieur ou à côté, mais toutes les zones ne sont pas ouvertes.
+0441|2 à 3 heures, davantage pour les passionnés
+0442|Un spectacle son et lumière peut avoir lieu en soirée, séparément ; horaire et langue sont confirmés à la réservation.
+0443|Temple de Louxor
+0444|Centre de Louxor
+0445|Statues de Ramsès II, cours et colonnades édifiées sous plusieurs règnes, avec la mosquée d'Abou el-Haggag qui s'élève dans l'enceinte.
+0446|1 à 1 h 30
+0447|Une visite en soirée est magnifique lorsque les horaires en vigueur le permettent.
+0448|Allée des Sphinx
+0449|Entre Karnak et le temple de Louxor
+0450|L'allée cérémonielle reliant les deux grands temples, bordée par endroits de sphinx et de statues à tête de bélier. Nous choisissons une portion adaptée à votre temps de marche.
+0451|Musée de Louxor
+0452|Corniche, rive est
+0453|Une collection superbement présentée d'objets de l'antique Thèbes et de la région de Louxor.
+0454|Musée de la Momification
+0455|Comment les anciens Égyptiens embaumaient leurs morts : les matériaux, les outils et les croyances qui les sous-tendaient.
+0456|45 à 75 minutes
+0457|Mosquée d'Abou el-Haggag
+0458|Dans le temple de Louxor
+0459|Un lieu religieux important, bâti dans l'enceinte du temple de Louxor.
+0460|Les visites respectent les heures de prière et les consignes vestimentaires.
+0461|Souk de Louxor et corniche du Nil
+0462|Shopping, cafés et promenades au bord du fleuve : un contrepoint détendu aux temples.
+0463|Temple d'Hatchepsout
+0464|Deir el-Bahari
+0465|Un spectaculaire temple en terrasses adossé aux falaises, célèbre pour ses colonnades et ses reliefs.
+0466|1 h 30 à 2 heures
+0467|Colosses de Memnon
+0468|Plaine thébaine
+0469|Deux statues assises monumentales associées au temple funéraire d'Amenhotep III.
+0470|Arrêt photo de 15 à 30 minutes
+0471|Médinet Habou
+0472|Temple de Ramsès III
+0473|Un vaste complexe aux portes impressionnantes, orné de reliefs de la vie royale et religieuse.
+0474|Le Ramesseum
+0475|Temple funéraire de Ramsès II
+0476|Cours, reliefs historiques et vestiges de statues colossales.
+0477|Deir el-Médineh
+0478|Village des artisans
+0479|Le village et les tombes des artisans qui ont réalisé les tombeaux royaux, riches en scènes peintes de la vie quotidienne.
+0480|Vallée des Rois
+0481|Rive ouest
+0482|La nécropole royale des pharaons du Nouvel Empire. Un billet standard donne accès à une sélection de tombes ; parmi celles souvent envisagées : Ramsès VI (KV9) et son plafond astronomique, Ramsès III (KV11), Ramsès IV (KV2) et Mérenptah (KV8).
+0483|2 à 3 heures
+0484|Les tombes ouvertes changent d'un jour à l'autre pour des raisons de conservation. Toutânkhamon (KV62) et Séthi Ier (KV17) peuvent nécessiter un billet spécial séparé ; elles sont donc indiquées en option. Prévoyez des escaliers, des passages étroits et de la chaleur à l'extérieur.
+0485|Vallée des Reines
+0486|Tombes de reines et d'enfants royaux, dont la célèbre tombe peinte de Néfertari (QV66) et celle d'Amonherkhépeshef (QV55).
+0487|1 à 2 heures
+0488|La tombe de Néfertari fait l'objet d'un contrôle séparé et peut nécessiter un billet spécial. Les autres tombes dépendent des calendriers de conservation.
+0489|Tombes des Nobles
+0490|Cheikh Abd el-Gournah et Khokha
+0491|Tombes de fonctionnaires, de scribes et de prêtres, peintes de scènes agricoles, artisanales et cérémonielles. Parmi les candidates : Nakht (TT52), Menna (TT69), Rekhmirê (TT100) et Ramose (TT55), ainsi que Sennedjem (TT1) à Deir el-Médineh.
+0492|Une demi-journée pour plusieurs tombes
+0493|L'accès et les billets varient d'une tombe à l'autre. Nous en choisissons deux ou trois qui sont ouvertes ; toutes les visiter en une seule sortie n'est pas réaliste.
+0494|Nécropole d'el-Assasif
+0495|Un vaste cimetière de tombes de différentes époques, dont les grandes tombes de hauts fonctionnaires.
+0496|Pour des visites spécialisées centrées sur les tombes, selon les conditions d'accès.
+0497|Dra Abou el-Naga
+0498|Au nord des principales tombes des Nobles
+0499|Une nécropole importante, idéale pour les voyageurs qui veulent aller au-delà des tombes les plus connues.
+0500|Selon les conditions d'accès en vigueur.
+0501|Deir el-Chelouit et le temple d'Amenhotep III
+0502|Des temples moins visités et les vestiges du temple funéraire d'Amenhotep III, dans des états de conservation variables.
+0503|Inclus seulement après vérification de l'accès des visiteurs et de l'état des routes.
+0504|Tôd et Armant
+0505|Au sud de Louxor
+0506|Le site du temple de l'antique Tuphium à Tôd et les vestiges d'Armant, pour des excursions spécialisées dédiées.
+0507|Organisées comme excursions séparées une fois l'accès confirmé.
+0508|Complexe du temple de Dendérah
+0509|Gouvernorat de Qena, au nord de Louxor
+0510|Un temple remarquablement bien conservé, dédié en grande partie à Hathor. Il se trouve hors de Louxor et fait l'objet d'une excursion d'une journée à part.
+0511|Temple d'Esna
+0512|Le temple de Khnoum, connu pour ses colonnes et son plafond décoré.
+0513|Organisé comme excursion à part ; les conditions d'ouverture sont vérifiées au préalable.
+0514|Temple de Philae
+0515|Île d'Agilkia, en bateau
+0516|Le temple d'Isis, reconstruit sur l'île d'Agilkia et accessible par une courte traversée en bateau.
+0517|L'obélisque inachevé
+0518|Carrières de granit
+0519|Un obélisque abandonné dans la carrière, qui révèle comment les tailleurs de pierre antiques travaillaient le granit.
+0520|45 à 60 minutes
+0521|Le Haut Barrage
+0522|Au sud d'Assouan
+0523|Un symbole de l'ingénierie moderne, à l'origine du lac Nasser.
+0524|30 à 60 minutes
+0525|L'accès dépend des dispositions du site le jour même.
+0526|Musée de la Nubie
+0527|L'histoire, l'archéologie et la culture vivante de la Nubie, dans une collection présentée avec soin.
+0528|Île Éléphantine et musée d'Assouan
+0529|Sur le Nil, à Assouan
+0530|Les vestiges archéologiques de l'île, son musée et l'ancien nilomètre.
+0531|Nous vérifions quelles sections sont ouvertes.
+0532|Jardin botanique, île Kitchener
+0533|En bateau
+0534|Un jardin insulaire aux plantes et arbres variés, accessible en bateau.
+0535|Felouque sur le Nil
+0536|Naviguez entre les îles sous une voile blanche, idéalement vers le coucher du soleil.
+0537|Généralement 1 à 2 heures
+0538|Souk et corniche d'Assouan
+0539|Le vieux marché et la promenade au bord du fleuve, pour le shopping, la flânerie et les cafés.
+0540|Village nubien de Gharb Soheil
+0541|Rive ouest d'Assouan
+0542|Une architecture colorée, l'artisanat local et la culture nubienne, avec un accueil chez l'habitant en option.
+0543|Autres îles et villages nubiens
+0544|D'autres îles et villages peuvent s'ajouter à un itinéraire en bateau adapté, organisé avec un opérateur local.
+0545|Tombes des Nobles et Qubbet el-Hawa
+0546|Des tombes taillées dans la roche, haut au-dessus du fleuve, avec certaines des plus belles vues d'Assouan.
+0547|Implique une montée et un peu de marche.
+0548|Monastère Saint-Siméon
+0549|Un monastère copte historique dans le désert, au-dessus du Nil.
+0550|Accessible en bateau, puis à pied ou en transport local selon les conditions.
+0551|Mausolée de l'Aga Khan
+0552|Un élégant monument sur la colline dominant le fleuve, à admirer depuis le Nil et ses alentours.
+0553|À admirer depuis le Nil et les environs. L'accès à l'intérieur n'est ni inclus ni promis.
+0554|Environ 280 à 300 km au sud d'Assouan
+0555|Le grand temple de Ramsès II et le temple de Néfertari, avec du temps pour les explications et les photos.
+0556|Une longue journée complète, environ 10 à 12 heures au total
+0557|L'heure de départ et l'itinéraire dépendent des modalités de transport et de la réglementation en vigueur.
+0558|Temple de Kalabsha
+0559|Un temple déplacé pour le sauver de la montée des eaux du lac Nasser.
+0560|Les conditions d'accès sont vérifiées avant toute confirmation.
+0561|Beit el-Wali
+0562|Un petit temple rupestre associé à Ramsès II.
+0563|Visité uniquement lorsqu'un accès autorisé peut être organisé.
+0564|Temples du lac Nasser
+0565|Au sud du Haut Barrage
+0566|Amada, Ouadi es-Seboua, Dakka, Maharraqa et d'autres sites nubiens au bord du lac.
+0567|Ces sites isolés nécessitent généralement une excursion spécialisée organisée ou un bateau, et peuvent impliquer une nuit sur place ou plusieurs jours. Ce n'est pas une excursion ordinaire d'une journée, et ils ne sont proposés qu'une fois un itinéraire confirmé.
+0568|Temple de Kom Ombo
+0569|Au nord d'Assouan
+0570|Un temple double singulier, avec le musée du Crocodile juste à côté. Une étape naturelle sur la route de Louxor.
+0571|Temple d'Edfou
+0572|Au nord de Kom Ombo
+0573|Le temple d'Horus, l'un des mieux conservés d'Égypte, généralement associé au trajet vers Louxor.
+0574|Pyramides & Grand Musée égyptien
+0575|1 jour
+0576|Le plateau de Gizeh et le Grand Sphinx le matin, les trésors du Grand Musée égyptien après le déjeuner.
+0577|La première journée incontournable en Égypte. Commencez sur le plateau de Gizeh avec les pyramides de Khéops, Khéphren et Mykérinos, profitez du point de vue panoramique et tenez-vous face au Grand Sphinx.
+0578|Après une pause déjeuner, poursuivez vers le Grand Musée égyptien tout proche, ses galeries monumentales et la collection de Toutânkhamon.
+0579|La Grande Pyramide et le point de vue panoramique
+0580|La collection de Toutânkhamon au Grand Musée égyptien
+0581|Matin
+0582|Le plateau de Gizeh
+0583|La Grande Pyramide de Khéops, vue de l'extérieur
+0584|Point de vue panoramique sur les trois grandes pyramides
+0585|L'intérieur de la Grande Pyramide avec un billet séparé, si disponible
+0586|Midi
+0587|Pause déjeuner
+0588|Déjeuner près du plateau
+0589|Après-midi
+0590|Les galeries et la collection de Toutânkhamon
+0591|Les billets du musée peuvent être à heure fixe ; nous confirmons l'entrée dans le devis.
+0592|Accès à l'intérieur de la Grande Pyramide (billet séparé, selon disponibilité)
+0593|Une balade en felouque sur le Nil en soirée
+0594|Véhicule privé et lieu de prise en charge
+0595|Guide et langue de guidage
+0596|Billets d'entrée, y compris les éventuels billets spéciaux
+0597|Repas et boissons
+0598|La Citadelle et la mosquée de Méhémet Ali, le sultan Hassan et al-Rifaï, puis la rue al-Muizz et Khan el-Khalili.
+0599|Une journée parmi les coupoles et les minarets du Caire médiéval. Commencez en hauteur à la Citadelle, la forteresse de Saladin du XIIe siècle, avec la mosquée de Méhémet Ali de style ottoman et des vues sur toute la ville.
+0600|Descendez vers le monumental complexe mamelouk du sultan Hassan et sa voisine al-Rifaï, puis parcourez la rue al-Muizz entre mosquées, madrasas et portes pour finir dans les ruelles de Khan el-Khalili.
+0601|Vues sur la ville depuis la Citadelle du Caire
+0602|Le sultan Hassan et al-Rifaï côte à côte
+0603|Une promenade guidée le long de la rue al-Muizz
+0604|L'artisanat et les cafés de Khan el-Khalili
+0605|La Citadelle
+0606|Le Caire mamelouk
+0607|Vieilles rues et bazar
+0608|À pied dans la rue al-Muizz
+0609|À pied dans la vieille ville
+0610|La rue al-Muizz se découvre lors d'une promenade guidée à travers les rues historiques.
+0611|Une soirée dans un café traditionnel de Khan el-Khalili
+0612|Consignes vestimentaires pour la visite des mosquées
+0613|Vieux Caire & musées
+0614|Le musée national de la Civilisation égyptienne, Le Caire copte, et le Musée égyptien ou le musée d'Art islamique.
+0615|Suivez la civilisation égyptienne de ses origines jusqu'à la ville médiévale. Le musée national de la Civilisation égyptienne, qui abrite la salle des momies royales, se trouve près du Caire copte, où églises et ruelles entourent la forteresse de Babylone.
+0616|L'après-midi, choisissez entre le Musée égyptien historique de Tahrir et le musée d'Art islamique, et terminez sur le fleuve si vous le souhaitez.
+0617|La salle des momies royales au NMEC
+0618|L'église suspendue et Le Caire copte
+0619|Au choix : le Musée égyptien ou le musée d'Art islamique
+0620|La civilisation égyptienne
+0621|L'église suspendue et les ruelles du Caire copte
+0622|Un second musée
+0623|Le Musée égyptien de Tahrir ou le musée d'Art islamique
+0624|Balade en felouque sur le Nil
+0625|Synagogue Ben Ezra, si l'accès le permet
+0626|La felouque et son opérateur, si ajoutée
+0627|Saqqarah, Memphis & Dahchour
+0628|L'histoire des pyramides avant Gizeh : la pyramide à degrés, l'antique Memphis, la pyramide rhomboïdale et la pyramide rouge.
+0629|Ces sites se trouvent hors du centre du Caire et méritent une journée entière. À Saqqarah, la pyramide à degrés de Djéser compte parmi les premiers édifices monumentaux en pierre d'Égypte.
+0630|Poursuivez vers le musée en plein air de Memphis, l'une des premières capitales de l'Égypte, et terminez à Dahchour, où la pyramide rhomboïdale et la pyramide rouge montrent les bâtisseurs apprenant leur métier.
+0631|La pyramide à degrés de Djéser
+0632|Sculptures monumentales à Memphis
+0633|La pyramide rhomboïdale et la pyramide rouge
+0634|Saqqarah
+0635|La pyramide à degrés de Djéser et ses environs
+0636|Memphis
+0637|Dahchour
+0638|La pyramide rhomboïdale
+0639|La pyramide rouge
+0640|À combiner avec une journée à Gizeh pour un itinéraire consacré aux pyramides
+0641|Le Caire copte en demi-journée
+0642|Demi-journée
+0643|L'église suspendue, les ruelles historiques et les sites patrimoniaux voisins du Vieux Caire.
+0644|Une demi-journée ciblée au cœur de l'héritage chrétien de l'Égypte. Découvrez l'église suspendue, bâtie au-dessus d'une porte de la forteresse de Babylone, et les ruelles paisibles qui l'entourent.
+0645|Les sites patrimoniaux voisins, dont la synagogue Ben Ezra, s'ajoutent selon ce qui est ouvert le jour même.
+0646|Les ruelles du Caire copte
+0647|Sites patrimoniaux voisins, selon ouverture
+0648|Ruelles historiques et sites patrimoniaux voisins
+0649|Ruelles à pied
+0650|Les ruelles historiques du Caire copte se découvrent à pied.
+0651|À associer au musée national de la Civilisation égyptienne pour une journée complète
+0652|Soirée sur le Nil & au marché
+0653|Soirée
+0654|Une felouque réservée à l'avance ou une expérience au bord du Nil, puis un marché traditionnel si l'horaire le permet.
+0655|Terminez en douceur une journée de monuments. Naviguez sur une felouque réservée à l'avance ou profitez d'une expérience au bord du Nil tandis que s'allument les lumières de la ville.
+0656|Si l'horaire le permet, poursuivez vers un marché traditionnel pour une flânerie en soirée.
+0657|Le Caire depuis le fleuve
+0658|Un marché traditionnel en soirée
+0659|Fleuve et marché
+0660|Balade en felouque ou expérience au bord du Nil
+0661|Visite d'un marché traditionnel, si l'horaire le permet
+0662|Dîner organisé sur demande
+0663|Opérateur de felouque, durée, point de départ et mesures de sécurité
+0664|Louxor en trois jours
+0665|3 jours
+0666|Les temples et musées de la rive est, la Vallée des Rois et le temple d'Hatchepsout, puis Médinet Habou et une sélection de tombes des Nobles.
+0667|Une première visite équilibrée de l'antique Thèbes. Le premier jour reste sur la rive est avec Karnak, un musée et une soirée au temple de Louxor. Le deuxième jour, on traverse le fleuve tôt pour les tombeaux royaux et le temple en terrasses d'Hatchepsout.
+0668|Le troisième jour ralentit le rythme avec Médinet Habou, le Ramesseum ou Deir el-Médineh, et deux ou trois tombes des Nobles choisies parmi celles ouvertes le jour même. Chaque journée s'adapte à votre énergie et à vos centres d'intérêt plutôt que d'enchaîner tous les sites.
+0669|La grande salle hypostyle de Karnak
+0670|Les tombeaux royaux de la Vallée des Rois
+0671|Le temple d'Hatchepsout à Deir el-Bahari
+0672|Scènes peintes de la vie quotidienne dans les tombes des Nobles
+0673|Jour 1
+0674|Temples et musées de la rive est
+0675|Complexe des temples de Karnak, avec le musée en plein air s'il est ouvert
+0676|Musée de Louxor ou musée de la Momification
+0677|Temple de Louxor et une portion de l'allée des Sphinx, selon les horaires d'ouverture
+0678|Jour 2
+0679|La Vallée des Rois, Hatchepsout et les colosses
+0680|Tôt
+0681|Vallée des Rois, avec les tombes incluses dans le billet standard
+0682|Tombes spéciales comme celles de Toutânkhamon ou de Séthi Ier, avec billets séparés lorsqu'elles sont ouvertes
+0683|Temple d'Hatchepsout à Deir el-Bahari
+0684|Arrêt photo aux colosses de Memnon
+0685|Vallée des Reines, seulement si le temps, l'énergie et l'accès le permettent
+0686|Les tombes ouvertes le jour même sont fixées par le site et changent pour des raisons de conservation. Nous ne promettons jamais une tombe précise.
+0687|Jour 3
+0688|Temples funéraires et tombes des Nobles
+0689|Le Ramesseum ou Deir el-Médineh
+0690|Deux ou trois tombes des Nobles ouvertes et adaptées à votre groupe
+0691|Vous préférez une journée spécialisée ? Dendérah ou Esna peuvent remplacer cette journée, même si une journée à part convient souvent mieux.
+0692|Marches et passages étroits
+0693|Les tombes comportent des escaliers, des passages étroits et de fortes chaleurs à l'extérieur. Pour les familles et les voyageurs à mobilité réduite, nous réduisons le nombre de tombes, prévoyons des pauses et vérifions les distances à pied et les points de dépose.
+0694|Billets spéciaux pour les tombes : Toutânkhamon (KV62), Séthi Ier (KV17), Néfertari (QV66), lorsqu'elles sont ouvertes
+0695|Spectacle son et lumière à Karnak
+0696|Vol en montgolfière, selon la météo, les autorisations et la confirmation de l'opérateur
+0697|Une excursion d'une journée à part à Dendérah ou Esna
+0698|Traversée du Nil vers la rive ouest
+0699|Billets d'entrée standard et spéciaux
+0700|Hébergement pour vos nuits à Louxor
+0701|Règles de photographie et éventuels frais supplémentaires
+0702|Découvrir Assouan & la Nubie en 7 jours
+0703|7 jours
+0704|Les grands sites d'Assouan, une journée de culture nubienne, Abou Simbel, New Kalabsha, et une fin au choix sur le lac Nasser ou vers le nord.
+0705|Une semaine pour vraiment comprendre Assouan et la Nubie. Les premiers jours couvrent Philae, l'obélisque inachevé, le musée de la Nubie, Éléphantine et les îles, puis une journée entière de culture nubienne à Gharb Soheil.
+0706|La seconde moitié part vers le sud : une longue journée à Abou Simbel, les temples sauvés de New Kalabsha, et une journée réservée aux sites isolés du lac Nasser si une excursion spécialisée peut être organisée. Le dernier jour, on remonte vers le nord par Kom Ombo et Edfou, ou l'on reste à Assouan.
+0707|Le temple d'Isis à Philae, accessible en bateau
+0708|Gharb Soheil et l'accueil nubien en option
+0709|Les temples de Ramsès II et de Néfertari à Abou Simbel
+0710|Kalabsha, sauvé des eaux du lac Nasser
+0711|Le Haut Barrage, Philae et l'obélisque inachevé
+0713|Rendez-vous à votre hôtel ou à l'aéroport
+0715|Le Haut Barrage, une fois l'accès confirmé
+0717|Bateau depuis l'embarcadère de Philae jusqu'au temple, environ deux heures sur place
+0719|Déjeuner
+0721|L'obélisque inachevé et les carrières de granit
+0723|Retour à l'hôtel ; le souk en soirée
+0724|Musées, îles et rive ouest
+0726|Île Éléphantine et nilomètre, s'ils sont ouverts
+0728|Le jardin botanique
+0730|Tombes des Nobles, si les conditions de marche et le temps le permettent
+0731|La corniche du Nil ou une courte balade en felouque
+0732|Culture nubienne et Nil
+0733|Gharb Soheil
+0734|Une promenade culturelle parmi l'artisanat et les maisons
+0736|Accueil nubien ou déjeuner
+0738|Une balade sur le Nil le long des îles
+0740|Temps libre pour la photographie et le shopping
+0741|Jour 4
+0742|Départ, à l'heure fixée par les modalités de transport confirmées
+0743|Le grand temple de Ramsès II et le temple de Néfertari, avec du temps pour les explications et les photos
+0744|Pause, puis retour à Assouan
+0745|Une longue journée d'environ 10 à 12 heures au total. L'itinéraire, l'accès et les consignes en vigueur sont confirmés à l'avance.
+0746|Jour 5
+0747|Kalabsha et les monuments nubiens voisins
+0748|Temple de Kalabsha à New Kalabsha
+0749|Beit el-Wali ou un autre site voisin, uniquement si l'accès et l'entrée peuvent être garantis
+0750|Retour à Assouan
+0751|Tous les temples du lac Nasser ne sont pas accessibles lors d'une courte visite par la route.
+0752|Jour 6
+0753|Journée spécialisée sur le lac Nasser, ou journée à Assouan
+0754|Une excursion spécialisée organisée à l'avance vers des sites accessibles comme Amada, Ouadi es-Seboua, Dakka ou Maharraqa
+0755|Alternative locale : une journée de réserve pour une visite locale de votre choix ou du temps libre à Assouan
+0756|Ces sites isolés peuvent nécessiter un bateau, une nuit sur place ou plusieurs jours. Nous ne les proposons qu'une fois un itinéraire spécialisé confirmé ; sinon, l'alternative locale s'applique.
+0757|Jour 7
+0758|Kom Ombo et Edfou, ou départ d'Assouan
+0759|Option A : remonter vers le nord jusqu'à Kom Ombo, puis Edfou, en poursuivant vers Louxor uniquement si le temps le permet
+0760|Option B : rester à Assouan pour le souk et la corniche, puis transfert vers l'aéroport ou la gare
+0761|Temps de route, visites, pauses et gestion des bagages sont calculés avant que nous confirmions une heure d'arrivée.
+0762|Plutôt modéré, avec des montées
+0763|Les tombes des Nobles de Qubbet el-Hawa impliquent montée et marche, et Abou Simbel est une longue journée. Signalez-nous une sensibilité à la chaleur ou des besoins de mobilité, et nous adapterons le rythme.
+0764|Excursion spécialisée sur le lac Nasser, uniquement sur organisation préalable
+0765|Accueil nubien ou déjeuner à Gharb Soheil
+0766|Poursuite vers Louxor par Kom Ombo et Edfou
+0767|Véhicule, capacité et lieu de prise en charge
+0768|Bateaux pour Philae, les îles et les villages nubiens
+0769|Billets d'entrée
+0770|Hébergement à Assouan
+0771|Éventuelles autorisations ou consignes d'itinéraire pour Abou Simbel et le lac Nasser
+0772|Vue aérienne du complexe des pyramides de Gizeh
+0773|Les trois pyramides de Gizeh vues d'en haut, avec le désert au-delà
+0774|La Grande Pyramide de Khéops s'élevant sur le plateau de Gizeh
+0775|La pyramide de Khéphren et ses pierres de parement conservées près du sommet
+0776|La pyramide de Mykérinos, la plus petite des trois grandes pyramides de Gizeh
+0777|Le Grand Sphinx de Gizeh
+0778|Le Grand Sphinx de Gizeh devant les pyramides
+0779|Les pyramides de Gizeh depuis un point de vue panoramique
+0780|Vue panoramique sur le désert et les trois grandes pyramides de Gizeh
+0781|Le Grand Musée égyptien
+0782|Extérieur du Grand Musée égyptien près des pyramides de Gizeh
+0783|Le Musée égyptien de la place Tahrir
+0784|La façade rouge historique du Musée égyptien de Tahrir, au Caire
+0785|Le musée national de la Civilisation égyptienne
+0786|Le musée national de la Civilisation égyptienne à Fostat, Vieux Caire
+0787|Le musée d'Art islamique, Le Caire
+0788|Façade du musée d'Art islamique à Bab al-Khalq, Le Caire
+0789|Palais d'Abdeen, Le Caire
+0790|La façade du palais d'Abdeen dans le centre du Caire
+0791|Palais de Manial, île de Rodah
+0792|Le palais de Manial et ses jardins sur l'île de Rodah, Le Caire
+0793|La Citadelle du Caire
+0794|Les remparts de la Citadelle du Caire dominant la ville
+0795|La mosquée de Méhémet Ali
+0796|Les coupoles et les minarets élancés de la mosquée de Méhémet Ali
+0797|La mosquée-madrasa du sultan Hassan
+0798|Les monumentaux murs de pierre de la mosquée-madrasa du sultan Hassan
+0799|La mosquée al-Rifaï dans Le Caire historique
+0800|Façades historiques et minarets le long de la rue al-Muizz
+0801|Bazar de Khan el-Khalili
+0802|Lanternes et devantures dans les ruelles de Khan el-Khalili
+0803|L'église suspendue, Le Caire copte
+0804|Les tours jumelles de l'église suspendue au Caire copte
+0805|L'église suspendue, l'un des monuments emblématiques du Caire copte
+0806|La synagogue Ben Ezra dans le quartier du Caire copte
+0807|Une felouque sur le Nil au Caire
+0808|Une felouque à voile blanche sur le Nil au Caire
+0809|La pyramide à degrés de Djéser, Saqqarah
+0810|La pyramide à degrés de Djéser à Saqqarah
+0811|La pyramide rhomboïdale de Snéfrou, Dahchour
+0812|La pyramide rhomboïdale de Snéfrou à Dahchour, dont l'inclinaison change à mi-hauteur
+0813|Statue colossale de Ramsès II, Memphis
+0814|La statue colossale de Ramsès II au musée en plein air de Memphis
+0815|Le canyon calcaire du Ouadi Degla en bordure du Caire
+0816|Colonnes de la grande salle hypostyle de Karnak
+0817|Le temple de Louxor avec ses colonnades et ses statues de Ramsès II
+0818|Le sanctuaire du temple de Louxor
+0819|À l'intérieur du temple de Louxor, près du sanctuaire
+0820|L'allée des Sphinx menant au temple de Louxor
+0821|Des rangées de sphinx bordant l'allée vers le temple de Louxor
+0822|Objets antiques exposés au musée de Louxor
+0823|Musée de la Momification, Louxor
+0824|Le musée de la Momification sur la corniche de Louxor
+0825|La mosquée d'Abou el-Haggag dans l'enceinte du temple de Louxor
+0826|La mosquée d'Abou el-Haggag dominant l'enceinte du temple de Louxor
+0827|Temple funéraire d'Hatchepsout, Deir el-Bahari
+0828|Le temple en terrasses d'Hatchepsout au pied des falaises de Deir el-Bahari
+0829|Les colosses de Memnon
+0830|Les deux colosses de Memnon assis dans la plaine thébaine
+0831|Médinet Habou, rive ouest de Louxor
+0832|Portes et murs sculptés à Médinet Habou
+0833|Colonnes et statues renversées au Ramesseum
+0834|Les vestiges du village des artisans à Deir el-Médineh
+0835|La Vallée des Rois
+0836|La Vallée des Rois sur la rive ouest de Louxor
+0837|Tombe de Ramsès IV (KV2), Vallée des Rois
+0838|Intérieur peint de la tombe de Ramsès IV dans la Vallée des Rois
+0839|La tombe de Toutânkhamon (KV62)
+0840|La tombe de Toutânkhamon dans la Vallée des Rois
+0841|La Vallée des Reines
+0842|La nécropole de la Vallée des Reines sur la rive ouest de Louxor
+0843|Tombes des Nobles, rive ouest de Louxor
+0844|Entrées des tombes des Nobles à flanc de colline, sur la rive ouest de Louxor
+0845|La nécropole d'el-Assasif sur la rive ouest de Louxor
+0846|La façade à colonnes du temple d'Hathor à Dendérah
+0847|Temple de Khnoum, Esna
+0848|Colonnes décorées à l'intérieur du temple de Khnoum à Esna
+0849|Le Nil à Louxor
+0850|Le Nil à Louxor, avec les collines de la rive ouest au loin
+0851|Temple d'Isis à Philae, île d'Agilkia
+0852|Le temple d'Isis à Philae se reflétant dans le Nil
+0853|L'obélisque inachevé, Assouan
+0854|L'obélisque inachevé couché dans la carrière de granit d'Assouan
+0855|Le Haut Barrage d'Assouan
+0856|Le Haut Barrage d'Assouan retenant le lac Nasser
+0857|Musée de la Nubie, Assouan
+0858|Le musée de la Nubie à Assouan
+0859|Île Éléphantine, Assouan
+0860|L'île Éléphantine sur le Nil à Assouan
+0861|Jardin botanique d'Assouan, île Kitchener
+0862|Palmiers et arbres tropicaux du jardin botanique d'Assouan
+0863|Felouques sur le Nil à Assouan
+0864|Des felouques naviguant entre les îles de granit à Assouan
+0865|Village nubien de Gharb Soheil
+0866|Maisons aux couleurs vives dans le village nubien de Gharb Soheil
+0867|Qubbet el-Hawa et les tombes des Nobles, Assouan
+0868|Tombes rupestres sur la colline de Qubbet el-Hawa au-dessus du Nil
+0869|Monastère Saint-Siméon, Assouan
+0870|Les murs en briques crues du monastère Saint-Siméon dans le désert
+0871|Le mausolée de l'Aga Khan vu depuis le Nil
+0872|Le mausolée de l'Aga Khan sur la colline dominant le Nil à Assouan
+0873|Marché et corniche d'Assouan
+0874|Les rues commerçantes d'Assouan
+0875|Le grand temple de Ramsès II, Abou Simbel
+0876|Les quatre colosses assis de Ramsès II à Abou Simbel
+0877|Temple de Kalabsha, New Kalabsha
+0878|Le temple de Kalabsha au bord du lac Nasser
+0879|Temple rupestre de Beit el-Wali
+0880|Le petit temple rupestre de Beit el-Wali
+0881|Les eaux libres et les rives désertiques du lac Nasser
+0882|Temple de Kom Ombo
+0883|Le temple double de Kom Ombo dominant le Nil
+0884|Temple d'Horus à Edfou
+0885|Le grand pylône du temple d'Horus à Edfou

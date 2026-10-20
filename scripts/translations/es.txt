@@ -1,0 +1,874 @@
+0000|Syaha Tour | Viajes a medida en El Cairo, Luxor y Asuán
+0001|Viajes a medida por El Cairo y Guiza, Luxor, y Asuán y Nubia. Explore nuestros itinerarios sugeridos y solicite un presupuesto adaptado a sus fechas e intereses.
+0002|Saltar al contenido
+0003|Abrir menú
+0004|Cerrar menú
+0005|Navegación principal
+0006|Navegación del pie de página
+0007|Idioma
+0008|Ruta de navegación
+0009|Ilustración
+0010|Inicio
+0011|Destinos
+0012|Todos los destinos
+0013|Experiencias
+0014|Viajes sugeridos
+0015|Viajes
+0016|Contacto
+0017|Planifique su viaje
+0018|Créditos de imágenes
+0019|Explorar
+0020|Ver el viaje
+0021|Todos los viajes sugeridos
+0022|Solicitar un presupuesto a medida
+0023|Planificar este viaje
+0024|Planificar un viaje a {name}
+0025|Tiempo sugerido
+0026|Conviene saber
+0027|Excursión aparte
+0028|Duración
+0029|Destino
+0030|Lo más destacado
+0031|Itinerario sugerido
+0032|Leer más
+0033|Escríbanos por WhatsApp
+0034|Volver arriba
+0035|Monumentos antiguos
+0036|Monumentos
+0037|Pirámides, templos y tumbas reales de cinco mil años de historia.
+0038|Museos
+0039|Del Gran Museo Egipcio al Museo de Nubia y las colecciones de los palacios.
+0040|Encuentros culturales
+0041|Cultura
+0042|El Cairo histórico, el patrimonio copto, los bazares y las aldeas nubias.
+0043|Experiencias en el Nilo
+0044|El Nilo
+0045|Falucas, jardines en islas y trayectos en barco entre templos.
+0046|Arqueología especializada
+0047|Especializado
+0048|Tumbas de los Nobles, las primeras pirámides y templos nubios remotos, según el acceso.
+0049|El Cairo · Luxor · Asuán
+0050|Maravillas antiguas. Su propio viaje por Egipto.
+0051|Descubra El Cairo, Luxor y Asuán con viajes cuidadosamente planificados en torno a sus intereses.
+0052|Planificar mi viaje
+0053|Explorar destinos
+0054|¿Por dónde le gustaría empezar?
+0055|Interés
+0056|Cualquier interés
+0057|Ver ideas
+0058|Tres destinos
+0059|Un río, tres capítulos de Egipto
+0060|Viajar con Syaha Tour
+0061|Un viaje planificado para usted, no una salida fija
+0062|Egipto recompensa a quien se toma su tiempo. En lugar de vender salidas fijas, diseñamos cada programa según sus fechas, intereses, tamaño del grupo y presupuesto, basándonos en guías de planificación detalladas de El Cairo y Guiza, Luxor, y Asuán y Nubia.
+0063|Somos claros con los detalles importantes: qué tumbas requieren entradas especiales, qué lugares exigen un día aparte y qué templos remotos necesitan organización previa. Las visitas finales dependen siempre de los horarios, el acceso y la venta de entradas vigentes, y cada presupuesto indica con claridad lo que incluye.
+0064|A su ritmo
+0065|Tranquilo o activo, con pausas y menos tumbas para familias y viajeros con movilidad reducida.
+0066|Servicios claramente detallados
+0067|Transporte, guía, entradas, comidas y barcos aparecen línea por línea en su presupuesto.
+0068|Rutas realistas
+0069|Evitamos idas y vueltas innecesarias y nunca intentamos meter todos los lugares en un solo día.
+0070|Viajes sugeridos
+0071|Puntos de partida para su itinerario
+0072|Cada viaje es una sugerencia que adaptamos a usted. Las duraciones son aproximadas y cada programa se presupuesta de forma individual.
+0073|Viaje según lo que le apasiona
+0074|Cómo funciona
+0075|De la primera idea a la propuesta a medida
+0076|Cuéntenos su viaje
+0077|Indique sus fechas, destinos, intereses y ritmo en nuestro breve formulario.
+0078|Planificamos y comprobamos
+0079|Preparamos una ruta y comprobamos horarios, acceso y entradas con la información vigente.
+0080|Reciba su propuesta
+0081|Su presupuesto a medida detalla lo que incluye: transporte, guía, entradas, comidas, barcos y alojamiento cuando corresponda.
+0082|Lo ajustamos juntos
+0083|Modifique los días hasta que el viaje le encaje. Nada se confirma hasta que usted esté satisfecho.
+0084|Preguntas de planificación
+0085|Conviene saber antes de planificar
+0086|Empiece a planificar su viaje por Egipto
+0087|Cuéntenos adónde le gustaría ir y qué le apasiona. Diseñaremos un itinerario sugerido y le enviaremos un presupuesto a medida.
+0088|¿Son circuitos fijos con fechas de salida establecidas?
+0089|No. Cada viaje de esta web es un itinerario sugerido. Adaptamos el programa a sus fechas, intereses, tamaño del grupo y presupuesto, y solo lo confirmamos tras comprobar el acceso vigente.
+0090|¿Por qué no muestran precios?
+0091|Los precios de las entradas, el acceso a tumbas especiales y los costes de transporte cambian, y dependen de su grupo y sus elecciones. Presupuestamos cada viaje individualmente tras consultar la información oficial vigente, para que la cifra que reciba sea una que podamos respaldar.
+0092|¿Qué incluye un presupuesto?
+0093|Cada presupuesto indica con claridad qué está incluido y qué no: transporte, guía, entradas, comidas, traslados en barco, alojamiento cuando corresponda, extras opcionales y condiciones de cancelación.
+0094|¿Pueden garantizar la entrada a una tumba concreta?
+0095|No. En el Valle de los Reyes y en otros lugares, las tumbas abiertas cada día cambian por motivos de conservación, y algunas requieren entradas especiales. Planificamos según lo que esté abierto y tratamos las tumbas mencionadas como posibilidades.
+0096|¿Cuánto dura la excursión a Abu Simbel?
+0097|Es un día largo desde Asuán, unos 280 a 300 km en cada sentido y normalmente entre 10 y 12 horas en total. La hora de salida depende de las condiciones de transporte vigentes.
+0098|¿Se pueden visitar los templos del lago Nasser en un día?
+0099|Normalmente no. Lugares remotos como Amada y Wadi es-Sebua suelen requerir un barco o una excursión especializada, a veces con una noche fuera. Los organizamos con antelación cuando se puede confirmar una ruta.
+0100|Viajamos con niños o tenemos movilidad reducida. ¿Pueden adaptarse?
+0101|Sí. Reducimos el número de tumbas, añadimos pausas y comprobamos distancias a pie y puntos de bajada. Indíquenos sus necesidades en el formulario.
+0102|¿En qué idiomas puede hablar nuestro guía?
+0103|Indique su idioma de guía preferido en el formulario. Confirmamos la disponibilidad de un guía en ese idioma en su presupuesto.
+0104|Adónde viajamos
+0105|Tres destinos a orillas del Nilo, cada uno con su carácter. Elija uno para explorar sus lugares o combínelos en un viaje más largo.
+0106|Combinar destinos
+0107|Muchos viajeros combinan El Cairo con Luxor, o Luxor con Asuán. Kom Ombo y Edfu están en la carretera entre Asuán y Luxor y son paradas naturales viajando hacia el norte. Díganos qué destinos le interesan y le propondremos un orden realista.
+0108|{count} lugares por descubrir
+0109|Mapa esquemático del Nilo de El Cairo a Asuán, sin escala
+0110|Esna
+0111|Edfu
+0112|Kom Ombo
+0113|Lugares por descubrir
+0114|Explorar por zona e interés
+0115|Zona
+0116|Todo
+0117|Mostrando {count} de {total}
+0118|Nada coincide con ambos filtros. Pruebe otra zona u otro interés.
+0119|Borrar filtros
+0120|Experiencias imprescindibles
+0121|Itinerarios sugeridos
+0122|Formas de conocer {name}
+0123|Notas prácticas
+0124|Planificar {name}
+0125|Los horarios, las entradas y el acceso cambian. Comprobamos los detalles en fuentes oficiales, como el Ministerio de Turismo y Antigüedades, antes de presupuestar.
+0126|Planifique sus días en {name}
+0127|Indíquenos sus fechas e intereses y diseñaremos un itinerario sugerido.
+0128|Viajar por intereses
+0129|Elija lo que más le apasiona y vea adónde le lleva, en los tres destinos.
+0130|{count} experiencias
+0131|Ninguna experiencia coincide con estos filtros.
+0132|Itinerarios
+0133|Itinerarios sugeridos a partir de nuestras guías de destino. Son puntos de partida, no salidas fijas: cada viaje se adapta a usted y se presupuesta individualmente.
+0134|Este es un itinerario sugerido, no una salida programada. Las visitas finales dependen de los horarios, el acceso y las entradas vigentes, y se confirman en su presupuesto.
+0135|Resumen
+0136|Día a día
+0137|Desplegar todo
+0138|Plegar todo
+0139|Opcional
+0140|Caminatas y ritmo
+0141|El esfuerzo a pie varía según los lugares elegidos. Lo confirmaremos con usted durante la planificación.
+0142|Extras opcionales
+0143|Se confirma en su presupuesto
+0144|Cada presupuesto detalla claramente estos puntos, para que sepa exactamente qué está incluido.
+0145|Haga suyo este viaje
+0146|Solicite un presupuesto a medida y adaptaremos este itinerario a sus fechas, ritmo e intereses.
+0147|Lugares de este viaje
+0148|Solicitud de viaje
+0149|Cuéntenos el viaje que tiene en mente. Lleva unos tres minutos y no implica ningún compromiso.
+0150|Qué ocurre después
+0151|Revisamos su solicitud y preparamos una ruta sugerida.
+0152|Comprobamos horarios, acceso y entradas con la información vigente.
+0153|Recibe un presupuesto a medida que detalla exactamente lo que incluye.
+0154|Su viaje
+0155|Sus preferencias
+0156|Revisión
+0157|Paso {current} de {total}
+0158|Continuar
+0159|Atrás
+0160|Enviar mi solicitud
+0161|Enviando…
+0162|Editar
+0163|Obligatorio
+0164|Revise lo siguiente:
+0165|¿Qué destinos le interesan?
+0166|Elija uno o varios.
+0167|Aún no lo sé
+0168|Viaje sugerido
+0169|Ningún viaje en concreto
+0170|¿Cuándo le gustaría viajar?
+0171|Fechas concretas
+0172|Fechas flexibles
+0173|Fecha de llegada
+0174|Fecha de salida
+0175|Época aproximada
+0176|Por ejemplo: finales de marzo, o dos semanas en otoño.
+0177|Adultos
+0178|Niños
+0179|Edades de los niños
+0180|Duración aproximada del viaje
+0181|1–3 días
+0182|4–6 días
+0183|7–9 días
+0184|10–14 días
+0185|15 días o más
+0186|¿Qué le interesa más?
+0187|Elija todas las que correspondan.
+0188|Fotografía
+0189|Ritmo preferido
+0190|Tranquilo
+0191|Equilibrado
+0192|Activo
+0193|Presupuesto por persona
+0194|Opcional. Nos ayuda a sugerir opciones adecuadas.
+0195|Prefiero no decirlo
+0196|Moderado
+0197|Confortable
+0198|Prémium
+0199|Lujo
+0200|Necesidades de accesibilidad o movilidad
+0201|Opcional. Por ejemplo: caminar poco, silla de ruedas, sensibilidad al calor.
+0202|Nombre completo
+0203|Correo electrónico
+0204|Teléfono o WhatsApp
+0205|Opcional. Incluya el prefijo del país, por ejemplo +44 20 7946 0000.
+0206|Medio de contacto preferido
+0207|Llamada telefónica
+0208|WhatsApp
+0209|Idioma de guía preferido
+0210|Confirmamos la disponibilidad de un guía en este idioma en su presupuesto.
+0211|¿Algo más que debamos saber?
+0212|Celebraciones, lugares que ya ha visitado, intereses especiales…
+0213|Acepto que Syaha Tour se ponga en contacto conmigo sobre esta solicitud.
+0214|Revise su solicitud
+0215|Compruebe sus datos antes de enviar.
+0216|Elija al menos un destino, o seleccione «Aún no lo sé».
+0217|Indique su fecha de llegada, o cambie a fechas flexibles.
+0218|La fecha de salida debe ser posterior a la de llegada.
+0219|La fecha de llegada debe ser futura.
+0220|Indíquenos aproximadamente cuándo le gustaría viajar.
+0221|Se requiere al menos un adulto.
+0222|Introduzca un número del 0 al 20.
+0223|Elija una duración aproximada.
+0224|Introduzca su nombre.
+0225|Introduzca un correo electrónico válido.
+0226|Incluya el prefijo del país, empezando por +.
+0227|Añada un número de teléfono para que le contactemos por teléfono o WhatsApp.
+0228|Dé su consentimiento para que podamos responder a su solicitud.
+0229|Vista previa
+0230|Modo de vista previa: las solicitudes aún no se envían
+0231|El servicio de solicitudes de esta web aún no está conectado, por lo que su solicitud no puede enviarse desde aquí. Copie o descargue el resumen a continuación y envíelo directamente a Syaha Tour.
+0232|Copiar resumen
+0233|Copiado
+0234|Descargar resumen
+0235|Gracias, hemos recibido su solicitud
+0236|Nuestro equipo revisará sus planes y le responderá por el medio de contacto elegido. Esté atento a su bandeja de entrada, incluida la carpeta de spam.
+0237|Referencia
+0238|No se ha podido enviar su solicitud
+0239|No se ha perdido nada: sus respuestas siguen aquí. Inténtelo de nuevo, o copie el resumen y envíenoslo directamente.
+0240|Reintentar
+0241|Ahora mismo no se pueden enviar solicitudes
+0242|Demasiados intentos. Espere unos minutos e inténtelo de nuevo.
+0243|Sí
+0244|No
+0245|No indicado
+0246|Contacte con nosotros
+0247|La mejor forma de contactarnos es el formulario de planificación. Nos da todo lo necesario para responderle con sugerencias útiles.
+0248|Abrir el formulario
+0249|Contacto directo
+0250|Teléfono
+0251|Los datos de contacto directo aparecerán aquí pronto. Mientras tanto, utilice el formulario de planificación.
+0252|Acreditamos cada fotografía utilizada en esta web. Las fotografías se reutilizan bajo las licencias indicadas, con enlaces a su página de origen.
+0253|Fotografías
+0254|Actualmente no se muestran fotografías de terceros.
+0255|Ilustraciones
+0256|Cuando una fotografía aún no se ha verificado para su reutilización, la web muestra una ilustración original creada para Syaha Tour. Estas ilustraciones no son fotografías de los lugares nombrados.
+0257|Tema
+0258|Autor
+0259|Licencia
+0260|Fuente
+0261|Pendiente de una fotografía verificada
+0262|Viajes a medida por El Cairo y Guiza, Luxor, y Asuán y Nubia.
+0263|Todos los itinerarios son sugerencias. Los horarios, precios de las entradas, acceso a los lugares y normas de fotografía pueden cambiar y se confirman antes de reservar.
+0264|Planificar
+0265|Syaha Tour
+0266|Esta página se ha salido del mapa
+0267|La página que busca no existe o ha cambiado de dirección.
+0268|Volver al inicio
+0269|El Cairo y Guiza
+0270|El Cairo
+0271|Pirámides, museos y patrimonio vivo
+0272|Planifique El Cairo y Guiza con Syaha Tour: las pirámides y la Esfinge, el Gran Museo Egipcio, El Cairo histórico y copto, y excursiones a Saqqara, Menfis y Dahshur.
+0273|La capital de Egipto reúne cinco mil años en una sola ciudad. En la meseta de Guiza, las pirámides de Keops, Kefrén y Micerino se alzan junto a la Gran Esfinge; a pocos minutos, el Gran Museo Egipcio reúne los tesoros de los faraones.
+0274|Al otro lado del río, la Ciudadela, las mezquitas mamelucas de El Cairo histórico y los callejones de la calle al-Muizz y Jan el-Jalili cuentan una historia posterior, mientras las iglesias del Cairo copto se levantan junto a los restos de la fortaleza de Babilonia. Fuera de la ciudad, Saqqara, Menfis y Dahshur muestran cómo empezaron las pirámides.
+0275|Meseta de Guiza
+0276|Las tres grandes pirámides, la Esfinge y los miradores entre ellas.
+0277|Civilización antigua, arte islámico y palacios reales.
+0278|El Cairo histórico
+0279|La Ciudadela, las mezquitas mamelucas y el antiguo bazar.
+0280|Patrimonio copto
+0281|Iglesias, una sinagoga histórica y la fortaleza de Babilonia.
+0282|Excursiones opcionales
+0283|Las primeras pirámides, la antigua Menfis, el Nilo y el desierto.
+0284|Empezar por la meseta
+0285|Comience en el mirador panorámico para ver las tres pirámides juntas y después recorra el recinto con un guía que explica cómo y por qué se construyeron.
+0286|Dos grandes museos
+0287|Combine el Gran Museo Egipcio con el Museo Nacional de la Civilización Egipcia y su Sala de las Momias Reales, o con el histórico Museo Egipcio de Tahrir.
+0288|El Cairo a pie
+0289|La calle al-Muizz se disfruta sin prisa: mezquitas, madrasas y puertas de varios periodos islámicos, hasta los callejones de Jan el-Jalili.
+0290|Lugares distintos, días distintos
+0291|Saqqara, Menfis y Dahshur están fuera del centro de El Cairo. Reserve para ellos un día completo en lugar de añadirlos a una visita a Guiza.
+0292|Entradas especiales
+0293|Entrar en la Gran Pirámide, algunas zonas de museos y las tumbas especiales requiere entradas aparte con sus propias normas. Comprobamos la disponibilidad antes de incluirlas.
+0294|Vestimenta y normas
+0295|Mezquitas e iglesias esperan una vestimenta respetuosa. Su guía le explica las normas de cada lugar.
+0296|Qué cubre un presupuesto
+0297|Transporte, guía, entradas, almuerzo, bebidas y paseos en barco se detallan línea por línea, para que sepa exactamente qué está incluido.
+0298|Luxor
+0299|Templos, tumbas reales y la antigua Tebas
+0300|Planifique Luxor con Syaha Tour: Karnak y el templo de Luxor en la orilla oriental, el Valle de los Reyes, el templo de Hatshepsut y las Tumbas de los Nobles en la orilla occidental, con un itinerario sugerido de tres días.
+0301|Luxor es uno de los grandes paisajes arqueológicos al aire libre del mundo. En la orilla oriental, Karnak y el templo de Luxor están unidos por la Avenida de las Esfinges; al otro lado del Nilo, la orilla occidental guarda las tumbas reales y los templos funerarios de la antigua Tebas.
+0302|La mayoría de los viajeros necesita tres días para verla bien: uno para los templos y museos de la orilla oriental, otro para el Valle de los Reyes y el templo de Hatshepsut, y otro para Medinet Habu, la aldea de los artesanos y una cuidada selección de Tumbas de los Nobles.
+0303|Orilla oriental
+0304|Karnak, el templo de Luxor, la Avenida de las Esfinges y dos excelentes museos.
+0305|Templos de la orilla occidental
+0306|Hatshepsut, los Colosos, Medinet Habu, el Rameseum y Deir el-Medina.
+0307|Tumbas reales
+0308|El Valle de los Reyes y el de las Reinas, con entradas especiales opcionales.
+0309|Patrimonio para especialistas
+0310|Tumbas de los Nobles y necrópolis más tranquilas, según el acceso.
+0311|Excursiones aparte
+0312|Dendera al norte y Esna al sur.
+0313|Una mañana sin prisas en Karnak
+0314|La Gran Sala Hipóstila, el Lago Sagrado y los obeliscos merecen tiempo. Reserve de dos a tres horas, más si le apasiona la arqueología.
+0315|Elegir sus tumbas reales
+0316|La entrada estándar al Valle de los Reyes incluye una selección de tumbas. Tumbas especiales como las de Tutankamón y Seti I pueden añadirse aparte cuando están abiertas.
+0317|La vida cotidiana en pintura
+0318|En Deir el-Medina y en las Tumbas de los Nobles, escenas de agricultura, oficios y ceremonias muestran cómo vivían los egipcios corrientes.
+0319|Cruzar a la orilla occidental
+0320|Organizamos un vehículo tras cruzar el río, o un cruce en barco enlazado con transporte local, y planificamos la ruta para evitar idas y vueltas.
+0321|Entradas estándar y especiales
+0322|La entrada estándar al Valle de los Reyes no incluye todas las tumbas. Tutankamón, Seti I y Nefertari pueden requerir entradas especiales, y la selección abierta cambia por conservación. Las tumbas mencionadas son posibilidades, no garantías.
+0323|Tumbas y calor
+0324|Cuente con escalones, pasillos estrechos y calor. Un calzado cómodo, agua y salir temprano marcan la diferencia.
+0325|En algunos lugares pueden aplicarse restricciones o cargos adicionales. Comprobamos las normas vigentes para su visita.
+0326|Vuelo en globo
+0327|Disponible como opción según el tiempo, los permisos y la disponibilidad del operador. Nunca se confirma hasta que lo confirma el operador.
+0328|Asuán y Nubia
+0329|Asuán
+0330|Islas del Nilo, cultura nubia y Abu Simbel
+0331|Planifique Asuán y Nubia con Syaha Tour: Filé, aldeas nubias, paseos en faluca, las Tumbas de los Nobles, una excursión de día completo a Abu Simbel y viajes especializados por el lago Nasser.
+0332|En Asuán el Nilo está en su máximo esplendor, fluyendo entre rocas de granito e islas verdes. Al templo de Isis en Filé se llega en barco, las falucas se deslizan frente a Elefantina y en Gharb Soheil las casas pintadas de una aldea nubia reciben a los visitantes.
+0333|Al sur de la ciudad están los monumentos de Nubia: los grandes templos de Abu Simbel, a un día largo pero inolvidable, y los templos rescatados del lago Nasser en Nueva Kalabsha. Hacia el norte, Kom Ombo y Edfu son paradas naturales camino de Luxor.
+0334|Lo esencial de Asuán
+0335|Filé, el Obelisco Inacabado, la Presa Alta y el Museo de Nubia.
+0336|Las islas y el Nilo
+0337|Elefantina, el Jardín Botánico, las falucas y la corniche.
+0338|Cultura nubia
+0339|Gharb Soheil, artesanía local y hospitalidad opcional.
+0340|Patrimonio de la orilla occidental
+0341|Tumbas excavadas en la roca, un monasterio en el desierto y el Mausoleo del Aga Khan.
+0342|Abu Simbel
+0343|Los templos de Ramsés II y Nefertari, una excursión larga de un día.
+0344|Nueva Kalabsha
+0345|Templos nubios rescatados cerca de la Presa Alta.
+0346|Lago Nasser
+0347|Templos remotos para viajes especializados.
+0348|Hacia el norte
+0349|Kom Ombo y Edfu camino de Luxor.
+0350|Filé en barco
+0351|El breve trayecto en barco hasta la isla de Agilkia forma parte de la experiencia. Reserve de dos a tres horas para el templo de Isis.
+0352|Un día en Nubia
+0353|Explore la arquitectura y la artesanía de Gharb Soheil, con hospitalidad nubia opcional, y regrese por el río junto a las islas.
+0354|El camino a Abu Simbel
+0355|Un día largo de unas 10 a 12 horas en total, recompensado por los templos de Ramsés II y Nefertari.
+0356|Los barcos forman parte del plan
+0357|A Filé, las islas y las aldeas nubias se llega en barco, con vehículo para los lugares en tierra.
+0358|Abu Simbel es un día completo
+0359|Está a unos 280 a 300 km de Asuán en cada sentido. La hora de salida depende de las condiciones de transporte y la normativa vigentes.
+0360|El lago Nasser requiere planificación previa
+0361|Templos remotos como Amada, Wadi es-Sebua, Dakka y Maharraqa suelen requerir un barco o una excursión especializada, a veces con una noche fuera. Se organizan con antelación y nunca se venden como una excursión normal de un día.
+0362|Subidas y calor
+0363|Qubbet el-Hawa implica subir; San Simeón puede requerir caminar desde el barco. Cuéntenos sus necesidades de movilidad y organizaremos los días en torno a ellas.
+0364|Los tiempos son estimaciones
+0365|Las duraciones de visita indicadas son estimaciones de planificación, no horarios oficiales. Los horarios, las entradas y las rutas se confirman antes de reservar.
+0366|Las pirámides de Guiza
+0367|Las pirámides de Keops, Kefrén y Micerino, construidas en la IV dinastía y todavía entre los yacimientos arqueológicos más célebres del mundo.
+0368|La Gran Pirámide de Keops
+0369|Construida para el rey Keops hacia el siglo XXVI a. C., fue durante miles de años la estructura más alta hecha por el ser humano.
+0370|Entrar en el interior requiere una entrada aparte y depende de las normas del lugar y la disponibilidad del día.
+0371|La pirámide de Kefrén
+0372|La segunda pirámide más grande de Guiza. Las piedras de revestimiento que se conservan cerca de la cima muestran lo lisas que eran las pirámides.
+0373|La pirámide de Micerino
+0374|La más pequeña de las tres pirámides principales, rodeada de pirámides de reinas más pequeñas y restos de templos.
+0375|La Gran Esfinge
+0376|Una escultura monumental de piedra caliza con cuerpo de león y cabeza humana que custodia el acceso al complejo de las pirámides.
+0377|Mirador panorámico de las pirámides
+0378|La clásica vista amplia de las tres pirámides principales y el mejor lugar para entender la disposición de la meseta antes de recorrerla.
+0379|Gran Museo Egipcio
+0380|Cerca de las pirámides de Guiza
+0381|Un gran museo de la civilización del antiguo Egipto, con galerías monumentales y la colección de Tutankamón.
+0382|La entrada puede tener horario asignado; comprobamos el acceso vigente al planificar su día.
+0383|El Museo Egipcio de Tahrir
+0384|Centro de El Cairo
+0385|El histórico museo de la plaza Tahrir, con estatuas, joyas, papiros y objetos de todas las épocas del antiguo Egipto.
+0386|Las exposiciones cambian a medida que las colecciones se trasladan entre museos; confirmamos lo que se exhibe.
+0387|Museo Nacional de la Civilización Egipcia
+0388|Fustat, El Cairo antiguo
+0389|La historia de la civilización egipcia a lo largo de sus épocas. La Sala de las Momias Reales es lo más destacado para muchos visitantes.
+0390|Museo de Arte Islámico
+0391|Bab al-Khalq
+0392|Una de las grandes colecciones de arte islámico: cerámica, metalistería, madera, tejidos y manuscritos de muchas regiones y épocas.
+0393|Museo del Palacio de Abdín
+0394|Un antiguo palacio real cuyas colecciones cuentan la historia de la monarquía y el Estado egipcios modernos.
+0395|Las secciones abiertas varían; el acceso se confirma con antelación.
+0396|Museo del Palacio de Manial
+0397|Isla de Roda
+0398|Un conjunto palaciego con jardines que combina influencias egipcias, otomanas, persas y europeas.
+0399|Ciudadela de El Cairo
+0400|El Cairo islámico
+0401|Una fortaleza iniciada por Saladino en el siglo XII. Su altura ofrece amplias vistas de la ciudad y alberga varios edificios históricos y museos.
+0402|Mezquita de Mehmet Alí
+0403|Dentro de la Ciudadela
+0404|Sus cúpulas de estilo otomano y sus altos alminares la convierten en el emblema de la Ciudadela.
+0405|Se espera una vestimenta respetuosa; las normas de visita se explican a la llegada.
+0406|Mezquita-madrasa del sultán Hasán
+0407|Un monumental complejo religioso y educativo de época mameluca, notable por su escala y su cantería.
+0408|Mezquita de al-Rifai
+0409|Junto al sultán Hasán, con un interior grandioso y tumbas reales que contrastan con la arquitectura mameluca más antigua de al lado.
+0410|Calle al-Muizz
+0411|Una calle histórica de mezquitas, madrasas, puertas y casas de varios periodos islámicos, que se disfruta mejor a pie con un guía.
+0412|Jan el-Jalili
+0413|El famoso mercado tradicional de El Cairo, con artesanía, lámparas, joyas y cafés, y un lugar animado para regatear con cortesía.
+0414|El Cairo copto
+0415|El Cairo antiguo
+0416|Un barrio de iglesias, lugares religiosos y callejones tranquilos junto a los restos de la fortaleza de Babilonia, en el corazón del patrimonio cristiano de Egipto.
+0417|Confirmamos qué edificios están abiertos ese día.
+0418|La Iglesia Colgante
+0419|Construida sobre una puerta de la fortaleza de Babilonia, apreciada por su historia, sus iconos y su interior de madera.
+0420|Sinagoga Ben Ezra
+0421|Zona del Cairo copto
+0422|Una sinagoga histórica vinculada a los célebres documentos de la Genizá de El Cairo.
+0423|Las condiciones de acceso varían y se confirman en el lugar.
+0424|Saqqara y la pirámide escalonada
+0425|Excursión de un día desde El Cairo
+0426|La pirámide escalonada de Zoser es uno de los primeros grandes monumentos de piedra de Egipto y un hito en la historia de la construcción de pirámides.
+0427|Museo al aire libre de Menfis
+0428|Mit Rahina, excursión de un día
+0429|Esculturas monumentales y restos de una de las primeras capitales de Egipto, normalmente combinados con Saqqara y Dahshur.
+0430|Pirámides de Dahshur
+0431|La pirámide acodada y la pirámide roja muestran cómo evolucionó la construcción de pirámides antes de Guiza.
+0432|Faluca en el Nilo en El Cairo
+0433|En el Nilo
+0434|Un velero tradicional en el río, especialmente evocador al atardecer. La duración, el punto de salida y las medidas de seguridad se acuerdan con el operador.
+0435|Área protegida de Wadi Degla
+0436|Maadi, opción de naturaleza
+0437|Un cañón desértico a las afueras de El Cairo para caminar y admirar una geología sorprendente.
+0438|Solo con transporte adecuado y agua, y prestando atención al acceso y al tiempo.
+0439|Complejo de templos de Karnak
+0440|Uno de los mayores complejos religiosos del mundo antiguo: la Gran Sala Hipóstila, el Lago Sagrado, los obeliscos y el Museo al Aire Libre. Los recintos de Jonsu, Mut y Montu están dentro o junto a él, aunque no todas las zonas están abiertas.
+0441|2–3 horas, más para los apasionados
+0442|Puede haber un espectáculo de luz y sonido como actividad nocturna aparte; el horario y el idioma se confirman al reservar.
+0443|Templo de Luxor
+0444|Centro de Luxor
+0445|Estatuas de Ramsés II, patios y columnatas construidos durante varios reinados, con la mezquita de Abu el-Haggag alzándose dentro del recinto.
+0446|1–1,5 horas
+0447|Una visita al anochecer es preciosa cuando los horarios vigentes lo permiten.
+0448|Avenida de las Esfinges
+0449|Entre Karnak y el templo de Luxor
+0450|La avenida ceremonial que une los dos grandes templos, flanqueada por tramos de esfinges y estatuas con cabeza de carnero. Elegimos un tramo que se ajuste a su tiempo de paseo.
+0451|Museo de Luxor
+0452|Corniche, orilla oriental
+0453|Una colección magníficamente presentada de piezas de la antigua Tebas y la región de Luxor.
+0454|Museo de la Momificación
+0455|Cómo embalsamaban los antiguos egipcios a sus muertos: los materiales, las herramientas y las creencias que había detrás.
+0456|45–75 minutos
+0457|Mezquita de Abu el-Haggag
+0458|Dentro del templo de Luxor
+0459|Un importante lugar religioso construido dentro del recinto del templo de Luxor.
+0460|Las visitas respetan los horarios de oración y las indicaciones de vestimenta.
+0461|Zoco de Luxor y corniche del Nilo
+0462|Compras, cafés y paseos junto al río: un contrapunto tranquilo a los templos.
+0463|Templo de Hatshepsut
+0464|Deir el-Bahari
+0465|Un espectacular templo en terrazas al pie de los acantilados, conocido por sus columnatas y relieves.
+0466|1,5–2 horas
+0467|Colosos de Memnón
+0468|Llanura tebana
+0469|Dos monumentales estatuas sedentes asociadas al templo funerario de Amenhotep III.
+0470|Parada fotográfica de 15–30 minutos
+0471|Medinet Habu
+0472|Templo de Ramsés III
+0473|Un vasto complejo con impresionantes puertas y relieves de la vida real y religiosa.
+0474|El Rameseum
+0475|Templo funerario de Ramsés II
+0476|Patios, relieves históricos y restos de estatuas colosales.
+0477|Deir el-Medina
+0478|Aldea de los artesanos
+0479|La aldea y las tumbas de los artesanos que construyeron las tumbas reales, ricas en escenas pintadas de la vida cotidiana.
+0480|Valle de los Reyes
+0481|Orilla occidental
+0482|La necrópolis real de los faraones del Imperio Nuevo. La entrada estándar incluye una selección de tumbas; entre las que suelen considerarse están Ramsés VI (KV9), con su techo astronómico, Ramsés III (KV11), Ramsés IV (KV2) y Merenptah (KV8).
+0483|2–3 horas
+0484|Las tumbas abiertas cambian cada día por motivos de conservación. Tutankamón (KV62) y Seti I (KV17) pueden requerir una entrada especial aparte, por eso figuran como opcionales. Cuente con escaleras, pasillos estrechos y calor en el exterior.
+0485|Valle de las Reinas
+0486|Tumbas de reinas e hijos reales, entre ellas la célebre tumba pintada de Nefertari (QV66) y la de Amenherkhepeshef (QV55).
+0487|1–2 horas
+0488|La tumba de Nefertari se gestiona aparte y puede requerir una entrada especial. Las demás tumbas dependen de los calendarios de conservación.
+0489|Tumbas de los Nobles
+0490|Sheij Abd el-Qurna y Joja
+0491|Tumbas de funcionarios, escribas y sacerdotes pintadas con escenas de agricultura, oficios y ceremonias. Entre las candidatas: Najt (TT52), Menna (TT69), Rejmira (TT100) y Ramose (TT55), además de Sennedyem (TT1) en Deir el-Medina.
+0492|Medio día para varias tumbas
+0493|El acceso y las entradas varían según la tumba. Elegimos dos o tres que estén abiertas; visitarlas todas en un solo recorrido no es práctico.
+0494|Necrópolis de el-Asasif
+0495|Un extenso cementerio con tumbas de distintas épocas, incluidas grandes tumbas de altos funcionarios.
+0496|Para recorridos especializados centrados en tumbas, según el acceso.
+0497|Dra Abu el-Naga
+0498|Al norte de las principales Tumbas de los Nobles
+0499|Una necrópolis importante para viajeros que quieren ir más allá de las tumbas más conocidas.
+0500|Según el acceso vigente.
+0501|Deir el-Shelwit y el templo de Amenhotep III
+0502|Templos menos visitados y los restos del templo funerario de Amenhotep III, con distintos grados de conservación.
+0503|Solo se incluye tras comprobar el acceso de visitantes y el estado del camino.
+0504|Tod y Armant
+0505|Al sur de Luxor
+0506|El templo de la antigua Tuphium en Tod y los restos de Armant, para excursiones especializadas específicas.
+0507|Se planifican como excursiones aparte una vez confirmado el acceso.
+0508|Complejo del templo de Dendera
+0509|Gobernación de Qena, al norte de Luxor
+0510|Un templo notablemente bien conservado, dedicado en gran parte a Hathor. Está fuera de Luxor y constituye una excursión de un día aparte.
+0511|Templo de Esna
+0512|El templo de Jnum, conocido por sus columnas y su techo decorado.
+0513|Se planifica como excursión aparte; antes se comprueban las condiciones de apertura.
+0514|Templo de Filé
+0515|Isla de Agilkia, en barco
+0516|El templo de Isis, reconstruido en la isla de Agilkia y al que se llega con un breve trayecto en barco.
+0517|El Obelisco Inacabado
+0518|Canteras de granito
+0519|Un obelisco abandonado en la cantera que revela cómo los canteros antiguos trabajaban el granito.
+0520|45–60 minutos
+0521|La Presa Alta
+0522|Al sur de Asuán
+0523|Un hito de la ingeniería moderna que dio origen al lago Nasser.
+0524|30–60 minutos
+0525|La entrada depende de las condiciones del lugar ese día.
+0526|Museo de Nubia
+0527|La historia, la arqueología y la cultura viva de Nubia en una colección presentada con esmero.
+0528|Isla Elefantina y Museo de Asuán
+0529|En el Nilo, en Asuán
+0530|Los restos arqueológicos de la isla, su museo y el antiguo nilómetro.
+0531|Comprobamos qué secciones están abiertas.
+0532|Jardín Botánico, isla Kitchener
+0533|En barco
+0534|Un jardín en una isla con plantas y árboles variados, al que se llega en barco.
+0535|Faluca en el Nilo
+0536|Navegue entre las islas bajo una vela blanca, idealmente hacia el atardecer.
+0537|Normalmente 1–2 horas
+0538|Zoco y corniche de Asuán
+0539|El antiguo mercado y el paseo junto al río para compras, paseos y cafés.
+0540|Aldea nubia de Gharb Soheil
+0541|Orilla occidental de Asuán
+0542|Arquitectura colorida, artesanía local y cultura nubia, con hospitalidad como opción.
+0543|Otras islas y aldeas nubias
+0544|Otras islas y aldeas pueden sumarse a una ruta en barco adecuada, organizada con un operador local.
+0545|Tumbas de los Nobles y Qubbet el-Hawa
+0546|Tumbas excavadas en la roca muy por encima del río, con algunas de las mejores vistas de Asuán.
+0547|Implica una subida y algo de caminata.
+0548|Monasterio de San Simeón
+0549|Un histórico monasterio copto en el desierto, sobre el Nilo.
+0550|Se llega en barco y luego a pie o en transporte local, según las condiciones.
+0551|Mausoleo del Aga Khan
+0552|Un elegante monumento en la colina sobre el río, que se admira desde el Nilo y sus alrededores.
+0553|Se disfruta desde el Nilo y sus alrededores. El acceso al interior no está incluido ni garantizado.
+0554|Unos 280–300 km al sur de Asuán
+0555|El Gran Templo de Ramsés II y el templo de Nefertari, con tiempo para explicaciones y fotografías.
+0556|Un día completo y largo, unas 10–12 horas en total
+0557|La hora de salida y la ruta dependen de las condiciones de transporte y la normativa vigentes.
+0558|Templo de Kalabsha
+0559|Un templo trasladado para salvarlo de la subida de las aguas del lago Nasser.
+0560|Las condiciones de acceso se comprueban antes de confirmar.
+0561|Beit el-Wali
+0562|Un pequeño templo excavado en la roca asociado a Ramsés II.
+0563|Solo se visita cuando puede organizarse un acceso autorizado.
+0564|Templos del lago Nasser
+0565|Al sur de la Presa Alta
+0566|Amada, Wadi es-Sebua, Dakka, Maharraqa y otros lugares nubios a orillas del lago.
+0567|Estos lugares remotos suelen requerir una excursión especializada organizada o un barco, y pueden implicar una noche fuera o varios días. No son una excursión normal de un día y solo se ofrecen una vez confirmada una ruta.
+0568|Templo de Kom Ombo
+0569|Al norte de Asuán
+0570|Un singular templo doble, con el Museo del Cocodrilo al lado. Una parada natural camino de Luxor.
+0571|Templo de Edfu
+0572|Al norte de Kom Ombo
+0573|El templo de Horus, uno de los mejor conservados de Egipto, que suele combinarse con el viaje a Luxor.
+0574|Pirámides y Gran Museo Egipcio
+0575|1 día
+0576|La meseta de Guiza y la Gran Esfinge por la mañana; los tesoros del Gran Museo Egipcio después del almuerzo.
+0577|El primer día imprescindible en Egipto. Comience en la meseta de Guiza con las pirámides de Keops, Kefrén y Micerino, disfrute del mirador panorámico y sitúese frente a la Gran Esfinge.
+0578|Tras una pausa para almorzar, continúe hasta el cercano Gran Museo Egipcio, con sus galerías monumentales y la colección de Tutankamón.
+0579|La Gran Pirámide y el mirador panorámico
+0580|La colección de Tutankamón en el Gran Museo Egipcio
+0581|Mañana
+0582|La meseta de Guiza
+0583|La Gran Pirámide de Keops, vista desde el exterior
+0584|Mirador panorámico de las tres pirámides principales
+0585|Interior de la Gran Pirámide con entrada aparte, si hay disponibilidad
+0586|Mediodía
+0587|Pausa para almorzar
+0588|Almuerzo cerca de la meseta
+0589|Tarde
+0590|Las galerías y la colección de Tutankamón
+0591|Las entradas al museo pueden tener horario; confirmamos el acceso al presupuestar.
+0592|Entrada al interior de la Gran Pirámide (entrada aparte, según disponibilidad)
+0593|Un paseo vespertino en faluca por el Nilo
+0594|Vehículo privado y punto de recogida
+0595|Guía e idioma de la visita
+0596|Entradas, incluidas las entradas especiales
+0597|Comidas y bebidas
+0598|La Ciudadela y la mezquita de Mehmet Alí, el sultán Hasán y al-Rifai, y después la calle al-Muizz y Jan el-Jalili.
+0599|Un día entre las cúpulas y alminares de El Cairo medieval. Empiece en lo alto, en la Ciudadela, la fortaleza de Saladino del siglo XII, con la mezquita otomana de Mehmet Alí y vistas sobre la ciudad.
+0600|Descienda al monumental complejo mameluco del sultán Hasán y su vecina al-Rifai, y recorra a pie la calle al-Muizz entre mezquitas, madrasas y puertas hasta terminar en los callejones de Jan el-Jalili.
+0601|Vistas de la ciudad desde la Ciudadela de El Cairo
+0602|El sultán Hasán y al-Rifai, una junto a otra
+0603|Un paseo guiado por la calle al-Muizz
+0604|La artesanía y los cafés de Jan el-Jalili
+0605|La Ciudadela
+0606|El Cairo mameluco
+0607|Calles antiguas y el bazar
+0608|Paseo por la calle al-Muizz
+0609|A pie por la ciudad antigua
+0610|La calle al-Muizz se recorre en un paseo guiado por calles históricas.
+0611|Una velada en un café tradicional de Jan el-Jalili
+0612|Indicaciones de vestimenta para visitar mezquitas
+0613|El Cairo antiguo y museos
+0614|El Museo Nacional de la Civilización Egipcia, El Cairo copto, y el Museo Egipcio o el Museo de Arte Islámico.
+0615|Siga la civilización egipcia desde sus orígenes hasta la ciudad medieval. El Museo Nacional de la Civilización Egipcia, que alberga la Sala de las Momias Reales, está cerca del Cairo copto, donde iglesias y callejones rodean la fortaleza de Babilonia.
+0616|Por la tarde, elija entre el histórico Museo Egipcio de Tahrir y el Museo de Arte Islámico, y termine en el río si lo desea.
+0617|La Sala de las Momias Reales del NMEC
+0618|La Iglesia Colgante y El Cairo copto
+0619|A elegir: el Museo Egipcio o el Museo de Arte Islámico
+0620|La civilización egipcia
+0621|La Iglesia Colgante y los callejones del Cairo copto
+0622|Un segundo museo
+0623|El Museo Egipcio de Tahrir o el Museo de Arte Islámico
+0624|Paseo en faluca por el Nilo
+0625|Sinagoga Ben Ezra, si el acceso lo permite
+0626|La faluca y su operador, si se añade
+0627|Saqqara, Menfis y Dahshur
+0628|La historia de las pirámides antes de Guiza: la pirámide escalonada, la antigua Menfis y las pirámides acodada y roja.
+0629|Estos lugares están fuera del centro de El Cairo y merecen un día completo. En Saqqara, la pirámide escalonada de Zoser figura entre los primeros edificios monumentales de piedra de Egipto.
+0630|Continúe hasta el museo al aire libre de Menfis, una de las primeras capitales de Egipto, y termine en Dahshur, donde la pirámide acodada y la pirámide roja muestran a los constructores aprendiendo su oficio.
+0631|La pirámide escalonada de Zoser
+0632|Esculturas monumentales en Menfis
+0633|La pirámide acodada y la pirámide roja
+0634|Saqqara
+0635|La pirámide escalonada de Zoser y su entorno
+0636|Menfis
+0637|Dahshur
+0638|La pirámide acodada
+0639|La pirámide roja
+0640|Combínelo con un día en Guiza para un itinerario centrado en las pirámides
+0641|El Cairo copto en medio día
+0642|Medio día
+0643|La Iglesia Colgante, callejones históricos y lugares patrimoniales cercanos en El Cairo antiguo.
+0644|Medio día concentrado en el corazón del patrimonio cristiano de Egipto. Descubra la Iglesia Colgante, construida sobre una puerta de la fortaleza de Babilonia, y los tranquilos callejones que la rodean.
+0645|Los lugares patrimoniales cercanos, como la sinagoga Ben Ezra, se añaden según lo que esté abierto ese día.
+0646|Los callejones del Cairo copto
+0647|Lugares patrimoniales cercanos, según apertura
+0648|Callejones históricos y lugares patrimoniales cercanos
+0649|Callejones a pie
+0650|Los callejones históricos del Cairo copto se recorren a pie.
+0651|Combínelo con el Museo Nacional de la Civilización Egipcia para un día completo
+0652|Tarde en el Nilo y el mercado
+0653|Noche
+0654|Una faluca reservada con antelación o una experiencia a orillas del Nilo, y después un mercado tradicional si el horario lo permite.
+0655|Termine con calma un día de monumentos. Navegue en una faluca reservada o disfrute de una experiencia a orillas del Nilo mientras se encienden las luces de la ciudad.
+0656|Si el horario lo permite, continúe hasta un mercado tradicional para un paseo nocturno.
+0657|El Cairo desde el río
+0658|Un mercado tradicional por la noche
+0659|Río y mercado
+0660|Paseo en faluca o experiencia a orillas del Nilo
+0661|Visita a un mercado tradicional, si el horario lo permite
+0662|Cena organizada bajo petición
+0663|Operador de la faluca, duración, punto de salida y medidas de seguridad
+0664|Luxor en tres días
+0665|3 días
+0666|Templos y museos de la orilla oriental, el Valle de los Reyes y el templo de Hatshepsut, y después Medinet Habu y una selección de Tumbas de los Nobles.
+0667|Una primera visita equilibrada a la antigua Tebas. El primer día se queda en la orilla oriental con Karnak, un museo y una velada en el templo de Luxor. El segundo día se cruza el río temprano para las tumbas reales y el templo en terrazas de Hatshepsut.
+0668|El tercer día baja el ritmo con Medinet Habu, el Rameseum o Deir el-Medina, y dos o tres Tumbas de los Nobles elegidas entre las abiertas ese día. Cada jornada se ajusta a su energía e intereses en lugar de llenarse con todos los lugares.
+0669|La Gran Sala Hipóstila de Karnak
+0670|Tumbas reales en el Valle de los Reyes
+0671|El templo de Hatshepsut en Deir el-Bahari
+0672|Escenas pintadas de la vida cotidiana en las Tumbas de los Nobles
+0673|Día 1
+0674|Templos y museos de la orilla oriental
+0675|Complejo de templos de Karnak, con el Museo al Aire Libre si está abierto
+0676|Museo de Luxor o Museo de la Momificación
+0677|Templo de Luxor y un tramo de la Avenida de las Esfinges, según los horarios
+0678|Día 2
+0679|Valle de los Reyes, Hatshepsut y los Colosos
+0680|Temprano
+0681|Valle de los Reyes, con las tumbas incluidas en la entrada estándar
+0682|Tumbas especiales como las de Tutankamón o Seti I, con entradas aparte cuando estén abiertas
+0683|Templo de Hatshepsut en Deir el-Bahari
+0684|Parada fotográfica en los Colosos de Memnón
+0685|Valle de las Reinas, solo si el tiempo, la energía y el acceso lo permiten
+0686|Las tumbas abiertas cada día las decide el lugar y cambian por conservación. Nunca prometemos una tumba concreta.
+0687|Día 3
+0688|Templos funerarios y Tumbas de los Nobles
+0689|El Rameseum o Deir el-Medina
+0690|Dos o tres Tumbas de los Nobles abiertas y adecuadas para su grupo
+0691|¿Prefiere un día especializado? Dendera o Esna pueden sustituir este día, aunque un día aparte suele funcionar mejor.
+0692|Escalones y pasillos estrechos
+0693|Las tumbas implican escaleras, pasillos estrechos y altas temperaturas exteriores. Para familias y viajeros con movilidad reducida reducimos el número de tumbas, incluimos pausas y comprobamos distancias a pie y puntos de bajada.
+0694|Entradas especiales a tumbas: Tutankamón (KV62), Seti I (KV17), Nefertari (QV66), cuando estén abiertas
+0695|Espectáculo de luz y sonido en Karnak
+0696|Vuelo en globo, según el tiempo, los permisos y la confirmación del operador
+0697|Una excursión aparte de un día a Dendera o Esna
+0698|Cruce del Nilo a la orilla occidental
+0699|Entradas estándar y especiales
+0700|Alojamiento para sus noches en Luxor
+0701|Normas de fotografía y posibles cargos adicionales
+0702|Descubra Asuán y Nubia en 7 días
+0703|7 días
+0704|Los grandes lugares de Asuán, un día de cultura nubia, Abu Simbel, Nueva Kalabsha y un final opcional en el lago Nasser o hacia el norte.
+0705|Una semana para conocer de verdad Asuán y Nubia. Los primeros días cubren Filé, el Obelisco Inacabado, el Museo de Nubia, Elefantina y las islas, y después un día completo de cultura nubia en Gharb Soheil.
+0706|La segunda mitad viaja al sur: un día largo a Abu Simbel, los templos rescatados de Nueva Kalabsha y un día reservado para los lugares remotos del lago Nasser si puede organizarse una excursión especializada. El último día se va hacia el norte por Kom Ombo y Edfu o se queda en Asuán.
+0707|El templo de Isis en Filé, al que se llega en barco
+0708|Gharb Soheil y hospitalidad nubia opcional
+0709|Los templos de Ramsés II y Nefertari en Abu Simbel
+0710|Kalabsha, rescatado del lago Nasser
+0711|La Presa Alta, Filé y el Obelisco Inacabado
+0713|Encuentro en su hotel o en el aeropuerto
+0715|La Presa Alta, una vez confirmada la entrada
+0717|Barco desde el embarcadero de Filé hasta el templo, unas dos horas en el lugar
+0719|Almuerzo
+0721|El Obelisco Inacabado y las canteras de granito
+0723|Regreso al hotel; el zoco por la noche
+0724|Museos, islas y la orilla occidental
+0726|Isla Elefantina y el nilómetro, si están abiertos
+0728|El Jardín Botánico
+0730|Tumbas de los Nobles, si las condiciones para caminar y el tiempo lo permiten
+0731|La corniche del Nilo o un breve paseo en faluca
+0732|Cultura nubia y el Nilo
+0733|Gharb Soheil
+0734|Un paseo cultural entre artesanía y casas
+0736|Hospitalidad nubia o almuerzo
+0738|Un paseo por el Nilo junto a las islas
+0740|Tiempo libre para fotografía y compras
+0741|Día 4
+0742|Salida, a la hora fijada por las condiciones de transporte confirmadas
+0743|El Gran Templo de Ramsés II y el templo de Nefertari, con tiempo para explicaciones y fotografías
+0744|Parada de descanso y regreso a Asuán
+0745|Un día largo de unas 10 a 12 horas en total. La ruta, la entrada y las instrucciones vigentes se confirman con antelación.
+0746|Día 5
+0747|Kalabsha y monumentos nubios cercanos
+0748|Templo de Kalabsha en Nueva Kalabsha
+0749|Beit el-Wali u otro lugar cercano, solo si pueden asegurarse el acceso y la entrada
+0750|Regreso a Asuán
+0751|No todos los templos del lago Nasser son accesibles en una breve visita por tierra.
+0752|Día 6
+0753|Día especializado en el lago Nasser, o un día en Asuán
+0754|Una excursión especializada organizada con antelación a lugares accesibles como Amada, Wadi es-Sebua, Dakka o Maharraqa
+0755|Alternativa local: un día de reserva para una visita local a su elección o tiempo libre en Asuán
+0756|Estos lugares remotos pueden requerir un barco, una noche fuera o varios días. Solo los ofrecemos una vez confirmada una ruta especializada; de lo contrario, se aplica la alternativa local.
+0757|Día 7
+0758|Kom Ombo y Edfu, o salida desde Asuán
+0759|Opción A: viajar al norte hasta Kom Ombo y después Edfu, continuando a Luxor solo si el tiempo lo permite
+0760|Opción B: quedarse en Asuán para el zoco y la corniche, y después traslado al aeropuerto o la estación
+0761|El tiempo de carretera, las visitas, las pausas y el equipaje se calculan antes de confirmar una hora de llegada.
+0762|Mayormente moderado, con subidas
+0763|Las Tumbas de los Nobles de Qubbet el-Hawa implican subir y caminar, y Abu Simbel es un día largo. Cuéntenos si es sensible al calor o tiene necesidades de movilidad y adaptaremos el ritmo.
+0764|Excursión especializada al lago Nasser, solo con organización previa
+0765|Hospitalidad nubia o almuerzo en Gharb Soheil
+0766|Continuación a Luxor por Kom Ombo y Edfu
+0767|Vehículo, capacidad y punto de recogida
+0768|Barcos para Filé, las islas y las aldeas nubias
+0769|Entradas
+0770|Alojamiento en Asuán
+0771|Permisos o instrucciones de ruta para Abu Simbel y el lago Nasser
+0772|Vista aérea del complejo de pirámides de Guiza
+0773|Las tres pirámides de Guiza vistas desde arriba, con el desierto al fondo
+0774|La Gran Pirámide de Keops alzándose en la meseta de Guiza
+0775|La pirámide de Kefrén con piedras de revestimiento conservadas cerca de la cima
+0776|La pirámide de Micerino, la más pequeña de las tres pirámides principales de Guiza
+0777|La Gran Esfinge de Guiza
+0778|La Gran Esfinge de Guiza delante de las pirámides
+0779|Las pirámides de Guiza desde un mirador panorámico
+0780|Vista panorámica a través del desierto de las tres pirámides principales de Guiza
+0781|El Gran Museo Egipcio
+0782|Exterior del Gran Museo Egipcio cerca de las pirámides de Guiza
+0783|El Museo Egipcio de la plaza Tahrir
+0784|La histórica fachada roja del Museo Egipcio de Tahrir, El Cairo
+0785|El Museo Nacional de la Civilización Egipcia
+0786|El Museo Nacional de la Civilización Egipcia en Fustat, El Cairo antiguo
+0787|El Museo de Arte Islámico, El Cairo
+0788|Fachada del Museo de Arte Islámico en Bab al-Khalq, El Cairo
+0789|Palacio de Abdín, El Cairo
+0790|La fachada del Palacio de Abdín en el centro de El Cairo
+0791|Palacio de Manial, isla de Roda
+0792|El Palacio de Manial y sus jardines en la isla de Roda, El Cairo
+0793|La Ciudadela de El Cairo
+0794|Las murallas de la Ciudadela de El Cairo sobre la ciudad
+0795|La mezquita de Mehmet Alí
+0796|Las cúpulas y los esbeltos alminares de la mezquita de Mehmet Alí
+0797|La mezquita-madrasa del sultán Hasán
+0798|Los monumentales muros de piedra de la mezquita-madrasa del sultán Hasán
+0799|La mezquita de al-Rifai en El Cairo histórico
+0800|Fachadas históricas y alminares a lo largo de la calle al-Muizz
+0801|Bazar de Jan el-Jalili
+0802|Farolillos y escaparates en los callejones de Jan el-Jalili
+0803|La Iglesia Colgante, El Cairo copto
+0804|Las torres gemelas de la Iglesia Colgante en El Cairo copto
+0805|La Iglesia Colgante, uno de los emblemas del Cairo copto
+0806|La sinagoga Ben Ezra en la zona del Cairo copto
+0807|Una faluca en el Nilo en El Cairo
+0808|Una faluca de vela blanca en el Nilo en El Cairo
+0809|La pirámide escalonada de Zoser, Saqqara
+0810|La pirámide escalonada de Zoser en Saqqara
+0811|La pirámide acodada de Seneferu, Dahshur
+0812|La pirámide acodada de Seneferu en Dahshur, cuyo ángulo cambia a media altura
+0813|Estatua colosal de Ramsés II, Menfis
+0814|La estatua colosal de Ramsés II en el museo al aire libre de Menfis
+0815|El cañón calizo de Wadi Degla a las afueras de El Cairo
+0816|Columnas de la Gran Sala Hipóstila de Karnak
+0817|El templo de Luxor con sus columnatas y estatuas de Ramsés II
+0818|La zona del santuario del templo de Luxor
+0819|Interior del templo de Luxor cerca del santuario
+0820|La Avenida de las Esfinges hacia el templo de Luxor
+0821|Hileras de esfinges a lo largo de la avenida hacia el templo de Luxor
+0822|Piezas antiguas expuestas en el Museo de Luxor
+0823|Museo de la Momificación, Luxor
+0824|El Museo de la Momificación en la corniche de Luxor
+0825|Mezquita de Abu el-Haggag en el recinto del templo de Luxor
+0826|La mezquita de Abu el-Haggag alzándose sobre el recinto del templo de Luxor
+0827|Templo funerario de Hatshepsut, Deir el-Bahari
+0828|El templo en terrazas de Hatshepsut bajo los acantilados de Deir el-Bahari
+0829|Los Colosos de Memnón
+0830|Los dos Colosos de Memnón sedentes en la llanura tebana
+0831|Medinet Habu, orilla occidental de Luxor
+0832|Puertas y muros tallados en Medinet Habu
+0833|Columnas y estatuas caídas en el Rameseum
+0834|Los restos de la aldea de los artesanos en Deir el-Medina
+0835|El Valle de los Reyes
+0836|El Valle de los Reyes en la orilla occidental de Luxor
+0837|Tumba de Ramsés IV (KV2), Valle de los Reyes
+0838|Interior pintado de la tumba de Ramsés IV en el Valle de los Reyes
+0839|La tumba de Tutankamón (KV62)
+0840|La tumba de Tutankamón en el Valle de los Reyes
+0841|El Valle de las Reinas
+0842|La necrópolis del Valle de las Reinas en la orilla occidental de Luxor
+0843|Tumbas de los Nobles, orilla occidental de Luxor
+0844|Entradas en la ladera de las Tumbas de los Nobles en la orilla occidental de Luxor
+0845|La necrópolis de el-Asasif en la orilla occidental de Luxor
+0846|La fachada con columnas del templo de Hathor en Dendera
+0847|Templo de Jnum, Esna
+0848|Columnas decoradas en el interior del templo de Jnum en Esna
+0849|El Nilo en Luxor
+0850|El Nilo en Luxor con las colinas de la orilla occidental al fondo
+0851|Templo de Isis en Filé, isla de Agilkia
+0852|El templo de Isis en Filé reflejado en el Nilo
+0853|El Obelisco Inacabado, Asuán
+0854|El Obelisco Inacabado tendido en la cantera de granito de Asuán
+0855|La Presa Alta de Asuán
+0856|La Presa Alta de Asuán conteniendo el lago Nasser
+0857|Museo de Nubia, Asuán
+0858|El Museo de Nubia en Asuán
+0859|Isla Elefantina, Asuán
+0860|La isla Elefantina en el Nilo, en Asuán
+0861|Jardín Botánico de Asuán, isla Kitchener
+0862|Palmeras y árboles tropicales en el Jardín Botánico de Asuán
+0863|Falucas en el Nilo en Asuán
+0864|Falucas navegando entre islas de granito en Asuán
+0865|Aldea nubia de Gharb Soheil
+0866|Casas pintadas de colores vivos en la aldea nubia de Gharb Soheil
+0867|Qubbet el-Hawa y las Tumbas de los Nobles, Asuán
+0868|Tumbas excavadas en la roca en la colina de Qubbet el-Hawa sobre el Nilo
+0869|Monasterio de San Simeón, Asuán
+0870|Los muros de adobe del Monasterio de San Simeón en el desierto
+0871|El Mausoleo del Aga Khan visto desde el Nilo
+0872|El Mausoleo del Aga Khan en la colina sobre el Nilo en Asuán
+0873|Mercado y corniche de Asuán
+0874|Las calles comerciales de Asuán
+0875|El Gran Templo de Ramsés II, Abu Simbel
+0876|Los cuatro colosos sedentes de Ramsés II en Abu Simbel
+0877|Templo de Kalabsha, Nueva Kalabsha
+0878|El templo de Kalabsha a orillas del lago Nasser
+0879|Templo excavado en la roca de Beit el-Wali
+0880|El pequeño templo excavado en la roca de Beit el-Wali
+0881|Las aguas abiertas y las orillas desérticas del lago Nasser
+0882|Templo de Kom Ombo
+0883|El templo doble de Kom Ombo sobre el Nilo
+0884|Templo de Horus en Edfu
+0885|El gran pilono del templo de Horus en Edfu

@@ -1,0 +1,874 @@
+0000|Syaha Tour | Skræddersyede rejser i Kairo, Luxor og Aswan
+0001|Skræddersyede rejser til Kairo og Giza, Luxor samt Aswan og Nubien. Udforsk vores forslag til rejseplaner, og bed om et tilbud tilpasset dine datoer og interesser.
+0002|Spring til indhold
+0003|Åbn menu
+0004|Luk menu
+0005|Hovednavigation
+0006|Sidefodsnavigation
+0007|Sprog
+0008|Brødkrumme
+0009|Illustration
+0010|Forside
+0011|Destinationer
+0012|Alle destinationer
+0013|Oplevelser
+0014|Forslag til rejser
+0015|Rejser
+0016|Kontakt
+0017|Planlæg din rejse
+0018|Billedkreditering
+0019|Udforsk
+0020|Se rejsen
+0021|Alle rejseforslag
+0022|Bed om et skræddersyet tilbud
+0023|Planlæg denne rejse
+0024|Planlæg en rejse til {name}
+0025|Foreslået tid
+0026|Godt at vide
+0027|Separat udflugt
+0028|Varighed
+0029|Destination
+0030|Højdepunkter
+0031|Forslag til rejseplan
+0032|Læs mere
+0033|Skriv til os på WhatsApp
+0034|Til toppen
+0035|Oldtidsmonumenter
+0036|Monumenter
+0037|Pyramider, templer og kongegrave fra fem tusind års historie.
+0038|Museer
+0039|Fra Det Store Egyptiske Museum til Nubien-museet og paladsernes samlinger.
+0040|Kulturelle møder
+0041|Kultur
+0042|Det historiske Kairo, koptisk kulturarv, basarer og nubiske landsbyer.
+0043|Oplevelser på Nilen
+0044|Nilen
+0045|Felukker, haver på øer og bådture mellem templerne.
+0046|Specialiseret arkæologi
+0047|Specialist
+0048|Adelsgrave, tidlige pyramider og afsidesliggende nubiske templer, afhængigt af adgang.
+0049|Kairo · Luxor · Aswan
+0050|Oldtidens vidundere. Din helt egen rejse til Egypten.
+0051|Oplev Kairo, Luxor og Aswan på omhyggeligt planlagte rejser, formet efter dine interesser.
+0052|Planlæg min rejse
+0053|Udforsk destinationer
+0054|Hvor vil du gerne begynde?
+0055|Interesse
+0056|Alle interesser
+0057|Vis idéer
+0058|Tre destinationer
+0059|Én flod, tre kapitler af Egypten
+0060|Rejs med Syaha Tour
+0061|En rejse planlagt omkring dig, ikke en fast afgang
+0062|Egypten belønner rejsende, der tager sig tid. I stedet for at sælge faste afgange former vi hvert program efter dine rejsedatoer, interesser, gruppestørrelse og budget, med udgangspunkt i detaljerede planlægningsguider til Kairo og Giza, Luxor samt Aswan og Nubien.
+0063|Vi er ærlige om de detaljer, der betyder noget: hvilke grave kræver særbilletter, hvilke steder kræver en separat dag, og hvilke afsidesliggende templer skal arrangeres på forhånd. De endelige besøg afhænger altid af gældende åbningstider, adgang og billetsalg, og hvert tilbud angiver tydeligt, hvad der er inkluderet.
+0064|I dit tempo
+0065|Afslappet eller aktivt, med pauser og færre grave for familier og rejsende med nedsat mobilitet.
+0066|Tydelige ydelser
+0067|Transport, guide, billetter, måltider og både står linje for linje i dit tilbud.
+0068|Realistiske ruter
+0069|Vi undgår unødig frem- og tilbagekørsel og presser aldrig alle seværdigheder ind på én dag.
+0070|Forslag til rejser
+0071|Udgangspunkter for din rejseplan
+0072|Hver rejse er et forslag, som vi tilpasser dig. Varighederne er omtrentlige, og hvert program prissættes individuelt.
+0073|Rejs efter det, der begejstrer dig
+0074|Sådan fungerer det
+0075|Fra første idé til skræddersyet forslag
+0076|Fortæl os om din rejse
+0077|Angiv dine datoer, destinationer, interesser og tempo i vores korte formular.
+0078|Vi planlægger og tjekker
+0079|Vi udarbejder en rute og tjekker åbningstider, adgang og billetter ud fra gældende oplysninger.
+0080|Modtag dit forslag
+0081|Dit skræddersyede tilbud viser, hvad der er inkluderet: transport, guide, billetter, måltider, både og overnatning, hvor det er relevant.
+0082|Vi finjusterer sammen
+0083|Justér dagene, indtil rejsen føles rigtig. Intet bekræftes, før du er tilfreds.
+0084|Spørgsmål om planlægning
+0085|Godt at vide, før du planlægger
+0086|Begynd at planlægge din rejse til Egypten
+0087|Fortæl os, hvor du gerne vil hen, og hvad du holder af. Vi udarbejder et forslag til rejseplan og sender dig et skræddersyet tilbud.
+0088|Er det faste ture med faste afrejsedatoer?
+0089|Nej. Hver rejse på dette websted er et forslag til rejseplan. Vi tilpasser programmet til dine rejsedatoer, interesser, gruppestørrelse og budget og bekræfter det først, når vi har tjekket den aktuelle adgang.
+0090|Hvorfor viser I ikke priser?
+0091|Billetpriser, adgang til særlige grave og transportomkostninger ændrer sig og afhænger af din gruppe og dine valg. Vi giver et individuelt tilbud på hver rejse efter at have tjekket gældende officielle oplysninger, så det beløb, du modtager, er et, vi kan stå inde for.
+0092|Hvad indeholder et tilbud?
+0093|Hvert tilbud angiver tydeligt, hvad der er og ikke er inkluderet: transport, guide, entrébilletter, måltider, bådtransport, overnatning hvor relevant, tilvalg og afbestillingsbetingelser.
+0094|Kan I garantere adgang til en bestemt grav?
+0095|Nej. I Kongernes Dal og andre steder skifter de åbne grave fra dag til dag af hensyn til bevaringen, og nogle kræver særbilletter. Vi planlægger ud fra det, der er åbent, og betragter nævnte grave som muligheder.
+0096|Hvor lang er turen til Abu Simbel?
+0097|Det er en lang dag fra Aswan, cirka 280 til 300 km hver vej og som regel omkring 10 til 12 timer i alt. Afgangstidspunktet følger de gældende transportordninger.
+0098|Kan vi besøge templerne ved Nassersøen på én dag?
+0099|Som regel ikke. Afsidesliggende steder som Amada og Wadi es-Sebua kræver ofte en båd eller en specialtur, nogle gange med overnatning. Vi arrangerer dem på forhånd, når en rute kan bekræftes.
+0100|Vi rejser med børn eller har nedsat mobilitet. Kan I tilpasse rejsen?
+0101|Ja. Vi skærer ned på antallet af grave, lægger pauser ind og tjekker gåafstande og afsætningssteder. Fortæl os om dine behov i planlægningsformularen.
+0102|Hvilke sprog kan vores guide tale?
+0103|Angiv dit foretrukne guidesprog i planlægningsformularen. Vi bekræfter, om der er en guide på det sprog, i dit tilbud.
+0104|Hvor vi rejser
+0105|Tre destinationer langs Nilen, hver med sin egen karakter. Vælg én for at udforske dens seværdigheder, eller kombinér dem til en længere rejse.
+0106|Kombinér destinationer
+0107|Mange rejsende kombinerer Kairo med Luxor eller Luxor med Aswan. Kom Ombo og Edfu ligger på vejen mellem Aswan og Luxor og er naturlige stop på vej nordpå. Fortæl os, hvilke destinationer der interesserer dig, så foreslår vi en realistisk rækkefølge.
+0108|{count} steder at udforske
+0109|Skematisk kort over Nilen fra Kairo til Aswan, ikke målfast
+0110|Esna
+0111|Edfu
+0112|Kom Ombo
+0113|Steder at udforske
+0114|Gennemse efter område og interesse
+0115|Område
+0116|Alle
+0117|Viser {count} af {total}
+0118|Intet matcher begge filtre. Prøv et andet område eller en anden interesse.
+0119|Ryd filtre
+0120|Oplevelser, du ikke må gå glip af
+0121|Forslag til rejseplaner
+0122|Sådan kan du opleve {name}
+0123|Praktiske oplysninger
+0124|Planlæg {name}
+0125|Åbningstider, billetter og adgang ændrer sig. Vi tjekker detaljerne hos officielle kilder som Ministeriet for Turisme og Oldsager, før vi giver et tilbud.
+0126|Planlæg dine dage i {name}
+0127|Fortæl os dine datoer og interesser, så udarbejder vi et forslag til rejseplan.
+0128|Rejs efter interesse
+0129|Vælg det, du holder mest af, og se, hvor det fører hen, på tværs af alle tre destinationer.
+0130|{count} oplevelser
+0131|Ingen oplevelser matcher disse filtre.
+0132|Rejseplaner
+0133|Forslag til rejseplaner baseret på vores destinationsguider. De er udgangspunkter, ikke faste afgange: hver rejse tilpasses dig og prissættes individuelt.
+0134|Dette er et forslag til rejseplan, ikke en planlagt afgang. De endelige besøg afhænger af gældende åbningstider, adgang og billetter og bekræftes i dit tilbud.
+0135|Overblik
+0136|Dag for dag
+0137|Fold alle ud
+0138|Fold alle sammen
+0139|Valgfrit
+0140|Gang og tempo
+0141|Hvor meget der skal gås, afhænger af de valgte steder. Vi aftaler det med dig under planlægningen.
+0142|Mulige tilvalg
+0143|Bekræftes i dit tilbud
+0144|Hvert tilbud oplister tydeligt disse punkter, så du ved præcis, hvad der er inkluderet.
+0145|Gør rejsen til din egen
+0146|Bed om et skræddersyet tilbud, så tilpasser vi denne rejseplan til dine datoer, dit tempo og dine interesser.
+0147|Steder på denne rejse
+0148|Rejseforespørgsel
+0149|Fortæl os om den rejse, du har i tankerne. Det tager omkring tre minutter og er helt uforpligtende.
+0150|Hvad sker der nu
+0151|Vi gennemgår din forespørgsel og udarbejder et forslag til rute.
+0152|Vi tjekker åbningstider, adgang og billetter ud fra gældende oplysninger.
+0153|Du modtager et skræddersyet tilbud, der præcist viser, hvad der er inkluderet.
+0154|Din rejse
+0155|Dine præferencer
+0156|Gennemse
+0157|Trin {current} af {total}
+0158|Fortsæt
+0159|Tilbage
+0160|Send min forespørgsel
+0161|Sender…
+0162|Redigér
+0163|Påkrævet
+0164|Tjek venligst følgende:
+0165|Hvilke destinationer interesserer dig?
+0166|Vælg én eller flere.
+0167|Ved ikke endnu
+0168|Rejseforslag
+0169|Ingen bestemt rejse
+0170|Hvornår vil du gerne rejse?
+0171|Bestemte datoer
+0172|Fleksible datoer
+0173|Ankomstdato
+0174|Afrejsedato
+0175|Omtrentligt tidspunkt
+0176|For eksempel: sidst i marts eller to uger i efteråret.
+0177|Voksne
+0178|Børn
+0179|Børnenes alder
+0180|Omtrentlig rejselængde
+0181|1–3 dage
+0182|4–6 dage
+0183|7–9 dage
+0184|10–14 dage
+0185|15+ dage
+0186|Hvad interesserer dig mest?
+0187|Vælg alle, der passer.
+0188|Fotografering
+0189|Foretrukket tempo
+0190|Afslappet
+0191|Afbalanceret
+0192|Aktivt
+0193|Budget pr. person
+0194|Valgfrit. Det hjælper os med at foreslå passende muligheder.
+0195|Vil helst ikke oplyse
+0196|Moderat
+0197|Komfortabelt
+0198|Premium
+0199|Luksus
+0200|Behov vedrørende tilgængelighed eller mobilitet
+0201|Valgfrit. For eksempel: begrænset gangdistance, kørestol, varmefølsomhed.
+0202|Fulde navn
+0203|E-mail
+0204|Telefon eller WhatsApp
+0205|Valgfrit. Angiv landekode, for eksempel +44 20 7946 0000.
+0206|Foretrukken kontaktform
+0207|Telefonopkald
+0208|WhatsApp
+0209|Foretrukket guidesprog
+0210|Vi bekræfter, om der er en guide på dette sprog, i dit tilbud.
+0211|Er der andet, vi bør vide?
+0212|Mærkedage, steder du allerede har besøgt, særlige interesser…
+0213|Jeg accepterer, at Syaha Tour kontakter mig om denne forespørgsel.
+0214|Gennemse din forespørgsel
+0215|Tjek venligst dine oplysninger, før du sender.
+0216|Vælg mindst én destination, eller vælg “Ved ikke endnu”.
+0217|Angiv din ankomstdato, eller skift til fleksible datoer.
+0218|Afrejsedatoen skal ligge efter ankomstdatoen.
+0219|Ankomstdatoen skal ligge i fremtiden.
+0220|Fortæl os cirka, hvornår du gerne vil rejse.
+0221|Der skal være mindst én voksen.
+0222|Angiv et tal fra 0 til 20.
+0223|Vælg en omtrentlig rejselængde.
+0224|Angiv dit navn.
+0225|Angiv en gyldig e-mailadresse.
+0226|Angiv landekoden, startende med +.
+0227|Tilføj et telefonnummer for at blive kontaktet via telefon eller WhatsApp.
+0228|Giv venligst dit samtykke, så vi kan svare på din forespørgsel.
+0229|Forhåndsvisning
+0230|Forhåndsvisningstilstand: forespørgsler sendes endnu ikke
+0231|Webstedets forespørgselstjeneste er ikke tilsluttet endnu, så din forespørgsel kan ikke sendes herfra. Kopiér eller download dit resumé nedenfor, og send det direkte til Syaha Tour.
+0232|Kopiér resumé
+0233|Kopieret
+0234|Download resumé
+0235|Tak, vi har modtaget din forespørgsel
+0236|Vores team gennemgår dine planer og svarer via din foretrukne kontaktform. Hold øje med din indbakke, også spammappen.
+0237|Reference
+0238|Din forespørgsel kunne ikke sendes
+0239|Intet er gået tabt: dine svar er her stadig. Prøv igen, eller kopiér dit resumé og send det direkte til os.
+0240|Prøv igen
+0241|Forespørgsler kan ikke sendes lige nu
+0242|For mange forsøg. Vent et par minutter, og prøv igen.
+0243|Ja
+0244|Nej
+0245|Ikke angivet
+0246|Kontakt os
+0247|Den bedste måde at kontakte os på er via rejseplanlægningsformularen. Den giver os alt, hvad vi behøver for at svare med brugbare forslag.
+0248|Åbn planlægningsformularen
+0249|Direkte kontakt
+0250|Telefon
+0251|Direkte kontaktoplysninger vises snart her. Brug indtil da planlægningsformularen.
+0252|Vi krediterer hvert fotografi, der bruges på dette websted. Fotografierne genbruges under de viste licenser med links til deres oprindelige kildesider.
+0253|Fotografier
+0254|Der vises i øjeblikket ingen fotografier fra tredjeparter.
+0255|Illustrationer
+0256|Hvor et fotografi endnu ikke er godkendt til genbrug, viser webstedet en original illustration lavet til Syaha Tour. Disse illustrationer er ikke fotografier af de nævnte steder.
+0257|Motiv
+0258|Ophavsperson
+0259|Licens
+0260|Kilde
+0261|Afventer et verificeret fotografi
+0262|Skræddersyede rejser til Kairo og Giza, Luxor samt Aswan og Nubien.
+0263|Alle rejseplaner er forslag. Åbningstider, billetpriser, adgang og fotograferingsregler kan ændre sig og bekræftes før booking.
+0264|Planlæg
+0265|Syaha Tour
+0266|Denne side er gået vild fra kortet
+0267|Den side, du leder efter, findes ikke eller er flyttet.
+0268|Til forsiden
+0269|Kairo & Giza
+0270|Kairo
+0271|Pyramider, museer og levende kulturarv
+0272|Planlæg Kairo og Giza med Syaha Tour: pyramiderne og Sfinksen, Det Store Egyptiske Museum, det historiske og koptiske Kairo samt dagsture til Saqqara, Memfis og Dahshur.
+0273|Egyptens hovedstad rummer fem tusind år i én by. På Giza-plateauet står Kheops', Khefrens og Mykerinos' pyramider ved siden af Den Store Sfinks; få minutter derfra samler Det Store Egyptiske Museum faraonernes skatte.
+0274|På den anden side af floden fortæller Citadellet, det historiske Kairos mamlukmoskeer og gyderne i Al-Muizz-gaden og Khan el-Khalili en senere historie, mens kirkerne i det koptiske Kairo ligger ved resterne af Babylon-fæstningen. Uden for byen viser Saqqara, Memfis og Dahshur, hvordan pyramiderne begyndte.
+0275|Giza-plateauet
+0276|De tre store pyramider, Sfinksen og udsigtspunkterne imellem dem.
+0277|Oldtidens civilisation, islamisk kunst og kongelige paladser.
+0278|Det historiske Kairo
+0279|Citadellet, mamlukmoskeerne og den gamle basar.
+0280|Koptisk kulturarv
+0281|Kirker, en historisk synagoge og Babylon-fæstningen.
+0282|Valgfrie udflugter
+0283|Tidligere pyramider, oldtidens Memfis, Nilen og ørkenen.
+0284|Begynd på plateauet
+0285|Start ved det panoramiske udsigtspunkt for at se alle tre pyramider samlet, og gå derefter rundt blandt dem med en guide, der forklarer, hvordan og hvorfor de blev bygget.
+0286|To store museer
+0287|Kombinér Det Store Egyptiske Museum med Nationalmuseet for Egyptisk Civilisation og dets Sal for Kongelige Mumier, eller med det historiske Egyptiske Museum ved Tahrir.
+0288|Kairo til fods
+0289|Al-Muizz-gaden opleves bedst i roligt tempo: moskeer, madrasaer og porte fra flere islamiske perioder, med afslutning i gyderne i Khan el-Khalili.
+0290|Separate steder, separate dage
+0291|Saqqara, Memfis og Dahshur ligger uden for det centrale Kairo. Sæt en hel dag af til dem i stedet for at lægge dem oven i et besøg i Giza.
+0292|Særbilletter
+0293|Adgang til Den Store Pyramide, visse museumsafdelinger og særlige grave kræver separate billetter med egne regler. Vi tjekker tilgængeligheden, før vi tager dem med.
+0294|Påklædning og skikke
+0295|Moskeer og kirker forventer respektfuld påklædning. Din guide forklarer reglerne på hvert sted.
+0296|Hvad et tilbud dækker
+0297|Transport, guide, entrébilletter, frokost, drikkevarer og bådture står linje for linje, så du ved præcis, hvad der er inkluderet.
+0298|Luxor
+0299|Templer, kongegrave og oldtidens Theben
+0300|Planlæg Luxor med Syaha Tour: Karnak og Luxortemplet på østbredden, Kongernes Dal, Hatshepsuts tempel og Adelsgravene på vestbredden, med et forslag til en tredagesrejse.
+0301|Luxor er et af verdens store arkæologiske landskaber under åben himmel. På østbredden er Karnak og Luxortemplet forbundet af Sfinksalléen; på den anden side af Nilen rummer vestbredden oldtidens Thebens kongegrave og dødetempler.
+0302|De fleste rejsende har brug for tre dage for at opleve byen ordentligt: én til østbreddens templer og museer, én til Kongernes Dal og Hatshepsuts tempel og én til Medinet Habu, håndværkerlandsbyen og et nøje udvalg af Adelsgrave.
+0303|Østbredden
+0304|Karnak, Luxortemplet, Sfinksalléen og to fine museer.
+0305|Vestbreddens templer
+0306|Hatshepsut, kolosserne, Medinet Habu, Ramesseum og Deir el-Medina.
+0307|Kongegrave
+0308|Kongernes Dal og Dronningernes Dal, med valgfrie særbilletter.
+0309|Kulturarv for specialister
+0310|Adelsgrave og roligere nekropoler, afhængigt af adgang.
+0311|Separate udflugter
+0312|Dendera mod nord og Esna mod syd.
+0313|En rolig formiddag i Karnak
+0314|Den Store Søjlehal, Den Hellige Sø og obeliskerne fortjener tid. Sæt to til tre timer af, mere hvis du elsker arkæologi.
+0315|Valg af kongegrave
+0316|En standardbillet til Kongernes Dal giver adgang til et udvalg af grave. Særlige grave som Tutankhamons og Seti I's kan tilføjes separat, når de er åbne.
+0317|Hverdagsliv i maling
+0318|I Deir el-Medina og i Adelsgravene viser scener med landbrug, håndværk og ceremonier, hvordan almindelige egyptere levede.
+0319|Over til vestbredden
+0320|Vi arrangerer et køretøj efter flodkrydsningen eller en bådoverfart koblet med lokal transport og planlægger ruten, så vi undgår at køre frem og tilbage.
+0321|Standardbilletter og særbilletter
+0322|Standardbilletten til Kongernes Dal omfatter ikke alle grave. Tutankhamon, Seti I og Nefertari kan kræve særbilletter, og udvalget af åbne grave skifter af hensyn til bevaringen. Nævnte grave er muligheder, ikke garantier.
+0323|Grave og varme
+0324|Regn med trapper, smalle gange og varme. Behagelige sko, vand og en tidlig start gør en stor forskel.
+0325|Der kan gælde begrænsninger eller ekstra gebyrer visse steder. Vi tjekker de gældende regler for dit besøg.
+0326|Luftballonfart
+0327|Kan tilvælges afhængigt af vejr, tilladelser og operatørens kapacitet. Bekræftes aldrig, før operatøren har bekræftet.
+0328|Aswan & Nubien
+0329|Aswan
+0330|Nilens øer, nubisk kultur og Abu Simbel
+0331|Planlæg Aswan og Nubien med Syaha Tour: Philae, nubiske landsbyer, felukture, Adelsgravene, en heldagsudflugt til Abu Simbel og specialrejser på Nassersøen.
+0332|I Aswan er Nilen på sit smukkeste, hvor den flyder mellem granitblokke og grønne øer. Isis-templet på Philae nås med båd, felukker glider forbi Elephantine, og i Gharb Soheil byder de malede huse i en nubisk landsby besøgende velkommen.
+0333|Syd for byen ligger Nubiens monumenter: de store templer i Abu Simbel, en lang men uforglemmelig dagstur væk, og de templer ved Ny Kalabsha, der blev reddet fra Nassersøen. Mod nord er Kom Ombo og Edfu naturlige stop på vejen til Luxor.
+0334|Højdepunkter i Aswan
+0335|Philae, Den Ufærdige Obelisk, Højdæmningen og Nubien-museet.
+0336|Øerne og Nilen
+0337|Elephantine, Den Botaniske Have, felukker og strandpromenaden.
+0338|Nubisk kultur
+0339|Gharb Soheil, lokalt håndværk og valgfri gæstfrihed.
+0340|Vestbreddens kulturarv
+0341|Klippegrave, et ørkenkloster og Aga Khans mausoleum.
+0342|Abu Simbel
+0343|Ramses II's og Nefertaris templer, en lang dagstur.
+0344|Ny Kalabsha
+0345|Reddede nubiske templer nær Højdæmningen.
+0346|Nassersøen
+0347|Afsidesliggende templer til specialrejser.
+0348|Mod nord
+0349|Kom Ombo og Edfu på vej til Luxor.
+0350|Philae med båd
+0351|Den korte sejltur til Agilkia-øen er en del af oplevelsen. Sæt to til tre timer af til Isis-templet.
+0352|En dag i Nubien
+0353|Udforsk arkitekturen og håndværket i Gharb Soheil, med valgfri nubisk gæstfrihed, og sejl derefter tilbage ad floden forbi øerne.
+0354|Vejen til Abu Simbel
+0355|En lang dag på omkring 10 til 12 timer i alt, belønnet med Ramses II's og Nefertaris templer.
+0356|Både er en del af planen
+0357|Philae, øerne og de nubiske landsbyer nås med båd, med et køretøj til stederne på land.
+0358|Abu Simbel tager en hel dag
+0359|Stedet ligger cirka 280 til 300 km fra Aswan hver vej. Afgangstidspunktet følger de gældende transportordninger og regler.
+0360|Nassersøen kræver planlægning på forhånd
+0361|Afsidesliggende templer som Amada, Wadi es-Sebua, Dakka og Maharraqa kræver som regel en båd eller en specialtur, nogle gange med overnatning. De arrangeres på forhånd og sælges aldrig som en almindelig dagstur.
+0362|Stigninger og varme
+0363|Qubbet el-Hawa indebærer en stigning; ved Sankt Simeon kan der være gang fra båden. Fortæl os om dine mobilitetsbehov, så tilrettelægger vi dagene efter dem.
+0364|Tiderne er skøn
+0365|Besøgstiderne her er planlægningsskøn, ikke officielle tidsplaner. Åbningstider, billetter og ruter bekræftes før booking.
+0366|Pyramiderne i Giza
+0367|Kheops', Khefrens og Mykerinos' pyramider, bygget i Egyptens 4. dynasti og stadig blandt verdens mest berømte arkæologiske steder.
+0368|Kheops' store pyramide
+0369|Bygget til kong Kheops omkring det 26. århundrede f.Kr. og i tusinder af år verdens højeste menneskeskabte bygningsværk.
+0370|Adgang til det indre kræver en separat billet og afhænger af stedets regler og kapaciteten på dagen.
+0371|Khefrens pyramide
+0372|Den næststørste pyramide i Giza. Beklædningssten bevaret nær toppen viser, hvor glatte pyramiderne engang var.
+0373|Mykerinos' pyramide
+0374|Den mindste af de tre hovedpyramider, omgivet af mindre dronningepyramider og rester af templer.
+0375|Den Store Sfinks
+0376|En monumental kalkstensskulptur med løvekrop og menneskehoved, der vogter adgangen til pyramidekomplekset.
+0377|Panoramisk udsigtspunkt over pyramiderne
+0378|Den klassiske vide udsigt over alle tre hovedpyramider og det bedste sted at forstå plateauets indretning, før du udforsker det.
+0379|Det Store Egyptiske Museum
+0380|Nær Giza-pyramiderne
+0381|Et stort museum for oldtidens egyptiske civilisation med monumentale sale og Tutankhamon-samlingen.
+0382|Adgangen kan være tidsbestemt; vi tjekker den aktuelle adgang, når vi planlægger din dag.
+0383|Det Egyptiske Museum ved Tahrir
+0384|Kairos centrum
+0385|Det historiske museum ved Tahrir-pladsen med statuer, smykker, papyrus og genstande fra alle Egyptens oldtidsperioder.
+0386|Udstillingerne ændrer sig, efterhånden som samlinger flyttes mellem museer; vi bekræfter, hvad der vises.
+0387|Nationalmuseet for Egyptisk Civilisation
+0388|Fustat, det gamle Kairo
+0389|Historien om den egyptiske civilisation gennem tiderne. Salen for Kongelige Mumier er et højdepunkt for mange besøgende.
+0390|Museet for Islamisk Kunst
+0391|Bab al-Khalq
+0392|En af de store samlinger af islamisk kunst: keramik, metalarbejde, træarbejde, tekstiler og manuskripter fra mange regioner og perioder.
+0393|Abdeen-paladsets museum
+0394|Et tidligere kongeligt palads, hvis samlinger fortæller historien om Egyptens moderne monarki og stat.
+0395|De åbne afdelinger varierer; adgangen bekræftes på forhånd.
+0396|Manial-paladsets museum
+0397|Rhoda-øen
+0398|Et paladskompleks med haver, der blander egyptiske, osmanniske, persiske og europæiske påvirkninger.
+0399|Citadellet i Kairo
+0400|Det islamiske Kairo
+0401|En fæstning påbegyndt under Saladin i 1100-tallet. Dens højde giver en vid udsigt over byen, og den rummer flere historiske bygninger og museer.
+0402|Muhammad Ali-moskeen
+0403|Inde i Citadellet
+0404|Kupler i osmannisk stil og høje minareter gør moskeen til Citadellets vartegn.
+0405|Respektfuld påklædning forventes; reglerne forklares ved ankomsten.
+0406|Sultan Hassans moské-madrasa
+0407|Et monumentalt religiøst og lærd kompleks fra mamluktiden, bemærkelsesværdigt for sin størrelse og sit stenarbejde.
+0408|Al-Rifa'i-moskeen
+0409|Ved siden af Sultan Hassan, med et storslået interiør og kongegrave, der står i kontrast til den ældre mamlukarkitektur ved siden af.
+0410|Al-Muizz-gaden
+0411|En historisk gade med moskeer, madrasaer, porte og huse fra flere islamiske perioder, bedst udforsket til fods med en guide.
+0412|Khan el-Khalili
+0413|Kairos berømte traditionelle marked for håndværk, lamper, smykker og caféer og et livligt sted at øve sig i høflig prutning.
+0414|Det koptiske Kairo
+0415|Det gamle Kairo
+0416|Et kvarter med kirker, religiøse steder og stille gyder ved resterne af Babylon-fæstningen, i hjertet af Egyptens kristne kulturarv.
+0417|Vi bekræfter, hvilke bygninger der er åbne på dagen.
+0418|Den Hængende Kirke
+0419|Bygget oven på et porthus i Babylon-fæstningen og værdsat for sin historie, sine ikoner og sit træinteriør.
+0420|Ben Ezra-synagogen
+0421|Området ved det koptiske Kairo
+0422|En historisk synagoge forbundet med de berømte dokumenter fra Kairo-genizaen.
+0423|Adgangsforholdene varierer og bekræftes lokalt.
+0424|Saqqara og trinpyramiden
+0425|Dagstur fra Kairo
+0426|Djosers trinpyramide er et af Egyptens tidligste store stenmonumenter og en milepæl i pyramidebyggeriets historie.
+0427|Frilandsmuseet i Memfis
+0428|Mit Rahina, dagstur
+0429|Monumentale skulpturer og rester fra en af Egyptens tidligste hovedstæder, som regel kombineret med Saqqara og Dahshur.
+0430|Pyramiderne i Dahshur
+0431|Den Knækkede Pyramide og Den Røde Pyramide viser, hvordan pyramidebyggeriet udviklede sig før Giza.
+0432|Feluk på Nilen i Kairo
+0433|På Nilen
+0434|En traditionel sejlbåd på floden, mest stemningsfuld omkring solnedgang. Varighed, afgangssted og sikkerhedsforhold aftales med operatøren.
+0435|Wadi Degla-reservatet
+0436|Maadi, naturmulighed
+0437|En ørkenkløft i udkanten af Kairo til vandreture og slående geologi.
+0438|Kun med egnet transport og vand og med opmærksomhed på adgang og vejr.
+0439|Karnak-tempelkomplekset
+0440|Et af oldtidens største religiøse komplekser: Den Store Søjlehal, Den Hellige Sø, obelisker og frilandsmuseet. Khonsus, Muts og Montus områder ligger inden for eller ved siden af, men ikke alle områder er åbne.
+0441|2–3 timer, længere for entusiaster
+0442|Et lys- og lydshow kan finde sted som separat aftenaktivitet; tidspunkt og sprog bekræftes ved booking.
+0443|Luxortemplet
+0444|Det centrale Luxor
+0445|Statuer af Ramses II, gårde og søjlegange bygget under flere regenter, med Abu Haggag-moskeen hævet inde i tempelområdet.
+0446|1–1,5 time
+0447|Et aftenbesøg er smukt, når de gældende åbningstider tillader det.
+0448|Sfinksalléen
+0449|Mellem Karnak og Luxortemplet
+0450|Den ceremonielle allé, der forbinder de to store templer, delvist flankeret af sfinkser og vædderhovedede statuer. Vi vælger en strækning, der passer til din gåtid.
+0451|Luxor-museet
+0452|Strandpromenaden, østbredden
+0453|En smukt præsenteret samling af genstande fra oldtidens Theben og Luxor-regionen.
+0454|Mumificeringsmuseet
+0455|Hvordan de gamle egyptere balsamerede de døde: materialerne, redskaberne og troen bag.
+0456|45–75 minutter
+0457|Abu Haggag-moskeen
+0458|Inde i Luxortemplet
+0459|Et vigtigt religiøst vartegn bygget inde i Luxortemplets område.
+0460|Besøg tager hensyn til bedetider og påklædningsvejledning.
+0461|Luxors souk og Nil-promenaden
+0462|Shopping, caféer og gåture langs floden: en afslappet modvægt til templerne.
+0463|Hatshepsuts tempel
+0464|Deir el-Bahari
+0465|Et dramatisk terrassetempel foran klipperne, kendt for sine søjlegange og relieffer.
+0466|1,5–2 timer
+0467|Memnonkolosserne
+0468|Thebens slette
+0469|To monumentale siddende statuer knyttet til Amenhotep III's dødetempel.
+0470|Fotostop på 15–30 minutter
+0471|Medinet Habu
+0472|Ramses III's tempel
+0473|Et stort kompleks med imponerende porte og relieffer fra det kongelige og religiøse liv.
+0474|Ramesseum
+0475|Ramses II's dødetempel
+0476|Gårde, historiske relieffer og rester af kolossale statuer.
+0477|Deir el-Medina
+0478|Håndværkerlandsbyen
+0479|Landsbyen og gravene for de håndværkere, der byggede kongegravene, rige på malede scener fra hverdagslivet.
+0480|Kongernes Dal
+0481|Vestbredden
+0482|Nyrigets faraoers kongelige nekropol. En standardbillet giver adgang til et udvalg af grave; blandt dem, der ofte kommer på tale, er Ramses VI (KV9) med sit astronomiske loft, Ramses III (KV11), Ramses IV (KV2) og Merenptah (KV8).
+0483|2–3 timer
+0484|De åbne grave skifter fra dag til dag af hensyn til bevaringen. Tutankhamon (KV62) og Seti I (KV17) kan kræve en separat særbillet og er derfor angivet som valgfri. Regn med trapper, smalle gange og varme udenfor.
+0485|Dronningernes Dal
+0486|Grave for dronninger og kongebørn, herunder Nefertaris berømte malede grav (QV66) og Amenherkhepeshefs (QV55).
+0487|1–2 timer
+0488|Nefertaris grav administreres separat og kan kræve en særbillet. Andre grave afhænger af bevaringsplaner.
+0489|Adelsgravene
+0490|Sheikh Abd el-Qurna og Khokha
+0491|Grave for embedsmænd, skrivere og præster, malet med landbrug, håndværk og ceremonier. Mulige valg omfatter Nakht (TT52), Menna (TT69), Rekhmire (TT100) og Ramose (TT55) samt Sennedjem (TT1) i Deir el-Medina.
+0492|En halv dag til flere grave
+0493|Adgang og billetter varierer fra grav til grav. Vi vælger to eller tre, der er åbne; at besøge dem alle på én tur er ikke realistisk.
+0494|Asasif-nekropolen
+0495|En omfattende gravplads med grave fra forskellige perioder, herunder store grave for højtstående embedsmænd.
+0496|Til specialiserede gravture, afhængigt af adgang.
+0497|Dra' Abu el-Naga
+0498|Nord for de vigtigste Adelsgrave
+0499|En vigtig nekropol for rejsende, der vil længere end de mest kendte grave.
+0500|Afhænger af den aktuelle adgang.
+0501|Deir el-Shelwit og Amenhotep III's tempel
+0502|Mindre besøgte templer og resterne af Amenhotep III's dødetempel, i varierende bevaringsgrad.
+0503|Medtages kun, når vi har tjekket adgang for besøgende og vejforhold.
+0504|Tod og Armant
+0505|Syd for Luxor
+0506|Tempelstedet for det antikke Tuphium ved Tod og resterne ved Armant, til særskilte specialudflugter.
+0507|Planlægges som separate udflugter, når adgangen er bekræftet.
+0508|Dendera-tempelkomplekset
+0509|Qena-guvernementet, nord for Luxor
+0510|Et bemærkelsesværdigt velbevaret tempel, primært viet til Hathor. Det ligger uden for Luxor og er en separat dagstur.
+0511|Esna-templet
+0512|Khnum-templet, kendt for sine søjler og sit dekorerede loft.
+0513|Planlægges som separat udflugt; åbningsforholdene tjekkes først.
+0514|Philae-templet
+0515|Agilkia-øen, med båd
+0516|Isis-templet, genopført på Agilkia-øen og nået med en kort sejltur.
+0517|Den Ufærdige Obelisk
+0518|Granitbrud
+0519|En obelisk efterladt i stenbruddet, der viser, hvordan oldtidens stenhuggere bearbejdede granit.
+0520|45–60 minutter
+0521|Højdæmningen
+0522|Syd for Aswan
+0523|Et vartegn for moderne ingeniørkunst, der skabte Nassersøen.
+0524|30–60 minutter
+0525|Adgangen følger stedets ordninger på dagen.
+0526|Nubien-museet
+0527|Nubiens historie, arkæologi og levende kultur i én omhyggeligt fortalt samling.
+0528|Elephantine-øen og Aswan-museet
+0529|I Nilen ved Aswan
+0530|Øens arkæologiske rester, dens museum og den antikke nilometer.
+0531|Vi tjekker, hvilke afdelinger der er åbne.
+0532|Den Botaniske Have, Kitchener-øen
+0533|Med båd
+0534|En ø-have med varierede planter og træer, nået med båd.
+0535|Feluk på Nilen
+0536|Sejl mellem øerne under et hvidt sejl, helst hen mod solnedgang.
+0537|Som regel 1–2 timer
+0538|Aswans souk og strandpromenade
+0539|Det gamle marked og flodpromenaden til shopping, slentreture og caféer.
+0540|Den nubiske landsby Gharb Soheil
+0541|Aswans vestbred
+0542|Farverig arkitektur, lokalt håndværk og nubisk kultur, med gæstfrihed som tilvalg.
+0543|Andre nubiske øer og landsbyer
+0544|Flere øer og landsbyer kan indgå i en passende bådrute, arrangeret med en lokal operatør.
+0545|Adelsgravene og Qubbet el-Hawa
+0546|Klippegrave højt over floden med nogle af Aswans flotteste udsigter.
+0547|Indebærer en stigning og lidt gang.
+0548|Sankt Simeons kloster
+0549|Et historisk koptisk kloster i ørkenen over Nilen.
+0550|Nås med båd og derefter til fods eller med lokal transport afhængigt af forholdene.
+0551|Aga Khans mausoleum
+0552|Et elegant vartegn på bakken over floden, beundret fra Nilen og omgivelserne.
+0553|Nydes fra Nilen og omgivelserne. Adgang til det indre er hverken inkluderet eller lovet.
+0554|Cirka 280–300 km syd for Aswan
+0555|Ramses II's store tempel og Nefertaris tempel, med tid til fortolkning og fotografering.
+0556|En lang heldag, omkring 10–12 timer i alt
+0557|Afgangstidspunkt og rute følger de gældende transportordninger og regler.
+0558|Kalabsha-templet
+0559|Et tempel, der blev flyttet for at redde det fra Nassersøens stigende vand.
+0560|Adgangsforholdene tjekkes, før vi bekræfter.
+0561|Beit el-Wali
+0562|Et lille klippetempel knyttet til Ramses II.
+0563|Besøges kun, hvor autoriseret adgang kan arrangeres.
+0564|Templer ved Nassersøen
+0565|Syd for Højdæmningen
+0566|Amada, Wadi es-Sebua, Dakka, Maharraqa og andre nubiske steder langs søen.
+0567|Disse afsidesliggende steder kræver som regel en organiseret specialtur eller en båd og kan indebære overnatning eller flere dage. De er ikke en almindelig dagstur og tilbydes kun, når en rute er bekræftet.
+0568|Kom Ombo-templet
+0569|Nord for Aswan
+0570|Et karakteristisk dobbelttempel med Krokodillemuseet ved siden af. Et naturligt stop på vejen til Luxor.
+0571|Edfu-templet
+0572|Nord for Kom Ombo
+0573|Horus-templet, et af Egyptens bedst bevarede templer, som regel kombineret med rejsen til Luxor.
+0574|Pyramiderne & Det Store Egyptiske Museum
+0575|1 dag
+0576|Giza-plateauet og Den Store Sfinks om formiddagen, skattene i Det Store Egyptiske Museum efter frokost.
+0577|Den uundværlige første dag i Egypten. Begynd på Giza-plateauet med Kheops', Khefrens og Mykerinos' pyramider, nyd det panoramiske udsigtspunkt, og stå ansigt til ansigt med Den Store Sfinks.
+0578|Efter en frokostpause fortsætter du til det nærliggende Store Egyptiske Museum med dets monumentale sale og Tutankhamon-samlingen.
+0579|Den Store Pyramide og det panoramiske udsigtspunkt
+0580|Tutankhamon-samlingen i Det Store Egyptiske Museum
+0581|Formiddag
+0582|Giza-plateauet
+0583|Kheops' store pyramide, set udefra
+0584|Panoramisk udsigtspunkt over de tre hovedpyramider
+0585|Inde i Den Store Pyramide med separat billet, hvis muligt
+0586|Middag
+0587|Frokostpause
+0588|Frokost nær plateauet
+0589|Eftermiddag
+0590|Salene og Tutankhamon-samlingen
+0591|Museumsbilletter kan være tidsbestemte; vi bekræfter adgangen i tilbuddet.
+0592|Adgang til det indre af Den Store Pyramide (separat billet, afhængigt af tilgængelighed)
+0593|En aftentur i feluk på Nilen
+0594|Privat køretøj og afhentningssted
+0595|Guide og guidesprog
+0596|Entrébilletter, inklusive eventuelle særbilletter
+0597|Måltider og drikkevarer
+0598|Citadellet og Muhammad Ali-moskeen, Sultan Hassan og Al-Rifa'i, derefter Al-Muizz-gaden og Khan el-Khalili.
+0599|En dag blandt kupler og minareter i middelalderens Kairo. Start højt oppe ved Citadellet, Saladins fæstning fra 1100-tallet, med Muhammad Ali-moskeen i osmannisk stil og udsigt over byen.
+0600|Gå ned til Sultan Hassans monumentale mamlukkompleks og naboen Al-Rifa'i, og gå derefter ad Al-Muizz-gaden forbi moskeer, madrasaer og porte for at slutte i gyderne i Khan el-Khalili.
+0601|Udsigt over byen fra Citadellet i Kairo
+0602|Sultan Hassan og Al-Rifa'i side om side
+0603|En guidet gåtur ad Al-Muizz-gaden
+0604|Håndværk og caféer i Khan el-Khalili
+0605|Citadellet
+0606|Mamlukkernes Kairo
+0607|Gamle gader og basaren
+0608|Gåtur ad Al-Muizz-gaden
+0609|Til fods i den gamle by
+0610|Al-Muizz-gaden udforskes på en guidet gåtur gennem historiske gader.
+0611|En aften på en traditionel café i Khan el-Khalili
+0612|Påklædningsvejledning til moskébesøg
+0613|Det gamle Kairo & museer
+0614|Nationalmuseet for Egyptisk Civilisation, det koptiske Kairo og Det Egyptiske Museum eller Museet for Islamisk Kunst.
+0615|Følg den egyptiske civilisation fra begyndelsen til middelalderbyen. Nationalmuseet for Egyptisk Civilisation med Salen for Kongelige Mumier ligger tæt på det koptiske Kairo, hvor kirker og gyder omgiver Babylon-fæstningen.
+0616|Om eftermiddagen vælger du mellem det historiske Egyptiske Museum ved Tahrir og Museet for Islamisk Kunst, og hvis du har lyst, slutter dagen på floden.
+0617|Salen for Kongelige Mumier i NMEC
+0618|Den Hængende Kirke og det koptiske Kairo
+0619|Efter eget valg: Det Egyptiske Museum eller Museet for Islamisk Kunst
+0620|Den egyptiske civilisation
+0621|Den Hængende Kirke og gyderne i det koptiske Kairo
+0622|Et andet museum
+0623|Det Egyptiske Museum ved Tahrir eller Museet for Islamisk Kunst
+0624|Feluktur på Nilen
+0625|Ben Ezra-synagogen, hvis adgangen tillader det
+0626|Feluk og operatør, hvis tilvalgt
+0627|Saqqara, Memfis & Dahshur
+0628|Historien om pyramiderne før Giza: trinpyramiden, oldtidens Memfis og Den Knækkede og Den Røde Pyramide.
+0629|Disse steder ligger uden for det centrale Kairo og fortjener en hel dag for sig. I Saqqara er Djosers trinpyramide blandt Egyptens tidligste monumentale stenbygninger.
+0630|Fortsæt til frilandsmuseet i Memfis, en af Egyptens tidligste hovedstæder, og slut i Dahshur, hvor Den Knækkede Pyramide og Den Røde Pyramide viser pyramidebyggerne, mens de lærte deres håndværk.
+0631|Djosers trinpyramide
+0632|Monumentale skulpturer i Memfis
+0633|Den Knækkede Pyramide og Den Røde Pyramide
+0634|Saqqara
+0635|Djosers trinpyramide og omgivelserne
+0636|Memfis
+0637|Dahshur
+0638|Den Knækkede Pyramide
+0639|Den Røde Pyramide
+0640|Kombinér med en dag i Giza for en rejseplan med fokus på pyramider
+0641|Det koptiske Kairo på en halv dag
+0642|Halv dag
+0643|Den Hængende Kirke, historiske gyder og nærliggende kulturarvssteder i det gamle Kairo.
+0644|En fokuseret halv dag i hjertet af Egyptens kristne kulturarv. Udforsk Den Hængende Kirke, bygget oven på et porthus i Babylon-fæstningen, og de stille gyder omkring den.
+0645|Nærliggende kulturarvssteder, herunder Ben Ezra-synagogen, tilføjes alt efter, hvad der er åbent på dagen.
+0646|Gyderne i det koptiske Kairo
+0647|Nærliggende kulturarvssteder, når de er åbne
+0648|Historiske gyder og nærliggende kulturarvssteder
+0649|Gyder til fods
+0650|Det koptiske Kairos historiske gyder udforskes til fods.
+0651|Kombinér med Nationalmuseet for Egyptisk Civilisation for en hel dag
+0652|Aften på Nilen & markedet
+0653|Aften
+0654|En forudbestilt feluk eller en oplevelse ved Nilen, derefter et traditionelt marked, hvis tiden tillader det.
+0655|Afslut en dag med monumenter i roligt tempo. Sejl i en forudbestilt feluk, eller nyd en oplevelse ved Nilen, mens byens lys tændes.
+0656|Hvis tiden tillader det, fortsætter du til et traditionelt marked for en aftentur.
+0657|Kairo set fra floden
+0658|Et traditionelt marked om aftenen
+0659|Flod og marked
+0660|Feluktur eller oplevelse ved Nilen
+0661|Besøg på et traditionelt marked, hvis tiden tillader det
+0662|Middag arrangeres efter ønske
+0663|Felukoperatør, varighed, afgangssted og sikkerhedsforhold
+0664|Luxor på tre dage
+0665|3 dage
+0666|Østbreddens templer og museer, Kongernes Dal og Hatshepsuts tempel, derefter Medinet Habu og et udvalg af Adelsgrave.
+0667|Et afbalanceret første besøg i oldtidens Theben. Dag ét foregår på østbredden med Karnak, et museum og en aften ved Luxortemplet. Dag to krydser floden tidligt for at se kongegravene og Hatshepsuts terrassetempel.
+0668|Dag tre sætter tempoet ned med Medinet Habu, Ramesseum eller Deir el-Medina og to eller tre Adelsgrave udvalgt blandt dem, der er åbne på dagen. Hver dag tilpasses din energi og dine interesser i stedet for at blive fyldt med alle seværdigheder.
+0669|Den Store Søjlehal i Karnak
+0670|Kongegrave i Kongernes Dal
+0671|Hatshepsuts tempel i Deir el-Bahari
+0672|Malede scener fra hverdagslivet i Adelsgravene
+0673|Dag 1
+0674|Østbreddens templer og museer
+0675|Karnak-tempelkomplekset, med frilandsmuseet hvis det er åbent
+0676|Luxor-museet eller Mumificeringsmuseet
+0677|Luxortemplet og en strækning af Sfinksalléen, afhængigt af åbningstider
+0678|Dag 2
+0679|Kongernes Dal, Hatshepsut og kolosserne
+0680|Tidligt
+0681|Kongernes Dal med besøg i de grave, der indgår i standardbilletten
+0682|Særlige grave som Tutankhamons eller Seti I's, med separate billetter, når de er åbne
+0683|Hatshepsuts tempel i Deir el-Bahari
+0684|Fotostop ved Memnonkolosserne
+0685|Dronningernes Dal, kun hvis tid, energi og adgang tillader det
+0686|Hvilke grave der er åbne på dagen, fastsættes af stedet og skifter af hensyn til bevaringen. Vi lover aldrig en bestemt grav.
+0687|Dag 3
+0688|Dødetempler og Adelsgrave
+0689|Ramesseum eller Deir el-Medina
+0690|To eller tre Adelsgrave, der er åbne og passer til jeres gruppe
+0691|Foretrækker du en specialdag? Dendera eller Esna kan erstatte denne dag, selvom en separat dag ofte fungerer bedre.
+0692|Trapper og smalle gange
+0693|Gravene indebærer trapper, smalle gange og høje udendørstemperaturer. For familier og rejsende med nedsat mobilitet skærer vi ned på antallet af grave, lægger pauser ind og tjekker gåafstande og afsætningssteder.
+0694|Særbilletter til grave: Tutankhamon (KV62), Seti I (KV17), Nefertari (QV66), når de er åbne
+0695|Lys- og lydshow i Karnak
+0696|Ballonflyvning, afhængigt af vejr, tilladelser og operatørens bekræftelse
+0697|En separat dagstur til Dendera eller Esna
+0698|Overfart over Nilen til vestbredden
+0699|Standard- og særbilletter
+0700|Overnatning til dine nætter i Luxor
+0701|Fotograferingsregler og eventuelle ekstra gebyrer
+0702|Oplev Aswan & Nubien på 7 dage
+0703|7 dage
+0704|Aswans store seværdigheder, en dag med nubisk kultur, Abu Simbel, Ny Kalabsha og en valgfri afslutning ved Nassersøen eller mod nord.
+0705|En uge til virkelig at forstå Aswan og Nubien. De første dage dækker Philae, Den Ufærdige Obelisk, Nubien-museet, Elephantine og øerne, efterfulgt af en hel dag med nubisk kultur i Gharb Soheil.
+0706|Anden halvdel går mod syd: en lang dag til Abu Simbel, de reddede templer i Ny Kalabsha og en dag reserveret til afsidesliggende steder ved Nassersøen, hvis en specialtur kan arrangeres. Sidste dag går enten nordpå via Kom Ombo og Edfu eller bliver i Aswan.
+0707|Isis-templet på Philae, nået med båd
+0708|Gharb Soheil og valgfri nubisk gæstfrihed
+0709|Ramses II's og Nefertaris templer i Abu Simbel
+0710|Kalabsha, reddet fra Nassersøen
+0711|Højdæmningen, Philae og Den Ufærdige Obelisk
+0713|Mødested ved dit hotel eller lufthavnen
+0715|Højdæmningen, når adgangen er bekræftet
+0717|Båd fra Philae-landgangen til templet, omkring to timer på stedet
+0719|Frokost
+0721|Den Ufærdige Obelisk og granitbruddene
+0723|Retur til hotellet; soukken om aftenen
+0724|Museer, øer og vestbredden
+0726|Elephantine-øen og nilometeret, hvis de er åbne
+0728|Den Botaniske Have
+0730|Adelsgravene, hvis gangforhold og tid tillader det
+0731|Nil-promenaden eller en kort feluktur
+0732|Nubisk kultur og Nilen
+0733|Gharb Soheil
+0734|En kulturel gåtur blandt håndværk og huse
+0736|Nubisk gæstfrihed eller frokost
+0738|En tur på Nilen forbi øerne
+0740|Fri tid til fotografering og shopping
+0741|Dag 4
+0742|Afgang, tilpasset de bekræftede transportordninger
+0743|Ramses II's store tempel og Nefertaris tempel, med tid til fortolkning og fotografering
+0744|Pause, derefter retur til Aswan
+0745|En lang dag på omkring 10 til 12 timer i alt. Rute, adgang og gældende anvisninger bekræftes på forhånd.
+0746|Dag 5
+0747|Kalabsha og nærliggende nubiske monumenter
+0748|Kalabsha-templet i Ny Kalabsha
+0749|Beit el-Wali eller et andet nærliggende sted, kun hvis adgang og indgang kan sikres
+0750|Retur til Aswan
+0751|Ikke alle templer ved Nassersøen kan nås på et kort besøg over land.
+0752|Dag 6
+0753|Specialdag ved Nassersøen eller en dag i Aswan
+0754|En forudarrangeret specialtur til tilgængelige steder som Amada, Wadi es-Sebua, Dakka eller Maharraqa
+0755|Lokalt alternativ: en reservedag til en lokal tur efter eget valg eller fri tid i Aswan
+0756|Disse afsidesliggende steder kan kræve en båd, overnatning eller flere dage. Vi tilbyder dem kun, når en specialrute er bekræftet; ellers gælder det lokale alternativ.
+0757|Dag 7
+0758|Kom Ombo og Edfu eller afrejse fra Aswan
+0759|Mulighed A: rejs nordpå til Kom Ombo og derefter Edfu og videre til Luxor kun, hvis tiden tillader det
+0760|Mulighed B: bliv i Aswan til soukken og promenaden, derefter transfer til lufthavnen eller banegården
+0761|Køretid, besøg, pauser og bagagehåndtering beregnes, før vi bekræfter et ankomsttidspunkt.
+0762|Overvejende moderat, med stigninger
+0763|Adelsgravene ved Qubbet el-Hawa indebærer stigning og gang, og Abu Simbel er en lang dag. Fortæl os om varmefølsomhed eller mobilitetsbehov, så tilpasser vi tempoet.
+0764|Specialtur til Nassersøen, kun efter forudgående aftale
+0765|Nubisk gæstfrihed eller frokost i Gharb Soheil
+0766|Videre rejse til Luxor via Kom Ombo og Edfu
+0767|Køretøj, kapacitet og afhentningssted
+0768|Både til Philae, øerne og de nubiske landsbyer
+0769|Entrébilletter
+0770|Overnatning i Aswan
+0771|Eventuelle tilladelser eller rutevejledninger for Abu Simbel og Nassersøen
+0772|Luftfoto af pyramidekomplekset i Giza
+0773|De tre pyramider i Giza set fra oven, med ørkenen bag dem
+0774|Kheops' store pyramide, der rejser sig fra Giza-plateauet
+0775|Khefrens pyramide med bevarede beklædningssten nær toppen
+0776|Mykerinos' pyramide, den mindste af de tre hovedpyramider i Giza
+0777|Den Store Sfinks i Giza
+0778|Den Store Sfinks i Giza foran pyramiderne
+0779|Pyramiderne i Giza set fra et panoramisk udsigtspunkt
+0780|Panoramisk udsigt over ørkenen mod de tre hovedpyramider i Giza
+0781|Det Store Egyptiske Museum
+0782|Det Store Egyptiske Museum set udefra nær Giza-pyramiderne
+0783|Det Egyptiske Museum ved Tahrir-pladsen
+0784|Den historiske røde facade på Det Egyptiske Museum ved Tahrir, Kairo
+0785|Nationalmuseet for Egyptisk Civilisation
+0786|Nationalmuseet for Egyptisk Civilisation i Fustat, det gamle Kairo
+0787|Museet for Islamisk Kunst, Kairo
+0788|Facaden på Museet for Islamisk Kunst ved Bab al-Khalq, Kairo
+0789|Abdeen-paladset, Kairo
+0790|Facaden på Abdeen-paladset i det centrale Kairo
+0791|Manial-paladset, Rhoda-øen
+0792|Manial-paladset og dets haver på Rhoda-øen, Kairo
+0793|Citadellet i Kairo
+0794|Citadellets mure i Kairo hævet over byen
+0795|Muhammad Ali-moskeen
+0796|Kuplerne og de slanke minareter på Muhammad Ali-moskeen
+0797|Sultan Hassans moské-madrasa
+0798|De monumentale stenmure på Sultan Hassans moské-madrasa
+0799|Al-Rifa'i-moskeen i det historiske Kairo
+0800|Historiske facader og minareter langs Al-Muizz-gaden
+0801|Khan el-Khalili-basaren
+0802|Lanterner og butiksfacader i gyderne i Khan el-Khalili
+0803|Den Hængende Kirke, det koptiske Kairo
+0804|Den Hængende Kirkes tvillingetårne i det koptiske Kairo
+0805|Den Hængende Kirke, et af det koptiske Kairos vartegn
+0806|Ben Ezra-synagogen i området ved det koptiske Kairo
+0807|En feluk på Nilen i Kairo
+0808|En feluk med hvide sejl på Nilen i Kairo
+0809|Djosers trinpyramide, Saqqara
+0810|Djosers trinpyramide i Saqqara
+0811|Snofrus knækkede pyramide, Dahshur
+0812|Snofrus knækkede pyramide i Dahshur, hvis hældning ændrer sig halvvejs oppe
+0813|Kolossal statue af Ramses II, Memfis
+0814|Den kolossale statue af Ramses II i frilandsmuseet i Memfis
+0815|Wadi Deglas kalkstenskløft i udkanten af Kairo
+0816|Søjler i Den Store Søjlehal i Karnak
+0817|Luxortemplet med søjlegange og statuer af Ramses II
+0818|Helligdomsområdet i Luxortemplet
+0819|Inde i Luxortemplet nær helligdommen
+0820|Sfinksalléen, der fører til Luxortemplet
+0821|Rækker af sfinkser langs alléen mod Luxortemplet
+0822|Oldtidsgenstande udstillet på Luxor-museet
+0823|Mumificeringsmuseet, Luxor
+0824|Mumificeringsmuseet på Luxors strandpromenade
+0825|Abu Haggag-moskeen i Luxortemplets område
+0826|Abu Haggag-moskeen hævet over Luxortemplets område
+0827|Hatshepsuts dødetempel, Deir el-Bahari
+0828|Hatshepsuts terrassetempel under klipperne ved Deir el-Bahari
+0829|Memnonkolosserne
+0830|De to siddende Memnonkolosser på Thebens slette
+0831|Medinet Habu, Luxors vestbred
+0832|Udskårne porte og mure i Medinet Habu
+0833|Søjler og væltede statuer i Ramesseum
+0834|Resterne af håndværkerlandsbyen i Deir el-Medina
+0835|Kongernes Dal
+0836|Kongernes Dal på Luxors vestbred
+0837|Ramses IV's grav (KV2), Kongernes Dal
+0838|Det malede indre af Ramses IV's grav i Kongernes Dal
+0839|Tutankhamons grav (KV62)
+0840|Tutankhamons grav i Kongernes Dal
+0841|Dronningernes Dal
+0842|Nekropolen i Dronningernes Dal på Luxors vestbred
+0843|Adelsgravene, Luxors vestbred
+0844|Indgange til Adelsgravene i bjergskråningen på Luxors vestbred
+0845|Asasif-nekropolen på Luxors vestbred
+0846|Den søjlebårne facade på Hathor-templet i Dendera
+0847|Khnum-templet, Esna
+0848|Dekorerede søjler inde i Khnum-templet i Esna
+0849|Nilen ved Luxor
+0850|Nilen ved Luxor med vestbreddens bakker i baggrunden
+0851|Isis-templet på Philae, Agilkia-øen
+0852|Isis-templet på Philae spejlet i Nilen
+0853|Den Ufærdige Obelisk, Aswan
+0854|Den Ufærdige Obelisk liggende i Aswans granitbrud
+0855|Højdæmningen ved Aswan
+0856|Højdæmningen ved Aswan, der holder Nassersøen tilbage
+0857|Nubien-museet, Aswan
+0858|Nubien-museet i Aswan
+0859|Elephantine-øen, Aswan
+0860|Elephantine-øen i Nilen ved Aswan
+0861|Aswans Botaniske Have, Kitchener-øen
+0862|Palmer og tropiske træer i Aswans Botaniske Have
+0863|Felukker på Nilen ved Aswan
+0864|Felukker, der sejler mellem granitøer ved Aswan
+0865|Den nubiske landsby Gharb Soheil
+0866|Farvestrålende huse i den nubiske landsby Gharb Soheil
+0867|Qubbet el-Hawa og Adelsgravene, Aswan
+0868|Klippegrave på Qubbet el-Hawa-bakken over Nilen
+0869|Sankt Simeons kloster, Aswan
+0870|Lerstensmurene på Sankt Simeons kloster i ørkenen
+0871|Aga Khans mausoleum set fra Nilen
+0872|Aga Khans mausoleum på bakken over Nilen ved Aswan
+0873|Aswans marked og strandpromenade
+0874|Markedsgaderne i Aswan
+0875|Ramses II's store tempel, Abu Simbel
+0876|De fire siddende kolosser af Ramses II i Abu Simbel
+0877|Kalabsha-templet, Ny Kalabsha
+0878|Kalabsha-templet ved bredden af Nassersøen
+0879|Klippetemplet Beit el-Wali
+0880|Det lille klippetempel Beit el-Wali
+0881|Nassersøens åbne vand og ørkenbredder
+0882|Kom Ombo-templet
+0883|Dobbelttemplet i Kom Ombo over Nilen
+0884|Horus-templet i Edfu
+0885|Den store pylon ved Horus-templet i Edfu
