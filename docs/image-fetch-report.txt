@@ -3,77 +3,77 @@
 > tsx scripts/verify-images.ts
 
 
-accepted (20)
-  citadel: CC BY 4.0, E.Hassan
-  coptic-cairo: CC BY 3.0 pl, Radosław Botev
-  djoser: CC BY-SA 4.0, Dr. Ondřej Havelka (cestovatel)
-  karnak: CC BY 2.0, eviljohnius
-  luxor-temple: CC BY-SA 4.0, Ahmed hussein salleh
-  luxor-temple-sanctuary: CC BY 4.0, Vyacheslav Argenberg
-  avenue-sphinxes: CC BY-SA 4.0, Mohamedibrahem2025
-  luxor-museum: Public domain, ولاء
-  mummification-museum: CC BY-SA 4.0, MoGamal11
-  hatshepsut: CC BY 4.0, Vyacheslav Argenberg
-  colossi: CC BY 2.0, Ray in Manila
-  medinet-habu: CC BY-SA 4.0, Sara Nabih
-  ramesseum: CC BY-SA 4.0, Bilal Detailz
-  deir-el-medina: CC BY-SA 4.0, Diego Delso
-  valley-kings: CC BY-SA 3.0, Wouter Hagens
-  kv2: CC BY 3.0, Tim Adams
-  tutankhamun: CC BY-SA 4.0, Photo by: Yassmin Anwar / تصوير: ياسمين أنور
-  valley-queens: Public domain, Original uploader was User:Kingtut at hu.wikipedia
-  dendera: Public domain, ولاء
-  esna: CC BY-SA 4.0, Harby6020
+accepted (31)
+  giza-aerial: CC0, lumoplank
+  khafre: CC BY-SA 3.0, Daaaveee
+  menkaure: CC BY 3.0, David Broad
+  sphinx: CC BY-SA 4.0, Petar Milošević
+  nmec: CC BY 4.0, Nabbegat
+  abdeen: CC BY-SA 2.5, Gérard Ducher (user:Néfermaât)
+  manial: CC BY-SA 4.0, Mohamed abdelzaher
+  muhammad-ali: CC BY-SA 3.0, kallerna
+  sultan-hassan: CC BY 3.0, Berthold Werner
+  muizz: CC BY-SA 4.0, Hatem Moushir
+  khan: CC BY-SA 4.0, Mohammed Moussa
+  hanging-church: CC BY-SA 4.0, Daniel Mayer
+  ben-ezra: CC BY-SA 3.0, Faris knight
+  dahshur: CC BY-SA 4.0, Darer101
+  memphis: CC BY 4.0, Vyacheslav Argenberg
+  luxor-corniche: CC BY 3.0, Marc Ryckaert (MJJR)
+  philae: CC BY 3.0, Marc Ryckaert
+  unfinished-obelisk: CC BY-SA 4.0, Diego Delso
+  high-dam: CC BY-SA 3.0, شرف الدين
+  nubia-museum: CC BY 3.0, Marc Ryckaert
+  elephantine: CC BY 3.0, Marc Ryckaert (MJJR)
+  botanical-garden: CC BY-SA 4.0, Pierre André Leclercq
+  aswan-felucca: CC BY 3.0, Marc Ryckaert (MJJR)
+  qubbet-el-hawa: CC BY-SA 3.0, Rémih
+  st-simeon: CC BY 3.0, Olaf Tausch
+  abu-simbel: CC BY-SA 4.0, Diego Delso
+  kalabsha: CC BY-SA 2.0, Carole Raddato
+  beit-el-wali: CC BY-SA 2.0, Carole Raddato
+  lake-nasser: CC BY-SA 2.0, Przemyslaw "Blueshade" Idzkiewicz
+  kom-ombo: CC BY 3.0, Olaf Tausch
+  edfu: CC BY-SA 4.0, Marc Ryckaert
 
 refused (0)
 
-missing (19)
-  giza-aerial: File:Giza pyramid complex (aerial view).jpg does not exist
-  khafre: File:Khafre Pyramid.JPG does not exist
-  menkaure: File:Menkaure Pyramid.jpg does not exist
-  sphinx: File:Great Sphinx of Giza.JPG does not exist
-  nmec: File:National Museum of Egyptian Civilization.jpg does not exist
+missing (3)
   islamic-art: File:Museum of Islamic Art Cairo.jpg does not exist
-  abdeen: File:Abdeen Palace Cairo.jpg does not exist
-  manial: File:Manial Palace Cairo.jpg does not exist
-  muhammad-ali: File:Mosque of Muhammad Ali Cairo.jpg does not exist
-  sultan-hassan: File:Sultan Hassan Mosque Cairo.jpg does not exist
   rifai: File:Al-Rifa i Mosque Cairo.jpg does not exist
-  muizz: File:Al-Muizz Street Cairo.jpg does not exist
-  khan: File:Khan el-Khalili Cairo.jpg does not exist
-  hanging-church: File:The Hanging Church Cairo.jpg does not exist
-  ben-ezra: File:Ben Ezra Synagogue Cairo.jpg does not exist
   cairo-felucca: File:Felucca on the Nile Cairo.jpg does not exist
-  dahshur: File:Bent Pyramid of Sneferu at Dahshur.jpg does not exist
-  memphis: File:Ramses II statue Memphis Egypt.jpg does not exist
-  wadi-degla: File:Wadi Degla Protectorate Egypt.jpg does not exist
 
-skipped (26)
+skipped (31)
   khufu: already verified (use --refresh to check again)
   giza-panorama: already verified (use --refresh to check again)
   gem: already verified (use --refresh to check again)
   egyptian-museum: already verified (use --refresh to check again)
+  citadel: already verified (use --refresh to check again)
+  coptic-cairo: already verified (use --refresh to check again)
+  djoser: already verified (use --refresh to check again)
+  wadi-degla: no candidate file
+  karnak: already verified (use --refresh to check again)
+  luxor-temple: already verified (use --refresh to check again)
+  luxor-temple-sanctuary: already verified (use --refresh to check again)
+  avenue-sphinxes: already verified (use --refresh to check again)
+  luxor-museum: already verified (use --refresh to check again)
+  mummification-museum: already verified (use --refresh to check again)
   abu-haggag: The Luxor guide links a Luxor Temple sanctuary photograph for this mosque, so it was not used.
+  hatshepsut: already verified (use --refresh to check again)
+  colossi: already verified (use --refresh to check again)
+  medinet-habu: already verified (use --refresh to check again)
+  ramesseum: already verified (use --refresh to check again)
+  deir-el-medina: already verified (use --refresh to check again)
+  valley-kings: already verified (use --refresh to check again)
+  kv2: already verified (use --refresh to check again)
+  tutankhamun: already verified (use --refresh to check again)
+  valley-queens: already verified (use --refresh to check again)
   nobles-tombs: The Luxor guide reused a Valley of the Kings photograph for this entry, so it was not used.
   asasif: The Luxor guide reused a Valley of the Kings photograph for this entry, so it was not used.
-  luxor-corniche: no candidate file
-  philae: no candidate file
-  unfinished-obelisk: no candidate file
-  high-dam: no candidate file
-  nubia-museum: no candidate file
-  elephantine: no candidate file
-  botanical-garden: no candidate file
-  aswan-felucca: no candidate file
+  dendera: already verified (use --refresh to check again)
+  esna: already verified (use --refresh to check again)
   gharb-soheil: no candidate file
-  qubbet-el-hawa: no candidate file
-  st-simeon: no candidate file
   aga-khan: no candidate file
   aswan-souq: no candidate file
-  abu-simbel: no candidate file
-  kalabsha: no candidate file
-  beit-el-wali: no candidate file
-  lake-nasser: no candidate file
-  kom-ombo: no candidate file
-  edfu: no candidate file
 
 Rebuild the site, then check each accepted photo on /en/image-credits shows the right place.
