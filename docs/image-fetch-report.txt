@@ -1,0 +1,79 @@
+
+> syaha-tour@0.1.0 images:verify
+> tsx scripts/verify-images.ts
+
+
+accepted (4)
+  khufu: CC BY 2.5, Nina
+  giza-panorama: CC BY-SA 4.0, Ireneusz Jerzy Borysiewicz
+  gem: CC BY-SA 4.0, Mohamed abdelzaher
+  egyptian-museum: CC BY 3.0 pl, Radosław Botev
+
+refused (33)
+  abdeen: Commons API returned 429
+  manial: Commons API returned 429
+  citadel: Commons API returned 429
+  muhammad-ali: Commons API returned 429
+  sultan-hassan: Commons API returned 429
+  rifai: Commons API returned 429
+  muizz: Commons API returned 429
+  khan: Commons API returned 429
+  hanging-church: Commons API returned 429
+  coptic-cairo: Commons API returned 429
+  ben-ezra: Commons API returned 429
+  cairo-felucca: Commons API returned 429
+  djoser: Commons API returned 429
+  dahshur: Commons API returned 429
+  memphis: Commons API returned 429
+  wadi-degla: Commons API returned 429
+  karnak: Commons API returned 429
+  luxor-temple: Commons API returned 429
+  luxor-temple-sanctuary: Commons API returned 429
+  avenue-sphinxes: Commons API returned 429
+  luxor-museum: Commons API returned 429
+  mummification-museum: Commons API returned 429
+  hatshepsut: Commons API returned 429
+  colossi: Commons API returned 429
+  medinet-habu: Commons API returned 429
+  ramesseum: Commons API returned 429
+  deir-el-medina: Commons API returned 429
+  valley-kings: Commons API returned 429
+  kv2: Commons API returned 429
+  tutankhamun: Commons API returned 429
+  valley-queens: Commons API returned 429
+  dendera: Commons API returned 429
+  esna: Commons API returned 429
+
+missing (6)
+  giza-aerial: File:Giza pyramid complex (aerial view).jpg does not exist
+  khafre: File:Khafre Pyramid.JPG does not exist
+  menkaure: File:Menkaure Pyramid.jpg does not exist
+  sphinx: File:Great Sphinx of Giza.JPG does not exist
+  nmec: File:National Museum of Egyptian Civilization.jpg does not exist
+  islamic-art: File:Museum of Islamic Art Cairo.jpg does not exist
+
+skipped (22)
+  abu-haggag: The Luxor guide links a Luxor Temple sanctuary photograph for this mosque, so it was not used.
+  nobles-tombs: The Luxor guide reused a Valley of the Kings photograph for this entry, so it was not used.
+  asasif: The Luxor guide reused a Valley of the Kings photograph for this entry, so it was not used.
+  luxor-corniche: no candidate file
+  philae: no candidate file
+  unfinished-obelisk: no candidate file
+  high-dam: no candidate file
+  nubia-museum: no candidate file
+  elephantine: no candidate file
+  botanical-garden: no candidate file
+  aswan-felucca: no candidate file
+  gharb-soheil: no candidate file
+  qubbet-el-hawa: no candidate file
+  st-simeon: no candidate file
+  aga-khan: no candidate file
+  aswan-souq: no candidate file
+  abu-simbel: no candidate file
+  kalabsha: no candidate file
+  beit-el-wali: no candidate file
+  lake-nasser: no candidate file
+  kom-ombo: no candidate file
+  edfu: no candidate file
+
+Rebuild the site, then check each accepted photo on /en/image-credits shows the right place.
