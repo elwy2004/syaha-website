@@ -55,10 +55,18 @@ export default async function CreditsPage({ params }: Props) {
                         <td className="py-3 pr-4 font-medium text-nile">{subject(p.id)}</td>
                         <td className="py-3 pr-4">{p.photo.creator}</td>
                         <td className="py-3 pr-4">
-                          {p.photo.licenseUrl ? <a className="underline underline-offset-2" href={p.photo.licenseUrl} rel="license noopener" target="_blank">{p.photo.license}</a> : p.photo.license}
+                          {p.photo.supplied ? t.permission : p.photo.licenseUrl ? <a className="underline underline-offset-2" href={p.photo.licenseUrl} rel="license noopener" target="_blank">{p.photo.license}</a> : p.photo.license}
                         </td>
                         <td className="py-3">
-                          <a className="underline underline-offset-2" href={p.photo.sourceUrl} target="_blank" rel="noopener">Wikimedia Commons</a>
+                          {p.photo.supplied ? (
+                            p.photo.sourceUrl ? (
+                              <a className="underline underline-offset-2" href={p.photo.sourceUrl} target="_blank" rel="noopener">{t.supplied}</a>
+                            ) : (
+                              t.supplied
+                            )
+                          ) : (
+                            <a className="underline underline-offset-2" href={p.photo.sourceUrl} target="_blank" rel="noopener">Wikimedia Commons</a>
+                          )}
                         </td>
                       </tr>
                     ))}

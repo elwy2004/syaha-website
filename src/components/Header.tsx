@@ -8,13 +8,13 @@ import { LanguageSwitcher } from "./LanguageSwitcher";
 import type { Locale } from "@/i18n/config";
 
 type NavCopy = {
-  nav: { destinations: string; allDestinations: string; experiences: string; journeysShort: string; contact: string; plan: string; home: string; journeys: string };
+  nav: { destinations: string; allDestinations: string; experiences: string; journeysShort: string; contact: string; plan: string; home: string; journeys: string; stays: string };
   a11y: { openMenu: string; closeMenu: string; mainNav: string; language: string };
 };
 
 type DestinationLink = { slug: string; name: string; tagline: string };
 
-const OVERLAY = [/^\/[a-z]{2}\/?$/, /^\/[a-z]{2}\/destinations\/[^/]+\/?$/, /^\/[a-z]{2}\/journeys\/[^/]+\/?$/];
+const OVERLAY = [/^\/[a-z]{2}\/?$/, /^\/[a-z]{2}\/stay(\/[^/]+)?\/?$/, /^\/[a-z]{2}\/destinations\/[^/]+\/?$/, /^\/[a-z]{2}\/journeys\/[^/]+\/?$/];
 
 export function Header({
   locale,
@@ -138,6 +138,11 @@ export function Header({
               </Link>
             </li>
             <li>
+              <Link href={`${base}/stay`} className={linkClass("/stay")} aria-current={isActive("/stay") ? "page" : undefined}>
+                {copy.nav.stays}
+              </Link>
+            </li>
+            <li>
               <Link href={`${base}/contact`} className={linkClass("/contact")} aria-current={isActive("/contact") ? "page" : undefined}>
                 {copy.nav.contact}
               </Link>
@@ -210,6 +215,7 @@ export function Header({
               {[
                 ["/experiences", copy.nav.experiences],
                 ["/journeys", copy.nav.journeys],
+                ["/stay", copy.nav.stays],
                 ["/contact", copy.nav.contact],
               ].map(([path, label]) => (
                 <li key={path}>

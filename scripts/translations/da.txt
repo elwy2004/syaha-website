@@ -872,3 +872,80 @@
 0883|Dobbelttemplet i Kom Ombo over Nilen
 0884|Horus-templet i Edfu
 0885|Den store pylon ved Horus-templet i Edfu
+0886|Ophold
+0887|Boutique-ophold
+0888|Anakob · Mango Guesthouse
+0889|Særprægede steder at hvile på og ved Nilen, hver med sin egen nubiske karakter.
+0890|Steder at bo i Aswan
+0891|Anakob, Aswans første flydende boutiquehotel, og Mango Guesthouse på Elephantine-øen: to steder at bo i Aswan med Syaha Tour.
+0892|Oplev {name}
+0893|Spørg om et ophold
+0894|Besøg {site}
+0895|Galleri
+0896|Udforsk Aswan
+0897|Også i Aswan
+0898|Leveret af stedet
+0899|Brugt med tilladelse
+0900|Anakob
+0901|Anakob · Elephantine-øen, Aswan
+0902|Nubiens magi, fra Nilen.
+0903|Aswans første flydende boutiquehotel, skabt omkring floden, lyset og Nubiens kunst.
+0904|Anakob er Aswans første flydende boutiquehotel, inspireret af nubisk kunst og kultur, og alle soveværelser har udsigt over Nilen. Spørg Syaha Tour om et ophold.
+0905|Aswans første flydende boutiquehotel
+0906|Skabt med udsigten over Nilen for øje
+0907|Anakob er det nyeste, og det første, flydende boutiquehotel i Aswan. Det afspejler nubisk kunst og kultur i rammer, der er trendy, moderne og komfortable, og det er designet og placeret med udsigten over Nilen for øje: Alle soveværelser vender ud mod floden, og fællesarealerne har panoramaudsigt i alle retninger.
+0908|Anakob på Nilen, Aswan
+0909|Soveværelser med Nil-udsigt og soldækket
+0910|Skabt til floden og den sydlige sol
+0911|Et ovenlys til den sydlige sol
+0912|Ovenlyset har en varmereflekterende, gennemsigtig film og er placeret, så du kan nyde Øvre Egyptens store sol uden den voldsomme hede.
+0913|Et soldæk formet som et sejl
+0914|Solsejlet over soldækket er lavet af ét stykke spændt dug med hjørnerne i forskellige højder, så det minder om sejlet på en traditionel feluk.
+0915|Værelser skabt til klimaet
+0916|Hvert værelse er designet med det varme klima for øje. Aircondition, skodder og isolerede vægge holder det behageligt, selv midt om sommeren.
+0917|Soldækket
+0918|Bo om bord på Anakob.
+0919|Fortæl os dine datoer, og hvem der rejser, så vender vi tilbage om et ophold om bord på Anakob under din tid i Aswan.
+0920|Mango Guesthouse
+0921|Mango Guesthouse · Elephantine-øen, Aswan
+0922|En ø-velkomst på nubisk vis.
+0923|Lokal gæstfrihed, traditionel mad og ølivets blide rytme midt i Nilen ved Aswan.
+0924|Lokal gæstfrihed og traditionel nubisk mad blandt haverne på Elephantine-øen.
+0925|Mango Guesthouse ligger blandt haverne på Elephantine-øen i Aswan: lokal gæstfrihed, traditionel nubisk mad og ølivets roligere rytme.
+0926|Et nubisk hjem på Elephantine-øen
+0927|Midt i Nilen ved Aswan
+0928|Mango Guesthouse ligger blandt haverne på Elephantine-øen, midt i Nilen ved Aswan. Det er et sted for lokal gæstfrihed og traditionel nubisk mad, og for at opleve ølivets roligere rytme.
+0929|Frokost i gården
+0930|Traditionel nubisk mad, delt.
+0931|Lokal, traditionel nubisk mad på Mango Guesthouse på Elephantine-øen.
+0932|Måltiderne serveres i en skyggefuld gård, hvor gæsterne sætter sig sammen: en af de enkleste og varmeste måder at opleve nubisk gæstfrihed på.
+0933|Elephantine-øen
+0934|Livet på øen.
+0935|At bo på Elephantine betyder at komme væk fra travlheden i Aswan og samtidig være lige midt i den.
+0936|En ø i Nilen
+0937|Elephantine ligger midt i floden over for Aswan: en grøn ø med haver, palmer og stille stræder, som nås med en kort bådtur.
+0938|Nubiske landsbyer
+0939|Øen rummer nubiske landsbyer, hvor malede huse og hverdagslivet går i deres eget rolige tempo.
+0940|Det antikke Abu
+0941|På øens sydspids ligger ruinerne af det antikke Abu, en af Egyptens ældste bosættelser, og en af flodens historiske nilometre.
+0942|Tæt på det hele
+0943|Fra øen er Philae, de nubiske landsbyer på vestbredden og en feluk på floden alle let at nå.
+0944|Aswan og dens øer set fra oven
+0945|Bo på Mango Guesthouse.
+0946|Del dine datoer og planer, så vender vi tilbage om et ophold på Mango Guesthouse som en del af din rejse gennem Aswan.
+0947|Det flydende hotel Anakob i den blå time
+0948|Det flydende hotel Anakob oplyst på Nilen i Aswan i den blå time
+0949|Anakobs blå og hvide ydre på Nilen i Aswan
+0950|Anakob i skumringen
+0951|Anakob fortøjet på Nilen i skumringen med Aswans bakker bagved
+0952|Et soveværelse med Nil-udsigt om bord på Anakob
+0953|Et lyst soveværelse om bord på Anakob med nubisk-mønstrede tekstiler
+0954|Anakobs soldæk
+0955|Anakobs skyggefulde soldæk med nubiske tæpper og puder med udsigt over Nilen
+0956|Morgenmad på dækket om bord på Anakob
+0957|Morgenmad dækket op på Anakobs dæk med Nilen og ørkenklitter i baggrunden
+0958|Mango Guesthouse, Elephantine-øen
+0959|Mango Guesthouses gule facade blandt haverne på Elephantine-øen
+0960|Frokost i gården på Mango Guesthouse
+0961|Gæster deler et traditionelt nubisk måltid i den skyggefulde gård på Mango Guesthouse
+0962|Luftfoto af Nilen ved Aswan, dens grønne øer og ørkenen bagved

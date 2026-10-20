@@ -4,6 +4,7 @@ import { Photo } from "@/components/Photo";
 import { Finder } from "@/components/Finder";
 import { Container, CtaBand, JourneyCard, SectionHeading } from "@/components/blocks";
 import { Faqs } from "@/components/Faqs";
+import { StayCard } from "@/components/StayCard";
 import { getContent } from "@/content";
 import { interestIds, interestImages } from "@/content/interests";
 import type { Locale } from "@/i18n/config";
@@ -22,7 +23,7 @@ const featured = ["discover-aswan-nubia-7-days", "luxor-three-days", "pyramids-g
 
 export default async function Home({ params }: Props) {
   const { locale } = await params;
-  const { ui, destinations, journeys, attractions } = getContent(locale);
+  const { ui, destinations, journeys, attractions, stays } = getContent(locale);
   const t = ui.home;
   const picks = featured.map((s) => journeys.find((j) => j.slug === s)!).filter(Boolean);
 
@@ -196,6 +197,23 @@ export default async function Home({ params }: Props) {
               );
             })}
           </ul>
+        </Container>
+      </section>
+
+      {/* Boutique stays */}
+      <section className="py-24 sm:py-32" aria-labelledby="home-stays">
+        <Container>
+          <div className="flex flex-col justify-between gap-6 lg:flex-row lg:items-end">
+            <SectionHeading id="home-stays" eyebrow={t.staysEyebrow} title={t.staysTitle} body={t.staysBody} />
+            <Link href={href(locale, routes.stays)} className="btn btn-outline shrink-0 self-start text-nile lg:self-auto">
+              {ui.nav.stays}
+            </Link>
+          </div>
+          <div className="mt-14 grid gap-x-10 gap-y-16 md:grid-cols-2">
+            {stays.map((s) => (
+              <StayCard key={s.slug} locale={locale} stay={s} />
+            ))}
+          </div>
         </Container>
       </section>
 

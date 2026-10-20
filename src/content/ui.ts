@@ -28,6 +28,7 @@ export const ui = {
     contact: "Contact",
     plan: "Plan Your Trip",
     credits: "Image Credits",
+    stays: "Stays",
   },
   common: {
     explore: "Explore",
@@ -89,6 +90,9 @@ export const ui = {
     finderSubmit: "Show ideas",
     destinationsEyebrow: "Three destinations",
     destinationsTitle: "One river, three chapters of Egypt",
+    staysEyebrow: "Boutique stays",
+    staysTitle: "Anakob · Mango Guesthouse",
+    staysBody: "Distinctive places to rest on and beside the Nile, each with its own Nubian character.",
     introEyebrow: "Travelling with Syaha Tour",
     introTitle: "A journey planned around you, not a fixed departure",
     introBody: [
@@ -331,6 +335,20 @@ export const ui = {
     whatsapp: "WhatsApp",
     noDirect: "Direct contact details will appear here soon. In the meantime, please use the planning form.",
   },
+  staysPage: {
+    eyebrow: "Boutique stays",
+    title: "Places to stay in Aswan",
+    lead: "Distinctive places to rest on and beside the Nile, each with its own Nubian character.",
+    metaDescription: "Anakob, Aswan’s first floating boutique hotel, and Mango Guesthouse on Elephantine Island: two places to stay in Aswan with Syaha Tour.",
+    discover: "Discover {name}",
+  },
+  stayPage: {
+    ask: "Ask about a stay",
+    visit: "Visit {site}",
+    gallery: "Gallery",
+    explore: "Explore Aswan",
+    otherStay: "Also in Aswan",
+  },
   creditsPage: {
     title: "Image Credits",
     eyebrow: "Photography",
@@ -345,6 +363,8 @@ export const ui = {
     license: "Licence",
     source: "Source",
     pendingTitle: "Awaiting a verified photograph",
+    supplied: "Supplied by the property",
+    permission: "Used with permission",
   },
   footer: {
     tagline: "Tailored journeys through Cairo and Giza, Luxor, and Aswan and Nubia.",

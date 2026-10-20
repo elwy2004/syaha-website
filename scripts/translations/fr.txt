@@ -872,3 +872,80 @@
 0883|Le temple double de Kom Ombo dominant le Nil
 0884|Temple d'Horus à Edfou
 0885|Le grand pylône du temple d'Horus à Edfou
+0886|Séjours
+0887|Hébergements de charme
+0888|Anakob · Mango Guesthouse
+0889|Des lieux singuliers où se reposer sur le Nil et au bord du fleuve, chacun avec son propre caractère nubien.
+0890|Où séjourner à Assouan
+0891|Anakob, premier hôtel-boutique flottant d'Assouan, et le Mango Guesthouse sur l'île Éléphantine : deux lieux où séjourner à Assouan avec Syaha Tour.
+0892|Découvrir {name}
+0893|Se renseigner sur un séjour
+0894|Visiter {site}
+0895|Galerie
+0896|Explorer Assouan
+0897|Également à Assouan
+0898|Fourni par l'établissement
+0899|Utilisé avec autorisation
+0900|Anakob
+0901|Anakob · Île Éléphantine, Assouan
+0902|La magie de la Nubie, depuis le Nil.
+0903|Le premier hôtel-boutique flottant d'Assouan, conçu autour du fleuve, de la lumière et de l'art de la Nubie.
+0904|Anakob est le premier hôtel-boutique flottant d'Assouan, inspiré de l'art et de la culture nubiens, et chaque chambre donne sur le Nil. Renseignez-vous auprès de Syaha Tour.
+0905|Le premier hôtel-boutique flottant d'Assouan
+0906|Conçu pour la vue sur le Nil
+0907|Anakob est le plus récent, et le premier, hôtel-boutique flottant d'Assouan. Il reflète l'art et la culture nubiens dans un cadre tendance, moderne et confortable, et il a été conçu et positionné en pensant à la vue sur le Nil : chaque chambre donne sur le fleuve, et les espaces communs offrent des vues panoramiques dans toutes les directions.
+0908|Anakob sur le Nil, Assouan
+0909|Chambres avec vue sur le Nil et pont-soleil
+0910|Pensé pour le fleuve et le soleil du Sud
+0911|Une verrière pour le soleil du Sud
+0912|La verrière est équipée d'un film transparent réfléchissant la chaleur, orienté pour profiter du grand soleil de Haute-Égypte sans la chaleur écrasante.
+0913|Un pont-soleil en forme de voile
+0914|L'ombrage du pont-soleil est fait d'une seule pièce de toile tendue, dont les angles sont placés à des hauteurs différentes pour évoquer la voile d'une felouque traditionnelle.
+0915|Des chambres pensées pour le climat
+0916|Chaque chambre est conçue en tenant compte du climat chaud. Climatisation, volets et murs isolés y maintiennent le confort, même au cœur de l'été.
+0917|Le pont-soleil
+0918|Séjourner à bord d'Anakob.
+0919|Indiquez-nous vos dates et qui voyage, et nous reviendrons vers vous au sujet d'un séjour à bord d'Anakob pendant votre passage à Assouan.
+0920|Mango Guesthouse
+0921|Mango Guesthouse · Île Éléphantine, Assouan
+0922|Un accueil insulaire, à la nubienne.
+0923|Hospitalité locale, cuisine traditionnelle et doux rythme de la vie insulaire, au milieu du Nil à Assouan.
+0924|Hospitalité locale et cuisine nubienne traditionnelle au milieu des jardins de l'île Éléphantine.
+0925|Le Mango Guesthouse se trouve parmi les jardins de l'île Éléphantine à Assouan : hospitalité locale, cuisine nubienne traditionnelle et rythme paisible de la vie insulaire.
+0926|Une maison nubienne sur l'île Éléphantine
+0927|Au milieu du Nil à Assouan
+0928|Le Mango Guesthouse se trouve parmi les jardins de l'île Éléphantine, au milieu du Nil à Assouan. C'est un lieu d'hospitalité locale et de cuisine nubienne traditionnelle, où l'on découvre le rythme plus lent de la vie insulaire.
+0929|Déjeuner dans la cour
+0930|La cuisine nubienne traditionnelle, partagée.
+0931|Une cuisine nubienne locale et traditionnelle au Mango Guesthouse, sur l'île Éléphantine.
+0932|Les repas sont servis dans une cour ombragée où les convives s'attablent ensemble : l'une des façons les plus simples et les plus chaleureuses de découvrir l'hospitalité nubienne.
+0933|Île Éléphantine
+0934|La vie sur l'île.
+0935|Séjourner sur Éléphantine, c'est s'éloigner de l'agitation d'Assouan tout en restant en plein cœur de la ville.
+0936|Une île sur le Nil
+0937|Éléphantine se trouve au milieu du fleuve, face à Assouan : une île verte de jardins, de palmiers et de ruelles tranquilles, accessible par une courte traversée en bateau.
+0938|Villages nubiens
+0939|L'île abrite des villages nubiens, où les maisons peintes et la vie quotidienne suivent leur propre rythme tranquille.
+0940|L'antique Abou
+0941|À sa pointe sud se trouvent les ruines de l'antique Abou, l'un des plus anciens établissements d'Égypte, et l'un des nilomètres historiques du fleuve.
+0942|Proche de tout
+0943|Depuis l'île, Philae, les villages nubiens de la rive ouest et une felouque sur le fleuve sont facilement accessibles.
+0944|Assouan et ses îles vues du ciel
+0945|Séjourner au Mango Guesthouse.
+0946|Partagez vos dates et vos projets, et nous reviendrons vers vous au sujet d'un séjour au Mango Guesthouse pendant votre voyage à Assouan.
+0947|L'hôtel flottant Anakob à l'heure bleue
+0948|L'hôtel flottant Anakob illuminé sur le Nil à Assouan, à l'heure bleue
+0949|La façade bleue et blanche d'Anakob sur le Nil à Assouan
+0950|Anakob au crépuscule
+0951|Anakob amarré sur le Nil au crépuscule, avec les collines d'Assouan en arrière-plan
+0952|Une chambre avec vue sur le Nil à bord d'Anakob
+0953|Une chambre lumineuse à bord d'Anakob avec des textiles aux motifs nubiens
+0954|Le pont-soleil d'Anakob
+0955|Le pont-soleil ombragé d'Anakob avec tapis et coussins nubiens, face au Nil
+0956|Petit-déjeuner sur le pont d'Anakob
+0957|Petit-déjeuner servi sur le pont d'Anakob, avec le Nil et les dunes du désert au loin
+0958|Mango Guesthouse, île Éléphantine
+0959|La façade jaune du Mango Guesthouse parmi les jardins de l'île Éléphantine
+0960|Déjeuner dans la cour du Mango Guesthouse
+0961|Des convives partageant un repas nubien traditionnel dans la cour ombragée du Mango Guesthouse
+0962|Vue aérienne du Nil à Assouan, de ses îles verdoyantes et du désert au-delà

@@ -872,3 +872,80 @@
 0883|Il tempio doppio di Kom Ombo sopra il Nilo
 0884|Tempio di Horus a Edfu
 0885|Il grande pilone del Tempio di Horus a Edfu
+0886|Soggiorni
+0887|Soggiorni boutique
+0888|Anakob · Mango Guesthouse
+0889|Luoghi unici dove riposare sul Nilo e lungo le sue rive, ciascuno con il proprio carattere nubiano.
+0890|Dove soggiornare ad Assuan
+0891|Anakob, il primo boutique hotel galleggiante di Assuan, e il Mango Guesthouse sull'isola Elefantina: due luoghi dove soggiornare ad Assuan con Syaha Tour.
+0892|Scopri {name}
+0893|Chiedi informazioni su un soggiorno
+0894|Visita {site}
+0895|Galleria
+0896|Scopri Assuan
+0897|Sempre ad Assuan
+0898|Fornita dalla struttura
+0899|Utilizzata con autorizzazione
+0900|Anakob
+0901|Anakob · Isola Elefantina, Assuan
+0902|La magia della Nubia, dal Nilo.
+0903|Il primo boutique hotel galleggiante di Assuan, progettato attorno al fiume, alla luce e all'arte della Nubia.
+0904|Anakob è il primo boutique hotel galleggiante di Assuan, ispirato all'arte e alla cultura nubiana, e ogni camera da letto guarda sul Nilo. Chiedi a Syaha Tour di un soggiorno.
+0905|Il primo boutique hotel galleggiante di Assuan
+0906|Progettato per la vista sul Nilo
+0907|Anakob è il più recente, e il primo, boutique hotel galleggiante di Assuan. Riflette l'arte e la cultura nubiana in un ambiente di tendenza, moderno e confortevole, ed è stato progettato e posizionato pensando alla vista sul Nilo: ogni camera da letto si affaccia sul fiume e gli spazi comuni offrono viste panoramiche in ogni direzione.
+0908|Anakob sul Nilo, Assuan
+0909|Camere con vista sul Nilo e il ponte solarium
+0910|Pensato per il fiume e il sole del sud
+0911|Un lucernario per il sole del sud
+0912|Il lucernario è dotato di una pellicola trasparente che riflette il calore, posizionato per godersi il grande sole dell'Alto Egitto senza il caldo opprimente.
+0913|Un ponte solarium a forma di vela
+0914|La copertura del ponte solarium è realizzata con un unico telo tensionato, con gli angoli posti a altezze diverse per richiamare la vela di una feluca tradizionale.
+0915|Camere pensate per il clima
+0916|Ogni camera è progettata tenendo conto del clima caldo. Aria condizionata, persiane e pareti isolate la mantengono confortevole anche in piena estate.
+0917|Il ponte solarium
+0918|Soggiorna a bordo di Anakob.
+0919|Indicaci le tue date e chi viaggia con te, e ti ricontatteremo per un soggiorno a bordo di Anakob durante il tuo tempo ad Assuan.
+0920|Mango Guesthouse
+0921|Mango Guesthouse · Isola Elefantina, Assuan
+0922|Un benvenuto isolano, in stile nubiano.
+0923|Ospitalità locale, cucina tradizionale e il ritmo dolce della vita sull'isola, in mezzo al Nilo ad Assuan.
+0924|Ospitalità locale e cucina nubiana tradizionale tra i giardini dell'isola Elefantina.
+0925|Il Mango Guesthouse si trova tra i giardini dell'isola Elefantina ad Assuan: ospitalità locale, cucina nubiana tradizionale e il ritmo più lento della vita sull'isola.
+0926|Una casa nubiana sull'isola Elefantina
+0927|In mezzo al Nilo ad Assuan
+0928|Il Mango Guesthouse si trova tra i giardini dell'isola Elefantina, in mezzo al Nilo ad Assuan. È un luogo di ospitalità locale e cucina nubiana tradizionale, dove vivere il ritmo più lento della vita sull'isola.
+0929|Pranzo nel cortile
+0930|Cucina nubiana tradizionale, condivisa.
+0931|Cucina nubiana locale e tradizionale al Mango Guesthouse, sull'isola Elefantina.
+0932|I pasti sono serviti in un cortile ombreggiato dove gli ospiti siedono insieme: uno dei modi più semplici e calorosi per vivere l'ospitalità nubiana.
+0933|Isola Elefantina
+0934|La vita sull'isola.
+0935|Soggiornare a Elefantina significa allontanarsi dal trambusto di Assuan restando proprio al suo centro.
+0936|Un'isola nel Nilo
+0937|Elefantina si trova in mezzo al fiume, di fronte ad Assuan: un'isola verde di giardini, palme e vicoli tranquilli, raggiungibile con un breve tragitto in barca.
+0938|Villaggi nubiani
+0939|L'isola ospita villaggi nubiani, dove le case dipinte e la vita di tutti i giorni seguono il loro ritmo tranquillo.
+0940|L'antica Abu
+0941|Alla sua punta meridionale si trovano le rovine dell'antica Abu, uno dei più antichi insediamenti d'Egitto, e uno degli storici nilometri del fiume.
+0942|Vicino a tutto
+0943|Dall'isola, Philae, i villaggi nubiani della riva occidentale e una feluca sul fiume sono tutti facilmente raggiungibili.
+0944|Assuan e le sue isole dall'alto
+0945|Soggiorna al Mango Guesthouse.
+0946|Condividi le tue date e i tuoi programmi, e ti ricontatteremo per un soggiorno al Mango Guesthouse durante il tuo viaggio ad Assuan.
+0947|L'hotel galleggiante Anakob all'ora blu
+0948|L'hotel galleggiante Anakob illuminato sul Nilo ad Assuan all'ora blu
+0949|L'esterno bianco e blu di Anakob sul Nilo ad Assuan
+0950|Anakob al crepuscolo
+0951|Anakob ormeggiato sul Nilo al crepuscolo, con le colline di Assuan alle spalle
+0952|Una camera con vista sul Nilo a bordo di Anakob
+0953|Una camera luminosa a bordo di Anakob con tessuti a motivi nubiani
+0954|Il ponte solarium di Anakob
+0955|Il ponte solarium ombreggiato di Anakob con tappeti e cuscini nubiani, affacciato sul Nilo
+0956|Colazione sul ponte di Anakob
+0957|Colazione servita sul ponte di Anakob, con il Nilo e le dune del deserto sullo sfondo
+0958|Mango Guesthouse, isola Elefantina
+0959|La facciata gialla del Mango Guesthouse tra i giardini dell'isola Elefantina
+0960|Pranzo nel cortile del Mango Guesthouse
+0961|Ospiti che condividono un pasto nubiano tradizionale nel cortile ombreggiato del Mango Guesthouse
+0962|Veduta aerea del Nilo ad Assuan, delle sue isole verdi e del deserto oltre

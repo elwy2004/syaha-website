@@ -4,6 +4,7 @@ import { notFound } from "next/navigation";
 import { AttractionCard } from "@/components/AttractionCard";
 import { Breadcrumbs, Container, CtaBand, JourneyCard, PageHero, SectionHeading } from "@/components/blocks";
 import { FilterGrid } from "@/components/FilterGrid";
+import { StayCard } from "@/components/StayCard";
 import { Photo } from "@/components/Photo";
 import { fmt, getContent } from "@/content";
 import { destinations as sourceDestinations } from "@/content/destinations";
@@ -29,7 +30,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function DestinationPage({ params }: Props) {
   const { locale, slug } = await params;
-  const { ui, destinations, attractions, journeys } = getContent(locale);
+  const { ui, destinations, attractions, journeys, stays } = getContent(locale);
   const d = destinations.find((x) => x.slug === slug);
   if (!d) notFound();
   const t = ui.destinationPage;
@@ -133,6 +134,20 @@ export default async function DestinationPage({ params }: Props) {
           </div>
         </Container>
       </section>
+
+      {/* Stays (Aswan only) */}
+      {d.slug === "aswan-nubia" && (
+        <section className="border-t border-sand py-20 sm:py-28" aria-labelledby="stays-title">
+          <Container>
+            <SectionHeading id="stays-title" eyebrow={ui.staysPage.eyebrow} title={ui.staysPage.title} body={ui.staysPage.lead} />
+            <div className="mt-12 grid gap-x-10 gap-y-16 md:grid-cols-2">
+              {stays.map((s) => (
+                <StayCard key={s.slug} locale={locale} stay={s} />
+              ))}
+            </div>
+          </Container>
+        </section>
+      )}
 
       {/* Suggested itineraries */}
       <section className="border-t border-sand py-20 sm:py-28" aria-labelledby="journeys-title">

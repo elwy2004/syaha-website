@@ -1,6 +1,7 @@
 import { attractions as enAttractions } from "./attractions";
 import { destinations as enDestinations } from "./destinations";
 import { journeys as enJourneys } from "./journeys";
+import { stays as enStays } from "./stays";
 import { imageEntries } from "./images";
 import { ui as enUi } from "./ui";
 import { locales, defaultLocale, type Locale } from "@/i18n/config";
@@ -29,7 +30,7 @@ type LocaleFile = Dict & { _meta?: never };
 const SKIP = new Set([
   "id", "slug", "image", "heroImage", "cardImage", "group", "destination",
   "destinations", "interests", "days", "excursion", "attractions", "optional",
-  "commons", "from", "rejected", "focus", "motif", "tone",
+  "commons", "from", "rejected", "focus", "motif", "tone", "logo", "website", "gallery",
 ]);
 
 const imageCopy = imageEntries.map((e) => ({ id: e.id, subject: e.subject, alt: e.alt }));
@@ -39,6 +40,7 @@ const source = {
   destinations: enDestinations,
   attractions: enAttractions,
   journeys: enJourneys,
+  stays: enStays,
   images: imageCopy,
 };
 

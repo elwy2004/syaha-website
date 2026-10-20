@@ -92,3 +92,33 @@ export type Journey = {
 };
 
 export type Faq = { q: string; a: string };
+
+export type StaySection = {
+  id: string;
+  eyebrow?: string;
+  title: string;
+  body: string[];
+  items?: { id: string; title: string; body: string }[];
+  image: string;
+  caption?: string;
+};
+
+export type Stay = {
+  slug: string;
+  name: string;
+  /** Location line shown above the hero title. */
+  location: string;
+  title: string;
+  lead: string;
+  /** One or two sentences for cards on other pages. */
+  summary: string;
+  metaDescription: string;
+  heroImage: string;
+  cardImage: string;
+  logo: string;
+  website?: string;
+  sections: StaySection[];
+  gallery: string[];
+  ctaTitle: string;
+  ctaBody: string;
+};

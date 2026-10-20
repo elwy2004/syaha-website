@@ -872,3 +872,80 @@
 0883|Der Doppeltempel von Kom Ombo über dem Nil
 0884|Horus-Tempel von Edfu
 0885|Der große Pylon des Horus-Tempels von Edfu
+0886|Unterkünfte
+0887|Boutique-Unterkünfte
+0888|Anakob · Mango Guesthouse
+0889|Besondere Orte zum Ausruhen auf und am Nil, jeder mit seinem eigenen nubischen Charakter.
+0890|Übernachten in Assuan
+0891|Anakob, Assuans erstes schwimmendes Boutique-Hotel, und das Mango Guesthouse auf der Insel Elephantine: zwei Unterkünfte in Assuan mit Syaha Tour.
+0892|{name} entdecken
+0893|Nach einem Aufenthalt fragen
+0894|{site} besuchen
+0895|Galerie
+0896|Assuan entdecken
+0897|Ebenfalls in Assuan
+0898|Von der Unterkunft bereitgestellt
+0899|Mit Genehmigung verwendet
+0900|Anakob
+0901|Anakob · Insel Elephantine, Assuan
+0902|Der Zauber Nubiens, vom Nil aus.
+0903|Assuans erstes schwimmendes Boutique-Hotel, gestaltet rund um den Fluss, das Licht und die Kunst Nubiens.
+0904|Anakob ist Assuans erstes schwimmendes Boutique-Hotel, inspiriert von nubischer Kunst und Kultur, und jedes Schlafzimmer blickt auf den Nil. Fragen Sie Syaha Tour nach einem Aufenthalt.
+0905|Assuans erstes schwimmendes Boutique-Hotel
+0906|Mit Blick auf den Nil entworfen
+0907|Anakob ist das neueste und erste schwimmende Boutique-Hotel in Assuan. Es spiegelt nubische Kunst und Kultur in einem trendigen, modernen und komfortablen Rahmen wider und wurde mit Blick auf den Nil entworfen und ausgerichtet: Jedes Schlafzimmer schaut auf den Fluss, und die Gemeinschaftsbereiche bieten Panoramablicke in alle Richtungen.
+0908|Anakob auf dem Nil, Assuan
+0909|Schlafzimmer mit Nilblick und das Sonnendeck
+0910|Gemacht für den Fluss und die Sonne des Südens
+0911|Ein Oberlicht für die Sonne des Südens
+0912|Das Oberlicht ist mit einer wärmereflektierenden, transparenten Folie versehen und so ausgerichtet, dass Sie die großartige Sonne Oberägyptens ohne die drückende Hitze genießen können.
+0913|Ein Sonnendeck in Form eines Segels
+0914|Das Sonnensegel besteht aus einem einzigen Stück Membrangewebe, dessen Ecken auf unterschiedlichen Höhen liegen und so an das Segel einer traditionellen Feluke erinnern.
+0915|Zimmer, gemacht für das Klima
+0916|Jedes Zimmer ist auf das warme Klima ausgelegt. Klimaanlage, Fensterläden und isolierte Wände sorgen selbst im Hochsommer für angenehme Temperaturen.
+0917|Das Sonnendeck
+0918|Wohnen an Bord der Anakob.
+0919|Nennen Sie uns Ihre Reisedaten und wer mitreist, und wir melden uns zu einem Aufenthalt an Bord der Anakob während Ihrer Zeit in Assuan.
+0920|Mango Guesthouse
+0921|Mango Guesthouse · Insel Elephantine, Assuan
+0922|Ein Inselwillkommen, nubisch.
+0923|Gastfreundschaft vor Ort, traditionelles Essen und der sanfte Rhythmus des Insellebens, mitten im Nil bei Assuan.
+0924|Gastfreundschaft vor Ort und traditionelle nubische Küche inmitten der Gärten der Insel Elephantine.
+0925|Das Mango Guesthouse liegt inmitten der Gärten der Insel Elephantine in Assuan: Gastfreundschaft vor Ort, traditionelle nubische Küche und der ruhigere Rhythmus des Insellebens.
+0926|Ein nubisches Zuhause auf der Insel Elephantine
+0927|Mitten im Nil bei Assuan
+0928|Das Mango Guesthouse liegt inmitten der Gärten der Insel Elephantine, mitten im Nil bei Assuan. Es ist ein Ort für Gastfreundschaft vor Ort und traditionelle nubische Küche und um den ruhigeren Rhythmus des Insellebens zu erleben.
+0929|Mittagessen im Innenhof
+0930|Traditionelle nubische Küche, gemeinsam genossen.
+0931|Lokale, traditionelle nubische Küche im Mango Guesthouse auf der Insel Elephantine.
+0932|Die Mahlzeiten werden in einem schattigen Innenhof serviert, in dem die Gäste zusammen am Tisch sitzen: eine der einfachsten und herzlichsten Arten, nubische Gastfreundschaft zu erleben.
+0933|Insel Elephantine
+0934|Leben auf der Insel.
+0935|Auf Elephantine zu wohnen heißt, dem Trubel Assuans zu entkommen und doch mittendrin zu sein.
+0936|Eine Insel im Nil
+0937|Elephantine liegt mitten im Fluss gegenüber von Assuan: eine grüne Insel mit Gärten, Palmen und ruhigen Gassen, erreichbar mit einer kurzen Bootsfahrt.
+0938|Nubische Dörfer
+0939|Auf der Insel liegen nubische Dörfer, in denen bemalte Häuser und der Alltag ihren eigenen gemächlichen Gang gehen.
+0940|Das antike Abu
+0941|An ihrer Südspitze liegen die Ruinen des antiken Abu, einer der ältesten Siedlungen Ägyptens, und einer der historischen Nilometer des Flusses.
+0942|Nah an allem
+0943|Von der Insel aus sind Philae, die nubischen Dörfer am Westufer und eine Feluke auf dem Fluss leicht zu erreichen.
+0944|Assuan und seine Inseln von oben
+0945|Wohnen im Mango Guesthouse.
+0946|Teilen Sie uns Ihre Reisedaten und Pläne mit, und wir melden uns zu einem Aufenthalt im Mango Guesthouse während Ihrer Reise durch Assuan.
+0947|Das schwimmende Hotel Anakob zur blauen Stunde
+0948|Das beleuchtete schwimmende Hotel Anakob auf dem Nil in Assuan zur blauen Stunde
+0949|Die blau-weiße Außenseite der Anakob auf dem Nil in Assuan
+0950|Anakob in der Abenddämmerung
+0951|Die Anakob in der Abenddämmerung auf dem Nil vertäut, dahinter die Hügel von Assuan
+0952|Ein Schlafzimmer mit Nilblick an Bord der Anakob
+0953|Ein helles Schlafzimmer an Bord der Anakob mit nubisch gemusterten Textilien
+0954|Das Sonnendeck der Anakob
+0955|Das schattige Sonnendeck der Anakob mit nubischen Teppichen und Kissen, mit Blick auf den Nil
+0956|Frühstück an Deck der Anakob
+0957|Auf dem Deck der Anakob gedecktes Frühstück, dahinter der Nil und Wüstendünen
+0958|Mango Guesthouse, Insel Elephantine
+0959|Die gelbe Fassade des Mango Guesthouse inmitten der Gärten der Insel Elephantine
+0960|Mittagessen im Innenhof des Mango Guesthouse
+0961|Gäste bei einem traditionellen nubischen Essen im schattigen Innenhof des Mango Guesthouse
+0962|Luftaufnahme des Nils bei Assuan mit seinen grünen Inseln und der Wüste dahinter

@@ -68,9 +68,11 @@ export type VerifiedImage = {
   creator: string;
   license: string;
   licenseUrl?: string;
-  sourceUrl: string;
+  sourceUrl?: string;
   attribution: string;
-  commonsFile: string;
+  commonsFile?: string;
+  /** Photographs supplied by the owner or the property rather than Commons. */
+  supplied?: boolean;
   verifiedAt: string;
 };
 
@@ -146,6 +148,17 @@ const entries: ImageEntry[] = [
   { id: "lake-nasser", subject: "Lake Nasser", alt: "The open water and desert shores of Lake Nasser", motif: "lake", tone: "dawn", commons: "Abu Simbel, Nefertari Temple, Lake Nasser, Egypt, Oct 2004.jpg" },
   { id: "kom-ombo", subject: "Temple of Kom Ombo", alt: "The double Temple of Kom Ombo above the Nile", motif: "colonnade", tone: "dusk", commons: "Kom Ombo Portal 03.JPG" },
   { id: "edfu", subject: "Temple of Horus at Edfu", alt: "The great pylon of the Temple of Horus at Edfu", motif: "temple", tone: "day", commons: "Edfu Temple R04.jpg" },
+
+  // Stays (photographs supplied by the properties, from the owner's earlier site)
+  { id: "anakob-bluehour", subject: "Anakob floating hotel at blue hour", alt: "Anakob floating hotel lit up on the Nile at Aswan at blue hour", motif: "nile", tone: "night" },
+  { id: "anakob-exterior", subject: "Anakob on the Nile, Aswan", alt: "The blue and white exterior of Anakob on the Nile at Aswan", motif: "nile", tone: "day" },
+  { id: "anakob-dusk", subject: "Anakob at dusk", alt: "Anakob moored on the Nile at dusk, with the Aswan hills behind", motif: "nile", tone: "dusk" },
+  { id: "anakob-room", subject: "A Nile-view bedroom aboard Anakob", alt: "A bright bedroom aboard Anakob with Nubian-patterned textiles", motif: "nile", tone: "day" },
+  { id: "anakob-sundeck", subject: "The sundeck of Anakob", alt: "The shaded sundeck of Anakob with Nubian rugs and cushions, overlooking the Nile", motif: "nile", tone: "day" },
+  { id: "anakob-breakfast", subject: "Breakfast on deck aboard Anakob", alt: "Breakfast laid out on the deck of Anakob, with the Nile and desert dunes beyond", motif: "nile", tone: "dawn" },
+  { id: "mango-house", subject: "Mango Guesthouse, Elephantine Island", alt: "The yellow facade of Mango Guesthouse among the gardens of Elephantine Island", motif: "village", tone: "day" },
+  { id: "mango-lunch", subject: "Lunch in the courtyard at Mango Guesthouse", alt: "Guests sharing a traditional Nubian meal in the shaded courtyard of Mango Guesthouse", motif: "village", tone: "day" },
+  { id: "aswan-aerial", subject: "Aswan and its islands from above", alt: "Aerial view of the Nile at Aswan, its green islands and the desert beyond", motif: "island", tone: "dawn" },
 ];
 
 export const imageEntries = entries;

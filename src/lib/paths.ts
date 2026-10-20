@@ -15,6 +15,8 @@ export const routes = {
   plan: "/plan-your-trip",
   contact: "/contact",
   credits: "/image-credits",
+  stays: "/stay",
+  stay: (slug: string) => `/stay/${slug}`,
 };
 
 export function planHref(locale: Locale, opts: { destination?: string; journey?: string } = {}) {

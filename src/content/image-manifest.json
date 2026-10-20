@@ -655,5 +655,102 @@
     "attribution": "Marc Ryckaert, CC BY-SA 4.0, via Wikimedia Commons",
     "commonsFile": "Edfu Temple R04.jpg",
     "verifiedAt": "2026-10-20"
+  },
+  "anakob-bluehour": {
+    "src": "/images/anakob-bluehour.webp",
+    "width": 2000,
+    "height": 1333,
+    "creator": "Anakob",
+    "license": "Used with permission",
+    "sourceUrl": "https://anakob.com",
+    "attribution": "Photography: Anakob",
+    "supplied": true,
+    "verifiedAt": "2026-10-20"
+  },
+  "anakob-exterior": {
+    "src": "/images/anakob-exterior.webp",
+    "width": 750,
+    "height": 499,
+    "creator": "Anakob",
+    "license": "Used with permission",
+    "sourceUrl": "https://anakob.com",
+    "attribution": "Photography: Anakob",
+    "supplied": true,
+    "verifiedAt": "2026-10-20"
+  },
+  "anakob-dusk": {
+    "src": "/images/anakob-dusk.webp",
+    "width": 2000,
+    "height": 1500,
+    "creator": "Anakob",
+    "license": "Used with permission",
+    "sourceUrl": "https://anakob.com",
+    "attribution": "Photography: Anakob",
+    "supplied": true,
+    "verifiedAt": "2026-10-20"
+  },
+  "anakob-room": {
+    "src": "/images/anakob-room.webp",
+    "width": 2000,
+    "height": 1333,
+    "creator": "Anakob",
+    "license": "Used with permission",
+    "sourceUrl": "https://anakob.com",
+    "attribution": "Photography: Anakob",
+    "supplied": true,
+    "verifiedAt": "2026-10-20"
+  },
+  "anakob-sundeck": {
+    "src": "/images/anakob-sundeck.webp",
+    "width": 2000,
+    "height": 1333,
+    "creator": "Anakob",
+    "license": "Used with permission",
+    "sourceUrl": "https://anakob.com",
+    "attribution": "Photography: Anakob",
+    "supplied": true,
+    "verifiedAt": "2026-10-20"
+  },
+  "anakob-breakfast": {
+    "src": "/images/anakob-breakfast.webp",
+    "width": 2000,
+    "height": 1500,
+    "creator": "Anakob",
+    "license": "Used with permission",
+    "sourceUrl": "https://anakob.com",
+    "attribution": "Photography: Anakob",
+    "supplied": true,
+    "verifiedAt": "2026-10-20"
+  },
+  "mango-house": {
+    "src": "/images/mango-house.webp",
+    "width": 2000,
+    "height": 1500,
+    "creator": "Mango Guesthouse",
+    "license": "Used with permission",
+    "attribution": "Photography: Mango Guesthouse",
+    "supplied": true,
+    "verifiedAt": "2026-10-20"
+  },
+  "mango-lunch": {
+    "src": "/images/mango-lunch.webp",
+    "width": 1500,
+    "height": 2000,
+    "creator": "Mango Guesthouse",
+    "license": "Used with permission",
+    "attribution": "Photography: Mango Guesthouse",
+    "supplied": true,
+    "verifiedAt": "2026-10-20"
+  },
+  "aswan-aerial": {
+    "src": "/images/aswan-aerial.webp",
+    "width": 1920,
+    "height": 1279,
+    "creator": "Anakob",
+    "license": "Used with permission",
+    "sourceUrl": "https://anakob.com",
+    "attribution": "Photography: Anakob",
+    "supplied": true,
+    "verifiedAt": "2026-10-20"
   }
 }

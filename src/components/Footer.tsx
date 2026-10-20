@@ -38,6 +38,7 @@ export function Footer({ locale }: { locale: Locale }) {
             <ul className="mt-4 space-y-2.5">
               <li><Link href={href(locale, routes.experiences)} className="link-underline hover:text-ivory">{ui.nav.experiences}</Link></li>
               <li><Link href={href(locale, routes.journeys)} className="link-underline hover:text-ivory">{ui.nav.journeys}</Link></li>
+              <li><Link href={href(locale, routes.stays)} className="link-underline hover:text-ivory">{ui.nav.stays}</Link></li>
               <li><Link href={href(locale, routes.credits)} className="link-underline hover:text-ivory">{ui.nav.credits}</Link></li>
             </ul>
           </div>
