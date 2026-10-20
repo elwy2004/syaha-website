@@ -3,38 +3,7 @@
 > tsx scripts/verify-images.ts
 
 
-accepted (31)
-  giza-aerial: CC0, lumoplank
-  khafre: CC BY-SA 3.0, Daaaveee
-  menkaure: CC BY 3.0, David Broad
-  sphinx: CC BY-SA 4.0, Petar Milošević
-  nmec: CC BY 4.0, Nabbegat
-  abdeen: CC BY-SA 2.5, Gérard Ducher (user:Néfermaât)
-  manial: CC BY-SA 4.0, Mohamed abdelzaher
-  muhammad-ali: CC BY-SA 3.0, kallerna
-  sultan-hassan: CC BY 3.0, Berthold Werner
-  muizz: CC BY-SA 4.0, Hatem Moushir
-  khan: CC BY-SA 4.0, Mohammed Moussa
-  hanging-church: CC BY-SA 4.0, Daniel Mayer
-  ben-ezra: CC BY-SA 3.0, Faris knight
-  dahshur: CC BY-SA 4.0, Darer101
-  memphis: CC BY 4.0, Vyacheslav Argenberg
-  luxor-corniche: CC BY 3.0, Marc Ryckaert (MJJR)
-  philae: CC BY 3.0, Marc Ryckaert
-  unfinished-obelisk: CC BY-SA 4.0, Diego Delso
-  high-dam: CC BY-SA 3.0, شرف الدين
-  nubia-museum: CC BY 3.0, Marc Ryckaert
-  elephantine: CC BY 3.0, Marc Ryckaert (MJJR)
-  botanical-garden: CC BY-SA 4.0, Pierre André Leclercq
-  aswan-felucca: CC BY 3.0, Marc Ryckaert (MJJR)
-  qubbet-el-hawa: CC BY-SA 3.0, Rémih
-  st-simeon: CC BY 3.0, Olaf Tausch
-  abu-simbel: CC BY-SA 4.0, Diego Delso
-  kalabsha: CC BY-SA 2.0, Carole Raddato
-  beit-el-wali: CC BY-SA 2.0, Carole Raddato
-  lake-nasser: CC BY-SA 2.0, Przemyslaw "Blueshade" Idzkiewicz
-  kom-ombo: CC BY 3.0, Olaf Tausch
-  edfu: CC BY-SA 4.0, Marc Ryckaert
+accepted (0)
 
 refused (0)
 
@@ -43,14 +12,29 @@ missing (3)
   rifai: File:Al-Rifa i Mosque Cairo.jpg does not exist
   cairo-felucca: File:Felucca on the Nile Cairo.jpg does not exist
 
-skipped (31)
+skipped (71)
+  giza-aerial: already verified (use --refresh to check again)
   khufu: already verified (use --refresh to check again)
+  khafre: already verified (use --refresh to check again)
+  menkaure: already verified (use --refresh to check again)
+  sphinx: already verified (use --refresh to check again)
   giza-panorama: already verified (use --refresh to check again)
   gem: already verified (use --refresh to check again)
   egyptian-museum: already verified (use --refresh to check again)
+  nmec: already verified (use --refresh to check again)
+  abdeen: already verified (use --refresh to check again)
+  manial: already verified (use --refresh to check again)
   citadel: already verified (use --refresh to check again)
+  muhammad-ali: already verified (use --refresh to check again)
+  sultan-hassan: already verified (use --refresh to check again)
+  muizz: already verified (use --refresh to check again)
+  khan: already verified (use --refresh to check again)
+  hanging-church: already verified (use --refresh to check again)
   coptic-cairo: already verified (use --refresh to check again)
+  ben-ezra: already verified (use --refresh to check again)
   djoser: already verified (use --refresh to check again)
+  dahshur: already verified (use --refresh to check again)
+  memphis: already verified (use --refresh to check again)
   wadi-degla: no candidate file
   karnak: already verified (use --refresh to check again)
   luxor-temple: already verified (use --refresh to check again)
@@ -72,8 +56,31 @@ skipped (31)
   asasif: The Luxor guide reused a Valley of the Kings photograph for this entry, so it was not used.
   dendera: already verified (use --refresh to check again)
   esna: already verified (use --refresh to check again)
+  luxor-corniche: already verified (use --refresh to check again)
+  philae: already verified (use --refresh to check again)
+  unfinished-obelisk: already verified (use --refresh to check again)
+  high-dam: already verified (use --refresh to check again)
+  nubia-museum: already verified (use --refresh to check again)
+  elephantine: already verified (use --refresh to check again)
+  botanical-garden: already verified (use --refresh to check again)
+  aswan-felucca: already verified (use --refresh to check again)
   gharb-soheil: no candidate file
+  qubbet-el-hawa: already verified (use --refresh to check again)
+  st-simeon: already verified (use --refresh to check again)
   aga-khan: no candidate file
   aswan-souq: no candidate file
-
-Rebuild the site, then check each accepted photo on /en/image-credits shows the right place.
+  abu-simbel: already verified (use --refresh to check again)
+  kalabsha: already verified (use --refresh to check again)
+  beit-el-wali: already verified (use --refresh to check again)
+  lake-nasser: already verified (use --refresh to check again)
+  kom-ombo: already verified (use --refresh to check again)
+  edfu: already verified (use --refresh to check again)
+  anakob-bluehour: already verified (use --refresh to check again)
+  anakob-exterior: already verified (use --refresh to check again)
+  anakob-dusk: already verified (use --refresh to check again)
+  anakob-room: already verified (use --refresh to check again)
+  anakob-sundeck: already verified (use --refresh to check again)
+  anakob-breakfast: already verified (use --refresh to check again)
+  mango-house: already verified (use --refresh to check again)
+  mango-lunch: already verified (use --refresh to check again)
+  aswan-aerial: already verified (use --refresh to check again)
