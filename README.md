@@ -70,7 +70,7 @@ English content in `src/content/*.ts` is the source of truth. Translations live 
 
 ## Images
 
-No third-party photographs are shown yet. Every image slot renders an original illustration until a photograph's existence and licence have been verified. Run `npm run images:verify` on a machine that can reach Wikimedia Commons, then review the results as described in [IMAGE-CREDITS.md](IMAGE-CREDITS.md).
+Every image slot renders an original illustration until a photograph's existence and licence have been verified. On Vercel, `npm run build` first runs `images:verify`, which checks each candidate on Wikimedia Commons, keeps only CC0, public domain, CC BY and CC BY-SA files, and downloads them. If Commons cannot be reached, the build continues with illustrations. Locally, set `FETCH_IMAGES=true` or run `npm run images:verify`. The script cannot tell whether a photo shows the right place, so review every photo on `/en/image-credits` before launch, as described in [IMAGE-CREDITS.md](IMAGE-CREDITS.md).
 
 ## Content rules
 

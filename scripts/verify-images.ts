@@ -4,6 +4,10 @@
 //   npm run images:verify -- --dry-run    report only, change nothing
 //   npm run images:verify -- --only khufu,sphinx
 //
+// `npm run build` runs it with --build: on Vercel (or with FETCH_IMAGES=true)
+// it fetches the photos before the site is built, and any failure only leaves
+// the illustrations in place instead of failing the deploy.
+//
 // For each image entry with a `commons` file name (and no `rejected` reason) it:
 //   1. asks the Commons API whether the file exists,
 //   2. reads the licence and author from the file page metadata,
@@ -28,6 +32,11 @@ const manifestPath = join(root, "src/content/image-manifest.json");
 const outDir = join(root, "public/images");
 
 const dryRun = process.argv.includes("--dry-run");
+const buildStep = process.argv.includes("--build");
+if (buildStep && !process.env.VERCEL && process.env.FETCH_IMAGES !== "true") {
+  console.log("images:verify skipped (set FETCH_IMAGES=true to fetch photos during a local build)");
+  process.exit(0);
+}
 const onlyAt = process.argv.indexOf("--only");
 const only = onlyAt > -1 ? new Set(process.argv[onlyAt + 1].split(",")) : null;
 
@@ -56,7 +65,7 @@ async function lookup(file: string) {
     format: "json",
     formatversion: "2",
   });
-  const res = await fetch(`${API}?${params}`, { headers: { "User-Agent": USER_AGENT } });
+  const res = await fetch(`${API}?${params}`, { headers: { "User-Agent": USER_AGENT }, signal: AbortSignal.timeout(20000) });
   if (!res.ok) throw new Error(`Commons API returned ${res.status}`);
   const data = await res.json();
   const page = data?.query?.pages?.[0];
@@ -108,7 +117,7 @@ async function main() {
         report.accepted.push(`${entry.id}: ${license}, ${creator}`);
         continue;
       }
-      const img = await fetch(info.thumburl ?? info.url, { headers: { "User-Agent": USER_AGENT } });
+      const img = await fetch(info.thumburl ?? info.url, { headers: { "User-Agent": USER_AGENT }, signal: AbortSignal.timeout(20000) });
       if (!img.ok) throw new Error(`download returned ${img.status}`);
       const out = await sharp!(Buffer.from(await img.arrayBuffer()))
         .rotate()
@@ -147,5 +156,6 @@ async function main() {
 
 main().catch((err) => {
   console.error(err);
-  process.exit(1);
+  // A build must not fail because Commons is unreachable; the illustrations stay.
+  process.exit(buildStep ? 0 : 1);
 });
