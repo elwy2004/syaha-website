@@ -24,11 +24,11 @@ jobs:
           node-version: 20
           cache: npm
       - run: npm ci
-      - run: npm run images:verify
+      - run: npm run images:verify 2>&1 | tee docs/image-fetch-report.txt
       - name: Commit results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/images src/content/image-manifest.json
+          git add public/images src/content/image-manifest.json docs/image-fetch-report.txt
           git diff --cached --quiet || git commit -m "Add licence-checked photos from Wikimedia Commons"
           git push
