@@ -778,7 +778,7 @@
 0789|Palacio de Abdín, El Cairo
 0790|La fachada del Palacio de Abdín en el centro de El Cairo
 0791|Palacio de Manial, isla de Roda
-0792|El Palacio de Manial y sus jardines en la isla de Roda, El Cairo
+0792|Interior tallado y con azulejos del Palacio de Manial, El Cairo
 0793|La Ciudadela de El Cairo
 0794|Las murallas de la Ciudadela de El Cairo sobre la ciudad
 0795|La mezquita de Mehmet Alí
@@ -838,7 +838,7 @@
 0849|El Nilo en Luxor
 0850|El Nilo en Luxor con las colinas de la orilla occidental al fondo
 0851|Templo de Isis en Filé, isla de Agilkia
-0852|El templo de Isis en Filé reflejado en el Nilo
+0852|Los pilonos del templo de Isis en Filé
 0853|El Obelisco Inacabado, Asuán
 0854|El Obelisco Inacabado tendido en la cantera de granito de Asuán
 0855|La Presa Alta de Asuán

@@ -778,7 +778,7 @@
 0789|Palazzo di Abdeen, Il Cairo
 0790|La facciata del Palazzo di Abdeen nel centro del Cairo
 0791|Palazzo di Manial, isola di Roda
-0792|Il Palazzo di Manial e i suoi giardini sull'isola di Roda, Il Cairo
+0792|Interni intagliati e piastrellati del Palazzo di Manial, Il Cairo
 0793|La Cittadella del Cairo
 0794|Le mura della Cittadella del Cairo sopra la città
 0795|La moschea di Muhammad Ali
@@ -838,7 +838,7 @@
 0849|Il Nilo a Luxor
 0850|Il Nilo a Luxor con le colline della riva occidentale sullo sfondo
 0851|Tempio di Iside a Philae, isola di Agilkia
-0852|Il Tempio di Iside a Philae riflesso nel Nilo
+0852|I piloni del Tempio di Iside a Philae
 0853|L'Obelisco Incompiuto, Assuan
 0854|L'Obelisco Incompiuto disteso nella cava di granito di Assuan
 0855|La Grande Diga di Assuan

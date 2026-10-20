@@ -778,7 +778,7 @@
 0789|Palais d'Abdeen, Le Caire
 0790|La façade du palais d'Abdeen dans le centre du Caire
 0791|Palais de Manial, île de Rodah
-0792|Le palais de Manial et ses jardins sur l'île de Rodah, Le Caire
+0792|Intérieur sculpté et carrelé du palais de Manial, Le Caire
 0793|La Citadelle du Caire
 0794|Les remparts de la Citadelle du Caire dominant la ville
 0795|La mosquée de Méhémet Ali
@@ -838,7 +838,7 @@
 0849|Le Nil à Louxor
 0850|Le Nil à Louxor, avec les collines de la rive ouest au loin
 0851|Temple d'Isis à Philae, île d'Agilkia
-0852|Le temple d'Isis à Philae se reflétant dans le Nil
+0852|Les pylônes du temple d'Isis à Philae
 0853|L'obélisque inachevé, Assouan
 0854|L'obélisque inachevé couché dans la carrière de granit d'Assouan
 0855|Le Haut Barrage d'Assouan

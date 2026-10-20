@@ -778,7 +778,7 @@
 0789|Abdeen-Palast, Kairo
 0790|Die Fassade des Abdeen-Palasts in der Innenstadt von Kairo
 0791|Manial-Palast, Insel Roda
-0792|Der Manial-Palast und seine Gärten auf der Insel Roda, Kairo
+0792|Geschnitztes und gekacheltes Interieur des Manial-Palastes, Kairo
 0793|Die Zitadelle von Kairo
 0794|Die Mauern der Zitadelle von Kairo über der Stadt
 0795|Die Muhammad-Ali-Moschee
@@ -838,7 +838,7 @@
 0849|Der Nil bei Luxor
 0850|Der Nil bei Luxor mit den Hügeln des Westufers dahinter
 0851|Isis-Tempel von Philae, Insel Agilkia
-0852|Der Isis-Tempel von Philae spiegelt sich im Nil
+0852|Die Pylone des Isis-Tempels von Philae
 0853|Der Unvollendete Obelisk, Assuan
 0854|Der Unvollendete Obelisk im Granitsteinbruch von Assuan
 0855|Der Assuan-Hochdamm

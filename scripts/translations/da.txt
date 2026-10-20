@@ -778,7 +778,7 @@
 0789|Abdeen-paladset, Kairo
 0790|Facaden på Abdeen-paladset i det centrale Kairo
 0791|Manial-paladset, Rhoda-øen
-0792|Manial-paladset og dets haver på Rhoda-øen, Kairo
+0792|Udskåret og flisebelagt interiør i Manial-paladset, Kairo
 0793|Citadellet i Kairo
 0794|Citadellets mure i Kairo hævet over byen
 0795|Muhammad Ali-moskeen
@@ -838,7 +838,7 @@
 0849|Nilen ved Luxor
 0850|Nilen ved Luxor med vestbreddens bakker i baggrunden
 0851|Isis-templet på Philae, Agilkia-øen
-0852|Isis-templet på Philae spejlet i Nilen
+0852|Pylonerne ved Isis-templet på Philae
 0853|Den Ufærdige Obelisk, Aswan
 0854|Den Ufærdige Obelisk liggende i Aswans granitbrud
 0855|Højdæmningen ved Aswan
