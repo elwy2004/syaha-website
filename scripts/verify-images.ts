@@ -4,9 +4,8 @@
 //   npm run images:verify -- --dry-run    report only, change nothing
 //   npm run images:verify -- --only khufu,sphinx
 //
-// `npm run build` runs it with --build: on Vercel (or with FETCH_IMAGES=true)
-// it fetches the photos before the site is built, and any failure only leaves
-// the illustrations in place instead of failing the deploy.
+// With --build it runs only on Vercel or with FETCH_IMAGES=true, and a failure
+// never fails the build. The Fetch images GitHub Action normally runs it.
 //
 // For each image entry with a `commons` file name (and no `rejected` reason) it:
 //   1. asks the Commons API whether the file exists,
@@ -23,9 +22,8 @@
 import { mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 import { imageEntries, type VerifiedImage } from "../src/content/images";
+import { API, commonsFetch, licenceProblem, stripHtml } from "./commons";
 
-const API = "https://commons.wikimedia.org/w/api.php";
-const USER_AGENT = "SyahaTourImageVerifier/1.0 (image licence check for a travel website)";
 const WIDTH = 2000;
 const root = join(__dirname, "..");
 const manifestPath = join(root, "src/content/image-manifest.json");
@@ -33,6 +31,7 @@ const outDir = join(root, "public/images");
 
 const dryRun = process.argv.includes("--dry-run");
 const buildStep = process.argv.includes("--build");
+const refresh = process.argv.includes("--refresh");
 if (buildStep && !process.env.VERCEL && process.env.FETCH_IMAGES !== "true") {
   console.log("images:verify skipped (set FETCH_IMAGES=true to fetch photos during a local build)");
   process.exit(0);
@@ -41,19 +40,6 @@ const onlyAt = process.argv.indexOf("--only");
 const only = onlyAt > -1 ? new Set(process.argv[onlyAt + 1].split(",")) : null;
 
 type Meta = Record<string, { value?: string } | undefined>;
-
-function stripHtml(html = "") {
-  return html.replace(/<[^>]*>/g, "").replace(/&amp;/g, "&").replace(/\s+/g, " ").trim();
-}
-
-/** Returns the reason a licence is refused, or null if it is acceptable. */
-function licenceProblem(name: string): string | null {
-  if (!name) return "no licence in file metadata";
-  if (/\b(NC|ND)\b|non-?commercial|no-?deriv/i.test(name)) return `licence not allowed: ${name}`;
-  if (/^(CC0|Public domain|PD\b|PD-)/i.test(name)) return null;
-  if (/^CC BY(-SA)? \d(\.\d)?/i.test(name)) return null;
-  return `licence not on allowlist: ${name}`;
-}
 
 async function lookup(file: string) {
   const params = new URLSearchParams({
@@ -65,7 +51,7 @@ async function lookup(file: string) {
     format: "json",
     formatversion: "2",
   });
-  const res = await fetch(`${API}?${params}`, { headers: { "User-Agent": USER_AGENT }, signal: AbortSignal.timeout(20000) });
+  const res = await commonsFetch(`${API}?${params}`);
   if (!res.ok) throw new Error(`Commons API returned ${res.status}`);
   const data = await res.json();
   const page = data?.query?.pages?.[0];
@@ -88,6 +74,10 @@ async function main() {
 
   for (const entry of imageEntries) {
     if (only && !only.has(entry.id)) continue;
+    if (manifest[entry.id] && !refresh) {
+      report.skipped.push(`${entry.id}: already verified (use --refresh to check again)`);
+      continue;
+    }
     if (entry.rejected || !entry.commons) {
       report.skipped.push(`${entry.id}: ${entry.rejected ?? "no candidate file"}`);
       continue;
@@ -117,7 +107,7 @@ async function main() {
         report.accepted.push(`${entry.id}: ${license}, ${creator}`);
         continue;
       }
-      const img = await fetch(info.thumburl ?? info.url, { headers: { "User-Agent": USER_AGENT }, signal: AbortSignal.timeout(20000) });
+      const img = await commonsFetch(info.thumburl ?? info.url);
       if (!img.ok) throw new Error(`download returned ${img.status}`);
       const out = await sharp!(Buffer.from(await img.arrayBuffer()))
         .rotate()

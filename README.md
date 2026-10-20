@@ -70,7 +70,7 @@ English content in `src/content/*.ts` is the source of truth. Translations live 
 
 ## Images
 
-Every image slot renders an original illustration until a photograph's existence and licence have been verified. On Vercel, `npm run build` first runs `images:verify`, which checks each candidate on Wikimedia Commons, keeps only CC0, public domain, CC BY and CC BY-SA files, and downloads them. If Commons cannot be reached, the build continues with illustrations. Locally, set `FETCH_IMAGES=true` or run `npm run images:verify`. The script cannot tell whether a photo shows the right place, so review every photo on `/en/image-credits` before launch, as described in [IMAGE-CREDITS.md](IMAGE-CREDITS.md).
+Every image slot renders an original illustration until a photograph's existence and licence have been verified. The **Fetch images** GitHub Action runs `npm run images:verify` whenever the image list changes: it checks each candidate on Wikimedia Commons, keeps only CC0, public domain, CC BY and CC BY-SA files, and commits local copies to `public/images` with credits in `src/content/image-manifest.json`. It also saves previews of further candidates in `docs/image-candidates/` for slots still without a photo. The script cannot tell whether a photo shows the right place, so review every photo on `/en/image-credits` before launch, as described in [IMAGE-CREDITS.md](IMAGE-CREDITS.md).
 
 ## Content rules
 

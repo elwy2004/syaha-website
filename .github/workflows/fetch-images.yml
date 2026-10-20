@@ -9,6 +9,8 @@ on:
     paths:
       - src/content/images.ts
       - scripts/verify-images.ts
+      - scripts/commons.ts
+      - scripts/find-image-candidates.ts
       - .github/workflows/fetch-images.yml
 
 permissions:
@@ -25,10 +27,12 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run images:verify 2>&1 | tee docs/image-fetch-report.txt
+      - name: Find candidates for slots still without a photo
+        run: npx tsx scripts/find-image-candidates.ts
       - name: Commit results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add public/images src/content/image-manifest.json docs/image-fetch-report.txt
+          git add public/images src/content/image-manifest.json docs/image-fetch-report.txt docs/image-candidates
           git diff --cached --quiet || git commit -m "Add licence-checked photos from Wikimedia Commons"
           git push
