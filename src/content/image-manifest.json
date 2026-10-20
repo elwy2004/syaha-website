@@ -1,1 +1,50 @@
-{}
+{
+  "khufu": {
+    "src": "/images/khufu.webp",
+    "width": 1581,
+    "height": 971,
+    "creator": "Nina",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kheops-Pyramid.jpg",
+    "attribution": "Nina, CC BY 2.5, via Wikimedia Commons",
+    "commonsFile": "Kheops-Pyramid.jpg",
+    "verifiedAt": "2026-10-20"
+  },
+  "giza-panorama": {
+    "src": "/images/giza-panorama.webp",
+    "width": 2000,
+    "height": 1333,
+    "creator": "Ireneusz Jerzy Borysiewicz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pyramids_of_Giza.jpg",
+    "attribution": "Ireneusz Jerzy Borysiewicz, CC BY-SA 4.0, via Wikimedia Commons",
+    "commonsFile": "Pyramids of Giza.jpg",
+    "verifiedAt": "2026-10-20"
+  },
+  "gem": {
+    "src": "/images/gem.webp",
+    "width": 2000,
+    "height": 1333,
+    "creator": "Mohamed abdelzaher",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Grand_Egyptian_Museum.jpg",
+    "attribution": "Mohamed abdelzaher, CC BY-SA 4.0, via Wikimedia Commons",
+    "commonsFile": "Grand Egyptian Museum.jpg",
+    "verifiedAt": "2026-10-20"
+  },
+  "egyptian-museum": {
+    "src": "/images/egyptian-museum.webp",
+    "width": 2000,
+    "height": 1500,
+    "creator": "Radosław Botev",
+    "license": "CC BY 3.0 pl",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/pl/deed.en",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Egyptian_Museum_Cairo.jpg",
+    "attribution": "Radosław Botev",
+    "commonsFile": "Egyptian Museum Cairo.jpg",
+    "verifiedAt": "2026-10-20"
+  }
+}
