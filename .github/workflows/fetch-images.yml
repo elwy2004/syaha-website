@@ -4,6 +4,12 @@ name: Fetch images
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - src/content/images.ts
+      - scripts/verify-images.ts
+      - .github/workflows/fetch-images.yml
 
 permissions:
   contents: write
